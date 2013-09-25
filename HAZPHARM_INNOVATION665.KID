@@ -1,0 +1,4502 @@
+KIDS Distribution saved on Aug 21, 2013@12:34:36
+HAZPHARM INNOVATION 665
+**KIDS**:PSS*1.0*665^PSJ*5.0*665^
+
+**INSTALL NAME**
+PSS*1.0*665
+"BLD",8670,0)
+PSS*1.0*665^PHARMACY DATA MANAGEMENT^0^3130821^y
+"BLD",8670,1,0)
+^^2^2^3130821^
+"BLD",8670,1,1,0)
+Pharmacy Data Management portion of Innovation 665
+"BLD",8670,1,2,0)
+Hazardous Pharmaceuticals.
+"BLD",8670,4,0)
+^9.64PA^50.68^1
+"BLD",8670,4,50.68,0)
+50.68
+"BLD",8670,4,50.68,2,0)
+^9.641^50.68^1
+"BLD",8670,4,50.68,2,50.68,0)
+VA PRODUCT  (File-top level)
+"BLD",8670,4,50.68,2,50.68,1,0)
+^9.6411^107^7
+"BLD",8670,4,50.68,2,50.68,1,101,0)
+HAZARDOUS TO HANDLE
+"BLD",8670,4,50.68,2,50.68,1,102,0)
+HAZARDOUS TO DISPOSE
+"BLD",8670,4,50.68,2,50.68,1,103,0)
+PRIMARY EPA CODE
+"BLD",8670,4,50.68,2,50.68,1,104,0)
+WASTE SORT CODE
+"BLD",8670,4,50.68,2,50.68,1,105,0)
+DOT SHIPPING NAME
+"BLD",8670,4,50.68,2,50.68,1,106,0)
+LOCAL HTD
+"BLD",8670,4,50.68,2,50.68,1,107,0)
+LOCAL HTH
+"BLD",8670,4,50.68,222)
+y^y^p^^^^n^^n
+"BLD",8670,4,50.68,224)
+
+"BLD",8670,4,"APDD",50.68,50.68)
+
+"BLD",8670,4,"APDD",50.68,50.68,101)
+
+"BLD",8670,4,"APDD",50.68,50.68,102)
+
+"BLD",8670,4,"APDD",50.68,50.68,103)
+
+"BLD",8670,4,"APDD",50.68,50.68,104)
+
+"BLD",8670,4,"APDD",50.68,50.68,105)
+
+"BLD",8670,4,"APDD",50.68,50.68,106)
+
+"BLD",8670,4,"APDD",50.68,50.68,107)
+
+"BLD",8670,4,"B",50.68,50.68)
+
+"BLD",8670,6.3)
+2
+"BLD",8670,"KRN",0)
+^9.67PA^779.2^20
+"BLD",8670,"KRN",.4,0)
+.4
+"BLD",8670,"KRN",.401,0)
+.401
+"BLD",8670,"KRN",.402,0)
+.402
+"BLD",8670,"KRN",.403,0)
+.403
+"BLD",8670,"KRN",.5,0)
+.5
+"BLD",8670,"KRN",.84,0)
+.84
+"BLD",8670,"KRN",3.6,0)
+3.6
+"BLD",8670,"KRN",3.8,0)
+3.8
+"BLD",8670,"KRN",9.2,0)
+9.2
+"BLD",8670,"KRN",9.8,0)
+9.8
+"BLD",8670,"KRN",9.8,"NM",0)
+^9.68A^7^7
+"BLD",8670,"KRN",9.8,"NM",1,0)
+PSSHAZLU^^0^B5391800
+"BLD",8670,"KRN",9.8,"NM",2,0)
+PSSHAZLD^^0^B31745782
+"BLD",8670,"KRN",9.8,"NM",3,0)
+PSSHAZEE^^0^B37054100
+"BLD",8670,"KRN",9.8,"NM",4,0)
+PSSMIGRC^^0^B133798817
+"BLD",8670,"KRN",9.8,"NM",5,0)
+PSSMIGRD^^0^B215918766
+"BLD",8670,"KRN",9.8,"NM",6,0)
+PSSMIGRP^^0^B85163316
+"BLD",8670,"KRN",9.8,"NM",7,0)
+PSSMIGRR^^0^B142096466
+"BLD",8670,"KRN",9.8,"NM","B","PSSHAZEE",3)
+
+"BLD",8670,"KRN",9.8,"NM","B","PSSHAZLD",2)
+
+"BLD",8670,"KRN",9.8,"NM","B","PSSHAZLU",1)
+
+"BLD",8670,"KRN",9.8,"NM","B","PSSMIGRC",4)
+
+"BLD",8670,"KRN",9.8,"NM","B","PSSMIGRD",5)
+
+"BLD",8670,"KRN",9.8,"NM","B","PSSMIGRP",6)
+
+"BLD",8670,"KRN",9.8,"NM","B","PSSMIGRR",7)
+
+"BLD",8670,"KRN",19,0)
+19
+"BLD",8670,"KRN",19,"NM",0)
+^9.68A^5^5
+"BLD",8670,"KRN",19,"NM",1,0)
+PSS DRUG HAZARD ENTER/EDIT^^0
+"BLD",8670,"KRN",19,"NM",2,0)
+PSS DRUG HAZARD LOAD^^0
+"BLD",8670,"KRN",19,"NM",3,0)
+PSS DRUG HAZARD LOOKUP^^0
+"BLD",8670,"KRN",19,"NM",4,0)
+PSS DRUG HAZARD MISMATCH^^0
+"BLD",8670,"KRN",19,"NM",5,0)
+PSS DRUG HAZARD RESET^^0
+"BLD",8670,"KRN",19,"NM","B","PSS DRUG HAZARD ENTER/EDIT",1)
+
+"BLD",8670,"KRN",19,"NM","B","PSS DRUG HAZARD LOAD",2)
+
+"BLD",8670,"KRN",19,"NM","B","PSS DRUG HAZARD LOOKUP",3)
+
+"BLD",8670,"KRN",19,"NM","B","PSS DRUG HAZARD MISMATCH",4)
+
+"BLD",8670,"KRN",19,"NM","B","PSS DRUG HAZARD RESET",5)
+
+"BLD",8670,"KRN",19.1,0)
+19.1
+"BLD",8670,"KRN",19.1,"NM",0)
+^9.68A^5^5
+"BLD",8670,"KRN",19.1,"NM",1,0)
+PPSNSUPER^^0
+"BLD",8670,"KRN",19.1,"NM",2,0)
+PSS_PPSN_MANAGER^^0
+"BLD",8670,"KRN",19.1,"NM",3,0)
+PSS_PPSN_SUPERVISOR^^0
+"BLD",8670,"KRN",19.1,"NM",4,0)
+PSS_PPSN_SECOND_APPROVER^^0
+"BLD",8670,"KRN",19.1,"NM",5,0)
+PSS_PPSN_VIEWER^^0
+"BLD",8670,"KRN",19.1,"NM","B","PPSNSUPER",1)
+
+"BLD",8670,"KRN",19.1,"NM","B","PSS_PPSN_MANAGER",2)
+
+"BLD",8670,"KRN",19.1,"NM","B","PSS_PPSN_SECOND_APPROVER",4)
+
+"BLD",8670,"KRN",19.1,"NM","B","PSS_PPSN_SUPERVISOR",3)
+
+"BLD",8670,"KRN",19.1,"NM","B","PSS_PPSN_VIEWER",5)
+
+"BLD",8670,"KRN",101,0)
+101
+"BLD",8670,"KRN",409.61,0)
+409.61
+"BLD",8670,"KRN",771,0)
+771
+"BLD",8670,"KRN",779.2,0)
+779.2
+"BLD",8670,"KRN",870,0)
+870
+"BLD",8670,"KRN",8989.51,0)
+8989.51
+"BLD",8670,"KRN",8989.52,0)
+8989.52
+"BLD",8670,"KRN",8994,0)
+8994
+"BLD",8670,"KRN",8994,"NM",0)
+^9.68A^1^1
+"BLD",8670,"KRN",8994,"NM",1,0)
+PPS NDFMS SYNC^^0
+"BLD",8670,"KRN",8994,"NM","B","PPS NDFMS SYNC",1)
+
+"BLD",8670,"KRN","B",.4,.4)
+
+"BLD",8670,"KRN","B",.401,.401)
+
+"BLD",8670,"KRN","B",.402,.402)
+
+"BLD",8670,"KRN","B",.403,.403)
+
+"BLD",8670,"KRN","B",.5,.5)
+
+"BLD",8670,"KRN","B",.84,.84)
+
+"BLD",8670,"KRN","B",3.6,3.6)
+
+"BLD",8670,"KRN","B",3.8,3.8)
+
+"BLD",8670,"KRN","B",9.2,9.2)
+
+"BLD",8670,"KRN","B",9.8,9.8)
+
+"BLD",8670,"KRN","B",19,19)
+
+"BLD",8670,"KRN","B",19.1,19.1)
+
+"BLD",8670,"KRN","B",101,101)
+
+"BLD",8670,"KRN","B",409.61,409.61)
+
+"BLD",8670,"KRN","B",771,771)
+
+"BLD",8670,"KRN","B",779.2,779.2)
+
+"BLD",8670,"KRN","B",870,870)
+
+"BLD",8670,"KRN","B",8989.51,8989.51)
+
+"BLD",8670,"KRN","B",8989.52,8989.52)
+
+"BLD",8670,"KRN","B",8994,8994)
+
+"BLD",8670,"QUES",0)
+^9.62^^
+"FIA",50.68)
+VA PRODUCT
+"FIA",50.68,0)
+^PSNDF(50.68,
+"FIA",50.68,0,0)
+50.68
+"FIA",50.68,0,1)
+y^y^p^^^^n^^n
+"FIA",50.68,0,10)
+
+"FIA",50.68,0,11)
+
+"FIA",50.68,0,"RLRO")
+
+"FIA",50.68,0,"VR")
+1.0^PSS
+"FIA",50.68,50.68)
+1
+"FIA",50.68,50.68,101)
+
+"FIA",50.68,50.68,102)
+
+"FIA",50.68,50.68,103)
+
+"FIA",50.68,50.68,104)
+
+"FIA",50.68,50.68,105)
+
+"FIA",50.68,50.68,106)
+
+"FIA",50.68,50.68,107)
+
+"KRN",19,14220,-1)
+0^3
+"KRN",19,14220,0)
+PSS DRUG HAZARD LOOKUP^Hazardous Drug Lookup^^R^^^^^^^^PHARMACY DATA MANAGEMENT
+"KRN",19,14220,25)
+PSSHAZLU
+"KRN",19,14220,"U")
+HAZARDOUS DRUG LOOKUP
+"KRN",19,14221,-1)
+0^1
+"KRN",19,14221,0)
+PSS DRUG HAZARD ENTER/EDIT^Hazardous Drug Enter/Edit^^R^^^^^^^^PHARMACY DATA MANAGEMENT
+"KRN",19,14221,25)
+PSSHAZEE
+"KRN",19,14221,"U")
+HAZARDOUS DRUG ENTER/EDIT
+"KRN",19,14223,-1)
+0^2
+"KRN",19,14223,0)
+PSS DRUG HAZARD LOAD^Hazardous Drug Data Load^^R^^^^^^^^
+"KRN",19,14223,25)
+EN^PSSHAZLD
+"KRN",19,14223,"U")
+HAZARDOUS DRUG DATA LOAD
+"KRN",19,14225,-1)
+0^5
+"KRN",19,14225,0)
+PSS DRUG HAZARD RESET^Hazardous Drug Local Mod Flag Reset^^R^^^^^^^^
+"KRN",19,14225,25)
+CLEAR^PSSHAZEE
+"KRN",19,14225,"U")
+HAZARDOUS DRUG LOCAL MOD FLAG
+"KRN",19,14226,-1)
+0^4
+"KRN",19,14226,0)
+PSS DRUG HAZARD MISMATCH^Hazardous Drug Mismatch Report^^R^^^^^^^^
+"KRN",19,14226,25)
+RUNREPT^PSSHAZLD
+"KRN",19,14226,"U")
+HAZARDOUS DRUG MISMATCH REPORT
+"KRN",19.1,648,-1)
+0^2
+"KRN",19.1,648,0)
+PSS_PPSN_MANAGER^PPS-National Manager^l^y^1
+"KRN",19.1,648,1,0)
+^^1^1^3110819^
+"KRN",19.1,648,1,1,0)
+This role can perform the operational functions in PPS-N but doesn't have the administrative rights of the PPS-N National Supervisor.
+"KRN",19.1,650,-1)
+0^4
+"KRN",19.1,650,0)
+PSS_PPSN_SECOND_APPROVER^PPS-National Second Approver^l^y^1
+"KRN",19.1,650,1,0)
+^^1^1^3110819^
+"KRN",19.1,650,1,1,0)
+This role has the ability to do a second approval on items that are in the pending second approval state.
+"KRN",19.1,651,-1)
+0^3
+"KRN",19.1,651,0)
+PSS_PPSN_SUPERVISOR^PPS-National Supervisor^l^y^1
+"KRN",19.1,651,1,0)
+^^1^1^3110819^
+"KRN",19.1,651,1,1,0)
+This role has the ability to perform all actions in the PPS-N application, including Administration and Configuration.
+"KRN",19.1,652,-1)
+0^5
+"KRN",19.1,652,0)
+PSS_PPSN_VIEWER^PPS-National Viewer^l^y^1
+"KRN",19.1,652,1,0)
+^^1^1^3110819^
+"KRN",19.1,652,1,1,0)
+This role has the ability to log in and view items in the PPS-N Application but cannot modify any of the items.
+"KRN",19.1,668,-1)
+0^1
+"KRN",19.1,668,0)
+PPSNSUPER^PPS-N Supervisor Key^l
+"KRN",19.1,668,1,0)
+^19.11^4^4^3130819^^
+"KRN",19.1,668,1,1,0)
+This key allows the holder to access various menu options
+"KRN",19.1,668,1,2,0)
+associated with Hazardous Pharmaceuticals.  Without this
+"KRN",19.1,668,1,3,0)
+key, the user can only access the Hazardous Drug Lookup option
+"KRN",19.1,668,1,4,0)
+[PSS DRUG HAZARD LOOKUP].
+"KRN",8994,3166,-1)
+0^1
+"KRN",8994,3166,0)
+PPS NDFMS SYNC^SYNC^PSSMIGRC^1^P^0^^^^^1
+"KRN",8994,3166,2,0)
+^8994.02A^1^1
+"KRN",8994,3166,2,1,0)
+XML^4^32000^1
+"KRN",8994,3166,2,"B","XML",1)
+
+"MBREQ")
+0
+"ORD",3,19.1)
+19.1;3;;;KEY^XPDTA1;KEYF1^XPDIA1;KEYE1^XPDIA1;KEYF2^XPDIA1;;KEYDEL^XPDIA1
+"ORD",3,19.1,0)
+SECURITY KEY
+"ORD",16,8994)
+8994;16;1;;;;;;;RPCDEL^XPDIA1
+"ORD",16,8994,0)
+REMOTE PROCEDURE
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",517,-1)
+1^1
+"PKG",517,0)
+PHARMACY DATA MANAGEMENT^PSS^Maintenance of Pharmacy files.
+"PKG",517,20,0)
+^9.402P^^
+"PKG",517,22,0)
+^9.49I^1^1
+"PKG",517,22,1,0)
+1.0^2970930^2971014^11595
+"PKG",517,22,1,"PAH",1,0)
+665^3130821
+"PKG",517,22,1,"PAH",1,1,0)
+^^2^2^3130821
+"PKG",517,22,1,"PAH",1,1,1,0)
+Pharmacy Data Management portion of Innovation 665
+"PKG",517,22,1,"PAH",1,1,2,0)
+Hazardous Pharmaceuticals.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+7
+"RTN","PSSHAZEE")
+0^3^B37054100
+"RTN","PSSHAZEE",1,0)
+PSSHAZEE ;BIR/JMC-HAZARDOUS PHARMACEUTICALS ENTER/EDIT;05/06/13
+"RTN","PSSHAZEE",2,0)
+ ;;1.0;PHARMACY DATA MANAGEMENT;**665**;9/30/97;Build 2
+"RTN","PSSHAZEE",3,0)
+BEGIN ;
+"RTN","PSSHAZEE",4,0)
+ I '$$SECURITY^PSSHAZLD(DUZ) Q
+"RTN","PSSHAZEE",5,0)
+ W !!,"Modifications made using this menu option will NOT be"
+"RTN","PSSHAZEE",6,0)
+ W !,"overwritten by any PPS-N updates.  This will make the"
+"RTN","PSSHAZEE",7,0)
+ W !,"local VA PRODUCT File (#50.68) deviate from the PPS-N"
+"RTN","PSSHAZEE",8,0)
+ W !,"national database.  Please make sure you are authorized"
+"RTN","PSSHAZEE",9,0)
+ W !,"to make local modifications to these fields.",!
+"RTN","PSSHAZEE",10,0)
+ S PSSFLAG=0 D ^PSSDEE2 S PSSZ=1 F PSSXX=1:1 K DA D ASK Q:PSSFLAG
+"RTN","PSSHAZEE",11,0)
+DONE D ^PSSDEE2 K PSSFLAG Q
+"RTN","PSSHAZEE",12,0)
+ASK W ! S DIC="^PSDRUG(",DIC(0)="QEAMNTV",DIC("T")="",D="AIUU^B^NDC^C^VAPN^VAC" D MIX^DIC1 K DIC I Y<0 S PSSFLAG=1 Q
+"RTN","PSSHAZEE",13,0)
+ S DA=+Y,DISPDRG=DA L +^PSDRUG(DISPDRG):0 I '$T W !,$C(7),"Another person is editing this one." Q
+"RTN","PSSHAZEE",14,0)
+ D SETHAZ,KILL
+"RTN","PSSHAZEE",15,0)
+ Q
+"RTN","PSSHAZEE",16,0)
+SETHAZ ;
+"RTN","PSSHAZEE",17,0)
+ ; First ask hazardous to handle.  Then ask hazardous to dispose.
+"RTN","PSSHAZEE",18,0)
+ ; Only ask for Primary EPA Code, Waste Sort Code, and DOT Shipping Name if hazardous to dispose = yes.
+"RTN","PSSHAZEE",19,0)
+ D GETS^DIQ(50,DA,"**","IE","DRUG")
+"RTN","PSSHAZEE",20,0)
+ D GETS^DIQ(50.68,$G(DRUG(50,DA_",",22,"I")),"**","IE","VAPROD")
+"RTN","PSSHAZEE",21,0)
+ S VAPROIEN=$G(DRUG(50,DA_",",22,"I"))
+"RTN","PSSHAZEE",22,0)
+ ; Above lines capture the existing information about the DRUG and VA PRODUCT.
+"RTN","PSSHAZEE",23,0)
+ ; Echo existing values in the hazardous fields if they're currently populated.
+"RTN","PSSHAZEE",24,0)
+ ; Default value will be "NO" for both hazard prompts if they're not already populated.
+"RTN","PSSHAZEE",25,0)
+ S HAZTOHAN=$G(VAPROD(50.68,$G(VAPROIEN)_",",101,"E"))
+"RTN","PSSHAZEE",26,0)
+ S HAZTODIS=$G(VAPROD(50.68,$G(VAPROIEN)_",",102,"E"))
+"RTN","PSSHAZEE",27,0)
+ S EPACODE=$G(VAPROD(50.68,$G(VAPROIEN)_",",103,"E"))
+"RTN","PSSHAZEE",28,0)
+ S WASTESRT=$G(VAPROD(50.68,$G(VAPROIEN)_",",104,"E"))
+"RTN","PSSHAZEE",29,0)
+ S DOTSHIP=$G(VAPROD(50.68,$G(VAPROIEN)_",",105,"E"))
+"RTN","PSSHAZEE",30,0)
+ S LOCALHTD=$G(VAPROD(50.68,$G(VAPROIEN)_",",106,"I"))
+"RTN","PSSHAZEE",31,0)
+ S LOCALHTH=$G(VAPROD(50.68,$G(VAPROIEN)_",",107,"I"))
+"RTN","PSSHAZEE",32,0)
+ I LOCALHTD=1!(LOCALHTH=1) W !!,"Local modifications exist for this drug.",!!
+"RTN","PSSHAZEE",33,0)
+ S DIR(0)="YO"  ;YES/NO answers accepted, but answering the question itself is still optional.
+"RTN","PSSHAZEE",34,0)
+ S DIR("A")="HAZARDOUS TO HANDLE"
+"RTN","PSSHAZEE",35,0)
+ S DIR("B")=$S($G(HAZTOHAN)'="":$G(HAZTOHAN),1:"NO") D ^DIR I Y<0!(Y["^")!($D(DTOUT))!($D(DUOUT)) S PSSFLAG=1 Q
+"RTN","PSSHAZEE",36,0)
+ I $G(X)="@" S HANTMP=$$DELETE()
+"RTN","PSSHAZEE",37,0)
+ S HAZTOHAN=$S($G(HANTMP)="@":$G(HANTMP),1:$G(Y))
+"RTN","PSSHAZEE",38,0)
+ I HAZTOHAN'=$G(VAPROD(50.68,$G(VAPROIEN)_",",101,"I")) S LOCALHTH=1  ;Hazardous to Handle was updated from what previously existed.  This will be flagged as a local mod.
+"RTN","PSSHAZEE",39,0)
+ S DIR("A")="HAZARDOUS TO DISPOSE"
+"RTN","PSSHAZEE",40,0)
+ S DIR("B")=$S($G(HAZTODIS)'="":$G(HAZTODIS),1:"NO") D ^DIR I Y<0!(Y["^")!($D(DTOUT))!($D(DUOUT)) S PSSFLAG=1 Q
+"RTN","PSSHAZEE",41,0)
+ I $G(X)="@" S DISTMP=$$DELETE()
+"RTN","PSSHAZEE",42,0)
+ S HAZTODIS=$S($G(DISTMP)="@":$G(DISTMP),1:$G(Y))
+"RTN","PSSHAZEE",43,0)
+ I HAZTODIS'=$G(VAPROD(50.68,$G(VAPROIEN)_",",102,"I")) S LOCALHTD=1  ;Hazardous to Dispose was updated from what previously existed.  This will be flagged as a local mod.
+"RTN","PSSHAZEE",44,0)
+ I HAZTODIS<1!(HAZTODIS="")!(HAZTODIS="@") D  Q ;Not hazardous to dispose, so no need to ask the next three prompts.
+"RTN","PSSHAZEE",45,0)
+ . ;If value changed from YES to NO, set next three codes to "" so they're not accidentally transferred to BCMA
+"RTN","PSSHAZEE",46,0)
+ . ;and cause confusion.  If flag = "NO" then set these to "" in file.  Leave local mod flags as they are.
+"RTN","PSSHAZEE",47,0)
+ . S DR="101////"_HAZTOHAN_";102////"_HAZTODIS_";103////@;104////@;105////@;106////"_LOCALHTD_";107////"_LOCALHTH
+"RTN","PSSHAZEE",48,0)
+ . S DIE="^PSNDF(50.68,",DA=$G(VAPROIEN)
+"RTN","PSSHAZEE",49,0)
+ . D ^DIE
+"RTN","PSSHAZEE",50,0)
+ S DIR(0)="FO^1:50",DIR("A")="Primary EPA Code"  ;Only set DIR(0) once since all 3 fields have the same characteristics.
+"RTN","PSSHAZEE",51,0)
+ S DIR("B")=$S($G(EPACODE)'="":$G(EPACODE),1:"") D ^DIR I Y<0!(Y["^")!($D(DTOUT))!($D(DUOUT)) S PSSFLAG=1 Q
+"RTN","PSSHAZEE",52,0)
+ I $G(X)="@" S EPATMP=$$DELETE()
+"RTN","PSSHAZEE",53,0)
+ S EPACODE=$S($G(EPATMP)="@":$G(EPATMP),1:$G(X))
+"RTN","PSSHAZEE",54,0)
+ I EPACODE'=$G(VAPROD(50.68,$G(VAPROIEN)_",",103,"E")) S LOCALHTD=1
+"RTN","PSSHAZEE",55,0)
+ ;
+"RTN","PSSHAZEE",56,0)
+ S DIR("A")="Waste Sort Code"
+"RTN","PSSHAZEE",57,0)
+ S DIR("B")=$S($G(WASTESRT)'="":$G(WASTESRT),1:"") D ^DIR I Y<0!(Y["^")!($D(DTOUT))!($D(DUOUT)) S PSSFLAG=1 Q
+"RTN","PSSHAZEE",58,0)
+ I $G(X)="@" S WSCTMP=$$DELETE()
+"RTN","PSSHAZEE",59,0)
+ S WASTESRT=$S($G(WSCTMP)="@":$G(WSCTMP),1:$G(X))
+"RTN","PSSHAZEE",60,0)
+ I WASTESRT'=$G(VAPROD(50.68,$G(VAPROIEN)_",",104,"E")) S LOCALHTD=1
+"RTN","PSSHAZEE",61,0)
+ ;
+"RTN","PSSHAZEE",62,0)
+ S DIR("A")="DOT Shipping Name"
+"RTN","PSSHAZEE",63,0)
+ S DIR("B")=$S($G(DOTSHIP)'="":$G(DOTSHIP),1:"") D ^DIR I Y<0!(Y["^")!($D(DTOUT))!($D(DUOUT)) S PSSFLAG=1 Q
+"RTN","PSSHAZEE",64,0)
+ I $G(X)="@" S DOTTMP=$$DELETE()
+"RTN","PSSHAZEE",65,0)
+ S DOTSHIP=$S($G(DOTTMP)="@":$G(DOTTMP),1:$G(X))
+"RTN","PSSHAZEE",66,0)
+ I DOTSHIP'=$G(VAPROD(50.68,$G(VAPROIEN)_",",105,"E")) S LOCALHTD=1
+"RTN","PSSHAZEE",67,0)
+ ;
+"RTN","PSSHAZEE",68,0)
+ S DR="101////"_HAZTOHAN_";102////"_HAZTODIS_";103////"_EPACODE_";104////"_WASTESRT_";105////"_DOTSHIP_";106////"_LOCALHTD_";107////"_LOCALHTH
+"RTN","PSSHAZEE",69,0)
+ S DIE="^PSNDF(50.68,",DA=$G(VAPROIEN)
+"RTN","PSSHAZEE",70,0)
+ D ^DIE
+"RTN","PSSHAZEE",71,0)
+ Q
+"RTN","PSSHAZEE",72,0)
+DELETE() ; Prompt to delete entry
+"RTN","PSSHAZEE",73,0)
+ N DIR,Y,VAR
+"RTN","PSSHAZEE",74,0)
+ S DIR(0)="Y",DIR("A")="SURE YOU WANT TO DELETE"
+"RTN","PSSHAZEE",75,0)
+ D ^DIR
+"RTN","PSSHAZEE",76,0)
+ I $G(Y)=1 S VAR="@"
+"RTN","PSSHAZEE",77,0)
+ I $G(Y)<1 S VAR="NO"
+"RTN","PSSHAZEE",78,0)
+ Q VAR
+"RTN","PSSHAZEE",79,0)
+ ;
+"RTN","PSSHAZEE",80,0)
+CLEAR ;  Clear local modification flags.  Will allow future PPS-N updates to overwrite the local mods.
+"RTN","PSSHAZEE",81,0)
+ I '$$SECURITY^PSSHAZLD(DUZ) Q
+"RTN","PSSHAZEE",82,0)
+ W #!!,"This option is used to clear the Hazardous Pharmaceutical local modification"
+"RTN","PSSHAZEE",83,0)
+ W !,"flags from the VA PRODUCT File (#50.68).  This option ONLY clears the flags."
+"RTN","PSSHAZEE",84,0)
+ W !,"It does NOT delete any data in the file."
+"RTN","PSSHAZEE",85,0)
+ W !!,"If you answer ""YES"" at the prompt, any subsequent PPS-N updates WILL once again"
+"RTN","PSSHAZEE",86,0)
+ W !,"update the Hazardous Pharmaceutical data in the VA PRODUCT File (#50.68)"
+"RTN","PSSHAZEE",87,0)
+ W !,"for this specific VA Product."
+"RTN","PSSHAZEE",88,0)
+ S PSSFLAG=0 D ^PSSDEE2 S PSSZ=1 F PSSXX=1:1 K DA D ASK2 Q:PSSFLAG
+"RTN","PSSHAZEE",89,0)
+DONE2 D ^PSSDEE2 K PSSFLAG Q
+"RTN","PSSHAZEE",90,0)
+ASK2 W ! S DIC="^PSDRUG(",DIC(0)="QEAMNTV",DIC("T")="",D="AIUU^B^NDC^C^VAPN^VAC" D MIX^DIC1 K DIC I Y<0 S PSSFLAG=1 Q
+"RTN","PSSHAZEE",91,0)
+ S DA=+Y,DISPDRG=DA L +^PSDRUG(DISPDRG):0 I '$T W !,$C(7),"Another person is editing this one." Q
+"RTN","PSSHAZEE",92,0)
+ D FLAG,KILL
+"RTN","PSSHAZEE",93,0)
+ Q
+"RTN","PSSHAZEE",94,0)
+ ;
+"RTN","PSSHAZEE",95,0)
+FLAG ; Prompt the user and clear the flags if they answer yes.
+"RTN","PSSHAZEE",96,0)
+ D GETS^DIQ(50,DA,"**","IE","DRUG")
+"RTN","PSSHAZEE",97,0)
+ D GETS^DIQ(50.68,$G(DRUG(50,DA_",",22,"I")),"**","IE","VAPROD")
+"RTN","PSSHAZEE",98,0)
+ S VAPROIEN=$G(DRUG(50,DA_",",22,"I"))
+"RTN","PSSHAZEE",99,0)
+ S LOCALHTD=$G(VAPROD(50.68,$G(VAPROIEN)_",",106,"I"))
+"RTN","PSSHAZEE",100,0)
+ S LOCALHTH=$G(VAPROD(50.68,$G(VAPROIEN)_",",107,"I"))
+"RTN","PSSHAZEE",101,0)
+ I LOCALHTD=0&(LOCALHTH=0) D  Q
+"RTN","PSSHAZEE",102,0)
+ . W !!,"No local modifications exist for this drug.",!
+"RTN","PSSHAZEE",103,0)
+ S DIR(0)="Y"  ;YES/NO answers accepted.
+"RTN","PSSHAZEE",104,0)
+ S DIR("A")="Clear Hazardous Pharmaceutical local modification flags"
+"RTN","PSSHAZEE",105,0)
+ S DIR("B")="YES" D ^DIR I Y<0!(Y["^")!($D(DTOUT))!($D(DUOUT)) S PSSFLAG=1 Q
+"RTN","PSSHAZEE",106,0)
+ S CLEARHAZ=$G(Y)
+"RTN","PSSHAZEE",107,0)
+ I CLEARHAZ="" S CLEARHAZ=1
+"RTN","PSSHAZEE",108,0)
+ I CLEARHAZ=1 D
+"RTN","PSSHAZEE",109,0)
+ . S (LOCALHTH,LOCALHTD)=0
+"RTN","PSSHAZEE",110,0)
+ . S DR="106////"_LOCALHTD_";107////"_LOCALHTH
+"RTN","PSSHAZEE",111,0)
+ . S DIE="^PSNDF(50.68,",DA=$G(VAPROIEN)
+"RTN","PSSHAZEE",112,0)
+ . D ^DIE
+"RTN","PSSHAZEE",113,0)
+KILL ; Kill variables set in this routine.
+"RTN","PSSHAZEE",114,0)
+ K DRUG,VAPROD,EPACODE,WASTESRT,DOTSHIP,HAZTOHAN,HAZTODIS,EPATMP,WSCTMP,DOTTMP,VAPROIEN,LOCALHTH,LOCALHTD,CLEARHAZ
+"RTN","PSSHAZEE",115,0)
+ Q
+"RTN","PSSHAZLD")
+0^2^B31745782
+"RTN","PSSHAZLD",1,0)
+PSSHAZLD ;BIR/JMC-HAZARDOUS PHARMACEUTICALS DATA LOAD;06/13/13
+"RTN","PSSHAZLD",2,0)
+ ;;1.0;PHARMACY DATA MANAGEMENT;**665**;9/30/97;Build 2
+"RTN","PSSHAZLD",3,0)
+ ;
+"RTN","PSSHAZLD",4,0)
+ ; Routine to load hazardous data into VistA upon initial setup.
+"RTN","PSSHAZLD",5,0)
+ ; EN - main entry point from menu option PSS DRUG HAZARD LOAD
+"RTN","PSSHAZLD",6,0)
+ ; LOAD - Stuffs the data into ^PSNDF(50.68)
+"RTN","PSSHAZLD",7,0)
+ ; REPORT - Creates a file with any mismatches between the PPS-N and VistA VA PRODUCT NAME.
+"RTN","PSSHAZLD",8,0)
+ ; RUNREPT - Creates a report in VistA with the data from the mismatch report.  Can be run via menu option PSS DRUG HAZARD MISMATCH
+"RTN","PSSHAZLD",9,0)
+ ; KILL - Kills variables used in this routine.
+"RTN","PSSHAZLD",10,0)
+ ;
+"RTN","PSSHAZLD",11,0)
+ Q  ; Don't call directly.
+"RTN","PSSHAZLD",12,0)
+ ;
+"RTN","PSSHAZLD",13,0)
+EN ;
+"RTN","PSSHAZLD",14,0)
+ I '$$SECURITY(DUZ) Q
+"RTN","PSSHAZLD",15,0)
+ S FILEPATH="d:\intersystems\cache\mgr\dev1\",EOF=$C(4),RTOT=0
+"RTN","PSSHAZLD",16,0)
+ R !,"Enter the name of the file: ",FILENAME:60
+"RTN","PSSHAZLD",17,0)
+ I '$T!(FILENAME="")!(FILENAME="^") W !,"Goodbye!" Q
+"RTN","PSSHAZLD",18,0)
+ R !,"Do you want to see the file information scroll on the screen? ",ANS:60
+"RTN","PSSHAZLD",19,0)
+ I '$T!(ANS="")!(ANS["N") S ANS=0
+"RTN","PSSHAZLD",20,0)
+ I ANS["Y" S ANS=1
+"RTN","PSSHAZLD",21,0)
+ O FILEPATH_FILENAME::5
+"RTN","PSSHAZLD",22,0)
+ I '$T W !,"Unable to open "_FILENAME_".",!,"Please check the file name or try again later." Q
+"RTN","PSSHAZLD",23,0)
+ F  D  Q:X[EOF!(X="EOT")
+"RTN","PSSHAZLD",24,0)
+ . U FILEPATH_FILENAME R X Q:X=EOF!(X="EOT")
+"RTN","PSSHAZLD",25,0)
+ . I X="" Q
+"RTN","PSSHAZLD",26,0)
+ . S ^TMP($J,"HAZDATA",RTOT)=X
+"RTN","PSSHAZLD",27,0)
+ . S RTOT=RTOT+1
+"RTN","PSSHAZLD",28,0)
+ C FILEPATH_FILENAME
+"RTN","PSSHAZLD",29,0)
+ D LOAD
+"RTN","PSSHAZLD",30,0)
+ I $D(^TMP($J,"HAZMISMATCH")) D REPORT
+"RTN","PSSHAZLD",31,0)
+ I '$D(^TMP($J,"HAZMISMATCH")) W !,"Hazardous Drug Data Loaded Successfully into file ^PSNDF(50.68)!",!
+"RTN","PSSHAZLD",32,0)
+ D KILL
+"RTN","PSSHAZLD",33,0)
+ Q
+"RTN","PSSHAZLD",34,0)
+ ;
+"RTN","PSSHAZLD",35,0)
+LOAD ;
+"RTN","PSSHAZLD",36,0)
+ S XX="",T="|"
+"RTN","PSSHAZLD",37,0)
+ F  S XX=$O(^TMP($J,"HAZDATA",XX)) Q:XX=""  D  Q:XX=""
+"RTN","PSSHAZLD",38,0)
+ . S HAZDAT=$G(^TMP($J,"HAZDATA",XX))
+"RTN","PSSHAZLD",39,0)
+ . S VAPROIEN=$P($G(HAZDAT),T)
+"RTN","PSSHAZLD",40,0)
+ . S VAPRODNM=$P($G(HAZDAT),T,2)
+"RTN","PSSHAZLD",41,0)
+ . S LOCALHTD=$P($G(^PSNDF(50.68,VAPROIEN,"HAZTODIS")),"^",5)
+"RTN","PSSHAZLD",42,0)
+ . S LOCALHTH=$P($G(^PSNDF(50.68,VAPROIEN,"HAZTOHAN")),"^",2)
+"RTN","PSSHAZLD",43,0)
+ . I LOCALHTD="" S LOCALHTD=0
+"RTN","PSSHAZLD",44,0)
+ . I LOCALHTH="" S LOCALHTH=0
+"RTN","PSSHAZLD",45,0)
+ . I $P($G(^PSNDF(50.68,VAPROIEN,0)),"^",1)'=$G(VAPRODNM) D  Q
+"RTN","PSSHAZLD",46,0)
+ . . ;if there is a mismatch between PPS-N and VistA on the VA PRODUCT NAME, do not attempt to update the hazards.
+"RTN","PSSHAZLD",47,0)
+ . . ;instead, create this ^TMP global, which is used in the REPORT linetag to create a flat file.
+"RTN","PSSHAZLD",48,0)
+ . . S ^TMP($J,"HAZMISMATCH",VAPROIEN)="PPS-N ENTRY: ^"_VAPRODNM_"^VISTA ENTRY: ^"_$P($G(^PSNDF(50.68,VAPROIEN,0)),"^",1)
+"RTN","PSSHAZLD",49,0)
+ . I LOCALHTD=0&(LOCALHTH=0) D
+"RTN","PSSHAZLD",50,0)
+ . . S HAZTOHAN=$P($G(HAZDAT),T,3) D
+"RTN","PSSHAZLD",51,0)
+ . . . I HAZTOHAN="true" S HAZTOHAN=1
+"RTN","PSSHAZLD",52,0)
+ . . . I HAZTOHAN="false" S HAZTOHAN=0
+"RTN","PSSHAZLD",53,0)
+ . . S HAZTODIS=$P($G(HAZDAT),T,4) D
+"RTN","PSSHAZLD",54,0)
+ . . . I HAZTODIS="true" S HAZTODIS=1
+"RTN","PSSHAZLD",55,0)
+ . . . I HAZTODIS="false" S HAZTODIS=0
+"RTN","PSSHAZLD",56,0)
+ . . S EPACODE=$P($G(HAZDAT),T,5)
+"RTN","PSSHAZLD",57,0)
+ . . S WASTESRT=$P($G(HAZDAT),T,6)
+"RTN","PSSHAZLD",58,0)
+ . . S DOTSHIP=$P($G(HAZDAT),T,7)
+"RTN","PSSHAZLD",59,0)
+ . . S DR="101////"_HAZTOHAN_";102////"_HAZTODIS_";103////"_EPACODE_";104////"_WASTESRT_";105////"_DOTSHIP
+"RTN","PSSHAZLD",60,0)
+ . . S DIE="^PSNDF(50.68,",DA=$G(VAPROIEN)
+"RTN","PSSHAZLD",61,0)
+ . . D ^DIE
+"RTN","PSSHAZLD",62,0)
+ . . I ANS D
+"RTN","PSSHAZLD",63,0)
+ . . . W !,"IEN: "_VAPROIEN
+"RTN","PSSHAZLD",64,0)
+ . . . W !,"VA PRODUCT NAME:      "_VAPRODNM
+"RTN","PSSHAZLD",65,0)
+ . . . W !,"HAZARDOUS TO HANDLE:  "_$P($G(HAZDAT),T,3)
+"RTN","PSSHAZLD",66,0)
+ . . . W !,"HAZARDOUS TO DISPOSE: "_$P($G(HAZDAT),T,4)
+"RTN","PSSHAZLD",67,0)
+ . . . W !?5," PRIMARY EPA CODE: "_EPACODE
+"RTN","PSSHAZLD",68,0)
+ . . . W !?5,"  WASTE SORT CODE: "_WASTESRT
+"RTN","PSSHAZLD",69,0)
+ . . . W !?5,"DOT SHIPPING NAME: "_DOTSHIP,!!
+"RTN","PSSHAZLD",70,0)
+ Q
+"RTN","PSSHAZLD",71,0)
+ ;
+"RTN","PSSHAZLD",72,0)
+REPORT ;  If there are VA PRODUCT NAME mismatches, put them in a file for later review.  This is just a failsafe.
+"RTN","PSSHAZLD",73,0)
+ S FILEPATH="d:\intersystems\cache\mgr\dev1\",EOF=$C(4),HDATE=$P($H,",")_$P($H,",",2)
+"RTN","PSSHAZLD",74,0)
+ W !!,"You have VA PRODUCT NAME mismatches."
+"RTN","PSSHAZLD",75,0)
+ W !,"Look for the file named ""Mismatch_Report_"_HDATE_".txt"""
+"RTN","PSSHAZLD",76,0)
+ W !,"in your default directory.",!!
+"RTN","PSSHAZLD",77,0)
+ S FILENAME="Mismatch_Report_"_HDATE_".txt"
+"RTN","PSSHAZLD",78,0)
+ O FILEPATH_FILENAME:"WNS"
+"RTN","PSSHAZLD",79,0)
+ S X=""
+"RTN","PSSHAZLD",80,0)
+ F  S X=$O(^TMP($J,"HAZMISMATCH",X)) Q:X=""  D
+"RTN","PSSHAZLD",81,0)
+ . S MISMATCH=$G(^TMP($J,"HAZMISMATCH",X))
+"RTN","PSSHAZLD",82,0)
+ . S VAPROIEN=X,PPSNNM=$P(MISMATCH,"^",2),VISTANM=$P(MISMATCH,"^",4)
+"RTN","PSSHAZLD",83,0)
+ . U FILEPATH_FILENAME
+"RTN","PSSHAZLD",84,0)
+ . W VAPROIEN_"^"_PPSNNM_"^"_VISTANM,!
+"RTN","PSSHAZLD",85,0)
+ U FILEPATH_FILENAME W EOF
+"RTN","PSSHAZLD",86,0)
+ C FILEPATH_FILENAME
+"RTN","PSSHAZLD",87,0)
+ Q
+"RTN","PSSHAZLD",88,0)
+ ;
+"RTN","PSSHAZLD",89,0)
+RUNREPT ;  If a VA PRODUCT NAME mismatch file was created, this report will allow the user to review it in VistA.
+"RTN","PSSHAZLD",90,0)
+ I '$$SECURITY(DUZ) Q
+"RTN","PSSHAZLD",91,0)
+ S FILEPATH="d:\intersystems\cache\mgr\dev1\",EOF=$C(4),RTOT=0
+"RTN","PSSHAZLD",92,0)
+ W #!,"Hazardous Drug Mismatch Report"
+"RTN","PSSHAZLD",93,0)
+ W !!!,"This report will show any mismatches between the"
+"RTN","PSSHAZLD",94,0)
+ W !,"PPS-N Data Load file and the VA PRODUCT File (#50.68)."
+"RTN","PSSHAZLD",95,0)
+ W !,"Please note - this file may contain products that look"
+"RTN","PSSHAZLD",96,0)
+ W !,"identical, but the entry may contain additional spaces"
+"RTN","PSSHAZLD",97,0)
+ W !,"or other hidden control characters causing the mismatch.",!!
+"RTN","PSSHAZLD",98,0)
+ R !,"Enter the name of the Mismatch Report file: ",FILENAME:60
+"RTN","PSSHAZLD",99,0)
+ I '$T!(FILENAME="")!(FILENAME="^") W !,"OK, we won't do this now. Goodbye!" Q
+"RTN","PSSHAZLD",100,0)
+ O FILEPATH_FILENAME::5
+"RTN","PSSHAZLD",101,0)
+ I '$T W !,"Unable to open "_FILENAME_".",!,"Please check the file name or try again later." Q
+"RTN","PSSHAZLD",102,0)
+ F  D  Q:X[EOF
+"RTN","PSSHAZLD",103,0)
+ . U FILEPATH_FILENAME R X Q:X=EOF
+"RTN","PSSHAZLD",104,0)
+ . S ^TMP($J,"HAZMISMATCH",RTOT)=X
+"RTN","PSSHAZLD",105,0)
+ . S RTOT=RTOT+1
+"RTN","PSSHAZLD",106,0)
+ C FILEPATH_FILENAME
+"RTN","PSSHAZLD",107,0)
+ W #!,"Mismatch Report for VA PRODUCT NAMES Between PPS-N and VistA",!!
+"RTN","PSSHAZLD",108,0)
+ S X=""
+"RTN","PSSHAZLD",109,0)
+ F  S X=$O(^TMP($J,"HAZMISMATCH",X)) Q:X=""  D
+"RTN","PSSHAZLD",110,0)
+ . S MISMATCH=$G(^TMP($J,"HAZMISMATCH",X))
+"RTN","PSSHAZLD",111,0)
+ . W "VA PRODUCT IEN NUMBER: "_$P(MISMATCH,"^"),!
+"RTN","PSSHAZLD",112,0)
+ . W "PPS-N VA PRODUCT NAME: "_$P(MISMATCH,"^",2),!
+"RTN","PSSHAZLD",113,0)
+ . W "VISTA VA PRODUCT NAME: "_$P(MISMATCH,"^",3),!!
+"RTN","PSSHAZLD",114,0)
+ D KILL
+"RTN","PSSHAZLD",115,0)
+ Q
+"RTN","PSSHAZLD",116,0)
+ ;
+"RTN","PSSHAZLD",117,0)
+SECURITY(DUZ) ; Utility used by routines in the innovation to determine if the user has the PPSNSUPER security key.
+"RTN","PSSHAZLD",118,0)
+ I '$D(^XUSEC("PPSNSUPER",DUZ)) D  Q 0
+"RTN","PSSHAZLD",119,0)
+ . W !!,"You do not have the necessary authorization to use"
+"RTN","PSSHAZLD",120,0)
+ . W !,"this menu option.  If you feel you need access to"
+"RTN","PSSHAZLD",121,0)
+ . W !,"this option, please contact your Supervisor or Manager."
+"RTN","PSSHAZLD",122,0)
+ . W !,"Goodbye."
+"RTN","PSSHAZLD",123,0)
+ Q 1
+"RTN","PSSHAZLD",124,0)
+ ;
+"RTN","PSSHAZLD",125,0)
+ ;
+"RTN","PSSHAZLD",126,0)
+KILL ; Kill variables
+"RTN","PSSHAZLD",127,0)
+ K FILEPATH,FILENAME,EOF,RTOT,REC,X,T,DA,DIE,DR,VAPROIEN
+"RTN","PSSHAZLD",128,0)
+ K VAPRODNM,HAZTOHAN,HAZTODIS,EPACODE,WASTESRT,DOTSHIP,CNT
+"RTN","PSSHAZLD",129,0)
+ K MISMATCH,PPSNNM,VISTANM,HDATE,XX,YY
+"RTN","PSSHAZLD",130,0)
+ K ^TMP($J,"HAZDATA"),^TMP($J,"HAZMISMATCH")
+"RTN","PSSHAZLD",131,0)
+ Q
+"RTN","PSSHAZLU")
+0^1^B5391800
+"RTN","PSSHAZLU",1,0)
+PSSHAZLU ;BIR/JMC-HAZARDOUS PHARMACEUTICALS LOOKUP REPORT;05/06/13
+"RTN","PSSHAZLU",2,0)
+ ;;1.0;PHARMACY DATA MANAGEMENT;**665**;9/30/97;Build 2
+"RTN","PSSHAZLU",3,0)
+BEGIN ;
+"RTN","PSSHAZLU",4,0)
+ S PSSFLAG=0 D ^PSSDEE2 S PSSZ=1 F PSSXX=1:1 K DA D ASK Q:PSSFLAG
+"RTN","PSSHAZLU",5,0)
+DONE D ^PSSDEE2 K PSSFLAG Q
+"RTN","PSSHAZLU",6,0)
+ASK W ! S DIC="^PSDRUG(",DIC(0)="QEAMNTV",DIC("T")="",D="AIUU^B^NDC^C^VAPN^VAC" D MIX^DIC1 K DIC I Y<0!($D(DTOUT))!($D(DUOUT)) S PSSFLAG=1 Q
+"RTN","PSSHAZLU",7,0)
+ S DA=+Y,DISPDRG=DA L +^PSDRUG(DISPDRG):0 I '$T W !,$C(7),"Another person is editing this one." Q
+"RTN","PSSHAZLU",8,0)
+ D MAKERPT
+"RTN","PSSHAZLU",9,0)
+ ; WANTS TO SEE IN THIS ORDER:
+"RTN","PSSHAZLU",10,0)
+ ; NAME, DRUG IEN, MESSAGE, NDC, VA DRUG CLASS, SYNONYMNS, HAZARD TO HANDLE, HAZARD TO DISPOSE
+"RTN","PSSHAZLU",11,0)
+ Q
+"RTN","PSSHAZLU",12,0)
+MAKERPT ;
+"RTN","PSSHAZLU",13,0)
+ N CTR,CTR1
+"RTN","PSSHAZLU",14,0)
+ D GETS^DIQ(50,DA,"**","IE","DRUG")
+"RTN","PSSHAZLU",15,0)
+ W !!,"NAME:  ",?17,$G(DRUG(50,DA_",",.01,"E")),!
+"RTN","PSSHAZLU",16,0)
+ W "DRUG IEN: ",?17,$G(DA),!
+"RTN","PSSHAZLU",17,0)
+ W "MESSAGE:  ",?17,$G(DRUG(50,DA_",",101,"E")),!
+"RTN","PSSHAZLU",18,0)
+ W "NDC:  ",?17,$G(DRUG(50,DA_",",31,"E")),!
+"RTN","PSSHAZLU",19,0)
+ W "VA DRUG CLASS: ",?17,$G(DRUG(50,DA_",",25,"E")),!!
+"RTN","PSSHAZLU",20,0)
+ S (CTR,CTR1)=""
+"RTN","PSSHAZLU",21,0)
+ F  S CTR=$O(DRUG(50.1,CTR)) Q:CTR=""  D
+"RTN","PSSHAZLU",22,0)
+ . F  S CTR1=$O(DRUG(50.1,CTR,CTR1)) Q:CTR1=""  D
+"RTN","PSSHAZLU",23,0)
+ . . I CTR1=".01" W "SYNONYM:  ",?17,$G(DRUG(50.1,CTR,CTR1,"E")),!
+"RTN","PSSHAZLU",24,0)
+ W !
+"RTN","PSSHAZLU",25,0)
+ S VAPROIEN=$G(DRUG(50,DA_",",22,"I"))
+"RTN","PSSHAZLU",26,0)
+ D GETS^DIQ(50.68,$G(VAPROIEN),"**","IE","VAPROD")
+"RTN","PSSHAZLU",27,0)
+ S HAZTOHAN=$G(VAPROD(50.68,$G(VAPROIEN)_",",101,"E"))
+"RTN","PSSHAZLU",28,0)
+ S HAZTODIS=$G(VAPROD(50.68,$G(VAPROIEN)_",",102,"E"))
+"RTN","PSSHAZLU",29,0)
+ S EPACODE=$G(VAPROD(50.68,$G(VAPROIEN)_",",103,"E"))
+"RTN","PSSHAZLU",30,0)
+ S WASTESRT=$G(VAPROD(50.68,$G(VAPROIEN)_",",104,"E"))
+"RTN","PSSHAZLU",31,0)
+ S DOTSHIP=$G(VAPROD(50.68,$G(VAPROIEN)_",",105,"E"))
+"RTN","PSSHAZLU",32,0)
+ S LOCALHTD=$G(VAPROD(50.68,$G(VAPROIEN)_",",106,"I"))
+"RTN","PSSHAZLU",33,0)
+ S LOCALHTH=$G(VAPROD(50.68,$G(VAPROIEN)_",",107,"I"))
+"RTN","PSSHAZLU",34,0)
+ W "HAZARDOUS TO HANDLE:  ",?20,$G(HAZTOHAN),!
+"RTN","PSSHAZLU",35,0)
+ W "HAZARDOUS TO DISPOSE: ",?20,$G(HAZTODIS),!
+"RTN","PSSHAZLU",36,0)
+ I $G(HAZTODIS)="YES" D
+"RTN","PSSHAZLU",37,0)
+ . W ?5,"PRIMARY EPA CODE:  ",?25,$G(EPACODE),!
+"RTN","PSSHAZLU",38,0)
+ . W ?5,"WASTE SORT CODE:  ",?25,$G(WASTESRT),!
+"RTN","PSSHAZLU",39,0)
+ . W ?5,"DOT SHIPPING NAME:  ",?25,$G(DOTSHIP),!
+"RTN","PSSHAZLU",40,0)
+ I LOCALHTD=1!(LOCALHTH=1) D
+"RTN","PSSHAZLU",41,0)
+ . W !,?5,"*** ENTRY HAS BEEN LOCALLY MODIFIED ***"
+"RTN","PSSHAZLU",42,0)
+ K DRUG,VAPROD,HAZTOHAN,HAZTODIS,EPACODE,WASTESRT,DOTSHIP,VAPROIEN
+"RTN","PSSHAZLU",43,0)
+ Q
+"RTN","PSSMIGRC")
+0^4^B133798817
+"RTN","PSSMIGRC",1,0)
+PSSMIGRC ;AJF - Receives and Process Synch XML message from PEPS;  6/22/2012 0747
+"RTN","PSSMIGRC",2,0)
+ ;;1.0;PHARMACY ENTERPRISE PRODUCT SYSTEM;665;;Build 2
+"RTN","PSSMIGRC",3,0)
+ ;;
+"RTN","PSSMIGRC",4,0)
+ ; Start of Sync request
+"RTN","PSSMIGRC",5,0)
+ ; Calls PSSMIGRP AND EN^PSSMIGRD
+"RTN","PSSMIGRC",6,0)
+ ;;
+"RTN","PSSMIGRC",7,0)
+SYNC(XOBY,PSSMSG) ;Entry point into routine
+"RTN","PSSMIGRC",8,0)
+ N X,Y,DIR,PATH,FILE,DOCHAND,PSSFDA,XMLFILE,VAL,LEN,INPUT,XFILE,OUTCNT,PSS,PSTATUS,ERROR
+"RTN","PSSMIGRC",9,0)
+ N ERROR,PSNDC,PSUPN,PSMAN,PSTNAME,PSPNAME,PSSIZE,PSTYPE,PSOTC,NIEN,MIEN,TIEN,SIEN
+"RTN","PSSMIGRC",10,0)
+ N PSCNT,PSNUM,D,DA,DATE,DIC,DIE,DLAYGO,DOCHAND,DOCHAND1,DR,DT,FILE,FRMTENT,GT,IMPUT,LEN,MIEN,NIEN
+"RTN","PSSMIGRC",11,0)
+ N NWARRY,OUT,PS0,PSNDC1,XML2,PSIADT,NIEN2,PNIEN,DIK,PNT,BNAME,PSSTITLE,PST,XMESS,XIEN,JOB
+"RTN","PSSMIGRC",12,0)
+ ;
+"RTN","PSSMIGRC",13,0)
+ D DT^DICRW S U="^",INPUT="",(ERROR,OUTCNT)=0,DATE=DT,PST="",DUZ(0)="@"
+"RTN","PSSMIGRC",14,0)
+ ;
+"RTN","PSSMIGRC",15,0)
+ S OUT=$NA(^UTILITY($J,"OUT"))
+"RTN","PSSMIGRC",16,0)
+ K ^UTILITY($J),^TMP($J,"XML OUT")
+"RTN","PSSMIGRC",17,0)
+ S ^TMP($J,"NDC1","START")=DATE
+"RTN","PSSMIGRC",18,0)
+ S ^TMP($J,"NDC1","XML")=$G(PSSMSG)
+"RTN","PSSMIGRC",19,0)
+ ;
+"RTN","PSSMIGRC",20,0)
+ D PRSTRING(.PSSMSG,.XMLFILE)
+"RTN","PSSMIGRC",21,0)
+ ;
+"RTN","PSSMIGRC",22,0)
+ S VAL="" F  S VAL=$O(XMLFILE(VAL)) Q:VAL=""  D
+"RTN","PSSMIGRC",23,0)
+ .S ^TMP($J,"XML OUT",VAL)=XMLFILE(VAL)
+"RTN","PSSMIGRC",24,0)
+ ;
+"RTN","PSSMIGRC",25,0)
+ ;**strip out any invisible ASCII characters before passing the TMP global to MXMLDOM
+"RTN","PSSMIGRC",26,0)
+ ;F  S PSS("charCount")=$O(^TMP($J,"XML OUT",PSS("charCount"))) Q:PSS("charCount")=""  D
+"RTN","PSSMIGRC",27,0)
+ ;F PSS("char")=0:1:32 S ^TMP($J,"XML OUT",PSS("charCount"))=$TRANSLATE(^TMP($J,"XML OUT",PSS("charCount")),$C(PSS("char")),"")
+"RTN","PSSMIGRC",28,0)
+ ;
+"RTN","PSSMIGRC",29,0)
+ ;**get handle to XML document in memory, the date/time message was received, and the DUZ of the associated user
+"RTN","PSSMIGRC",30,0)
+ S DOCHAND=$$EN^MXMLDOM($NA(^TMP($J,"XML OUT")),"VO")
+"RTN","PSSMIGRC",31,0)
+ S PSS("date/time")=$$NOW^XLFDT
+"RTN","PSSMIGRC",32,0)
+ S PSS("duz")=DUZ,PSS("FILE")=""
+"RTN","PSSMIGRC",33,0)
+ S (PSUPN,MIEN,PSTNAME,PNIEN,SIEN,TIEN,PSOTC,PSIADT,PSSTITLE)=""
+"RTN","PSSMIGRC",34,0)
+ ;
+"RTN","PSSMIGRC",35,0)
+ ;**retrieve parent node attributes
+"RTN","PSSMIGRC",36,0)
+ S PSS("body")=$$PARENT^MXMLDOM(DOCHAND,2)
+"RTN","PSSMIGRC",37,0)
+ S PSS("bodyName")=$$NAME^MXMLDOM(DOCHAND,PSS("body"))
+"RTN","PSSMIGRC",38,0)
+ S PSS("status")=$$VALUE^MXMLDOM(DOCHAND,PSS("body"),"status")
+"RTN","PSSMIGRC",39,0)
+ S PSS("pepsIdNumber")=$$VALUE^MXMLDOM(DOCHAND,PSS("body"),"pepsIdNumber")
+"RTN","PSSMIGRC",40,0)
+ S JOB=$J
+"RTN","PSSMIGRC",41,0)
+ ;
+"RTN","PSSMIGRC",42,0)
+ ;
+"RTN","PSSMIGRC",43,0)
+ S BNAME=$G(PSS("bodyName"))
+"RTN","PSSMIGRC",44,0)
+ I BNAME]"" D
+"RTN","PSSMIGRC",45,0)
+ . I BNAME="ndcSyncRequest" D NDC Q
+"RTN","PSSMIGRC",46,0)
+ . I BNAME="manufacturerSyncRequest" D MAN Q
+"RTN","PSSMIGRC",47,0)
+ . I BNAME="packageTypeSyncRequest" D PACK Q
+"RTN","PSSMIGRC",48,0)
+ . I BNAME="drugUnitSyncRequest" D DRU Q
+"RTN","PSSMIGRC",49,0)
+ . I BNAME="vaDispenseUnitSyncRequest" D DIS Q
+"RTN","PSSMIGRC",50,0)
+ . I BNAME="drugIngredientSyncRequest" D DRUI Q
+"RTN","PSSMIGRC",51,0)
+ . I BNAME="vaGenericNameSyncRequest" D VAG Q
+"RTN","PSSMIGRC",52,0)
+ . I BNAME="drugClassSyncRequest" D DRUC^PSSMIGRP Q
+"RTN","PSSMIGRC",53,0)
+ . I BNAME="dosageFormSyncRequest" D DOF^PSSMIGRP Q
+"RTN","PSSMIGRC",54,0)
+ . I BNAME="vaProductSyncRequest" D VAP^PSSMIGRP Q
+"RTN","PSSMIGRC",55,0)
+ ;
+"RTN","PSSMIGRC",56,0)
+ ; Quit if REQUIRED DATA is Missing
+"RTN","PSSMIGRC",57,0)
+ I PSS("FILE")="" D OUT(" Error...Missing Required START TAG") Q
+"RTN","PSSMIGRC",58,0)
+ I PSS("RTYPE")'="ADD",PSS("RTYPE")'="MODIFY"  D OUT("Error...Invalid Request Type") Q
+"RTN","PSSMIGRC",59,0)
+ I PSS("RTYPE")="MODIFY",'+$G(PSS("IEN")) D OUT(" Error... Missing Required IEN") Q
+"RTN","PSSMIGRC",60,0)
+ ;
+"RTN","PSSMIGRC",61,0)
+ D MIGR
+"RTN","PSSMIGRC",62,0)
+ Q
+"RTN","PSSMIGRC",63,0)
+ ;
+"RTN","PSSMIGRC",64,0)
+NDC ;
+"RTN","PSSMIGRC",65,0)
+ ;
+"RTN","PSSMIGRC",66,0)
+ I PSS("bodyName")="ndcSyncRequest" D
+"RTN","PSSMIGRC",67,0)
+ . S PSS("child")=1,PSS("FILE")=50.67,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRC",68,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRC",69,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRC",70,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",71,0)
+ .. I PSS("ELE")="ndcName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",72,0)
+ .. I PSS("ELE")="ndcIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",73,0)
+ .. I PSS("ELE")="upn" S PSS("UPN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",74,0)
+ .. I PSS("ELE")="tradeName" S PSS("TNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",75,0)
+ .. I PSS("ELE")="manufacturer" D
+"RTN","PSSMIGRC",76,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRC",77,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRC",78,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRC",79,0)
+ .... I PSS("ELE1")="manufacturerName" S PSS("MNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",80,0)
+ .... I PSS("ELE1")="manufacturerIen" S PSS("MIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",81,0)
+ .. I PSS("ELE")="product" D
+"RTN","PSSMIGRC",82,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRC",83,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRC",84,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRC",85,0)
+ .... I PSS("ELE1")="productName" S PSS("PNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",86,0)
+ .... I PSS("ELE1")="productIen" S PSS("PIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",87,0)
+ .. I PSS("ELE")="packageSize" S PSS("PSIZE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",88,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("IDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",89,0)
+ .. I PSS("ELE")="packageType" D
+"RTN","PSSMIGRC",90,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRC",91,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRC",92,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRC",93,0)
+ .... I PSS("ELE1")="packageTypeName" S PSS("PTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",94,0)
+ .... I PSS("ELE1")="packageTypeIen" S PSS("PTIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",95,0)
+ .. I PSS("ELE")="otcRxIndicator" S PSS("PSOTC")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",96,0)
+ Q
+"RTN","PSSMIGRC",97,0)
+ ;
+"RTN","PSSMIGRC",98,0)
+MAN  ;MANUFACTURER
+"RTN","PSSMIGRC",99,0)
+ I PSS("bodyName")="manufacturerSyncRequest" D
+"RTN","PSSMIGRC",100,0)
+ . S PSS("child")=1,PSS("FILE")=55.95,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRC",101,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRC",102,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRC",103,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",104,0)
+ .. I PSS("ELE")="manufacturerIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",105,0)
+ .. I PSS("ELE")="manufacturerName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",106,0)
+ .. I PSS("ELE")="NDCNumber" S PSS("NDCNUM")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",107,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("IDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",108,0)
+ Q
+"RTN","PSSMIGRC",109,0)
+ ;
+"RTN","PSSMIGRC",110,0)
+PACK ; PACKAGETYPE
+"RTN","PSSMIGRC",111,0)
+ I PSS("bodyName")="packageTypeSyncRequest" D
+"RTN","PSSMIGRC",112,0)
+ . S PSS("child")=1,PSS("FILE")=50.608,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRC",113,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRC",114,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRC",115,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",116,0)
+ .. I PSS("ELE")="packageTypeIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",117,0)
+ .. I PSS("ELE")="packageTypeName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",118,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("IDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",119,0)
+ Q
+"RTN","PSSMIGRC",120,0)
+ ;
+"RTN","PSSMIGRC",121,0)
+DRU ;DRUGUNIT
+"RTN","PSSMIGRC",122,0)
+ ;
+"RTN","PSSMIGRC",123,0)
+ I PSS("bodyName")="drugUnitSyncRequest" D
+"RTN","PSSMIGRC",124,0)
+ . S PSS("child")=1,PSS("FILE")=50.607,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRC",125,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRC",126,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRC",127,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",128,0)
+ .. I PSS("ELE")="drugUnitIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",129,0)
+ .. I PSS("ELE")="drugUnitName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",130,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("IDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",131,0)
+ Q
+"RTN","PSSMIGRC",132,0)
+ ;
+"RTN","PSSMIGRC",133,0)
+DIS ;DISPENSEUNIT
+"RTN","PSSMIGRC",134,0)
+ I PSS("bodyName")="vaDispenseUnitSyncRequest" D
+"RTN","PSSMIGRC",135,0)
+ . S PSS("child")=1,PSS("FILE")=50.64,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRC",136,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRC",137,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRC",138,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",139,0)
+ .. I PSS("ELE")="vaDispenseUnitIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",140,0)
+ .. I PSS("ELE")="vaDispenseUnitName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",141,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("IDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",142,0)
+ Q
+"RTN","PSSMIGRC",143,0)
+ ;
+"RTN","PSSMIGRC",144,0)
+DRUI ;DRUGINGREDIENT
+"RTN","PSSMIGRC",145,0)
+ ;
+"RTN","PSSMIGRC",146,0)
+ I PSS("bodyName")="drugIngredientSyncRequest" D
+"RTN","PSSMIGRC",147,0)
+ . S PSS("child")=1,PSS("FILE")=50.416,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRC",148,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRC",149,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRC",150,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",151,0)
+ .. I PSS("ELE")="drugIngredientName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",152,0)
+ .. I PSS("ELE")="ingredientIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",153,0)
+ .. I PSS("ELE")="primaryIngredient" S PSS("PRIMARY")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",154,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("INACTDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",155,0)
+ .. I PSS("ELE")="masterEntryForVuid" S PSS("MASTERVUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",156,0)
+ .. I PSS("ELE")="vuid" S PSS("VUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",157,0)
+ .. I PSS("ELE")="effectiveDateTimeRecord" D
+"RTN","PSSMIGRC",158,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRC",159,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRC",160,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRC",161,0)
+ .... I PSS("ELE1")="effectiveDateTime" S PSS("EFFDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",162,0)
+ .... I PSS("ELE1")="status" S PSS("STATUS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",163,0)
+ Q
+"RTN","PSSMIGRC",164,0)
+ ;
+"RTN","PSSMIGRC",165,0)
+VAG ;VAGENERIC
+"RTN","PSSMIGRC",166,0)
+ ;
+"RTN","PSSMIGRC",167,0)
+ I PSS("bodyName")="vaGenericNameSyncRequest" D
+"RTN","PSSMIGRC",168,0)
+ . S PSS("child")=1,PSS("FILE")=50.6,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRC",169,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRC",170,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRC",171,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",172,0)
+ .. I PSS("ELE")="vaGenericNameIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",173,0)
+ .. I PSS("ELE")="vaGenericNameName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",174,0)
+ .. I PSS("ELE")="masterEntryForVuid" S PSS("MASTERVUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",175,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("INACTDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",176,0)
+ .. I PSS("ELE")="vuid" S PSS("VUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRC",177,0)
+ .. I PSS("ELE")="effectiveDateTimeRecord" D
+"RTN","PSSMIGRC",178,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRC",179,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRC",180,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRC",181,0)
+ .... I PSS("ELE1")="effectiveDateTime" S PSS("EFFDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",182,0)
+ .... I PSS("ELE1")="status" S PSS("STATUS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRC",183,0)
+ ;
+"RTN","PSSMIGRC",184,0)
+ Q
+"RTN","PSSMIGRC",185,0)
+ ;
+"RTN","PSSMIGRC",186,0)
+MIGR ;Process sync request
+"RTN","PSSMIGRC",187,0)
+ D EN^PSSMIGRD(.PSS)
+"RTN","PSSMIGRC",188,0)
+ ;
+"RTN","PSSMIGRC",189,0)
+ Q:ERROR=1
+"RTN","PSSMIGRC",190,0)
+ ;
+"RTN","PSSMIGRC",191,0)
+XMLR  ;**generate XML response message
+"RTN","PSSMIGRC",192,0)
+ ;
+"RTN","PSSMIGRC",193,0)
+ ;
+"RTN","PSSMIGRC",194,0)
+ S PSS("xmlResponse")=$$XMLBODY(.PSS)
+"RTN","PSSMIGRC",195,0)
+ ;
+"RTN","PSSMIGRC",196,0)
+ ;
+"RTN","PSSMIGRC",197,0)
+ ;**store value in VistALink return parameter
+"RTN","PSSMIGRC",198,0)
+ ;
+"RTN","PSSMIGRC",199,0)
+ ;
+"RTN","PSSMIGRC",200,0)
+ ;
+"RTN","PSSMIGRC",201,0)
+ ;Write the XML response message to a new file
+"RTN","PSSMIGRC",202,0)
+ S FILE=PSSTITLE_".XML"
+"RTN","PSSMIGRC",203,0)
+ S XML2=PSS("xmlHeader")_"<"_PSSTITLE_PSS("xmlns")
+"RTN","PSSMIGRC",204,0)
+ S XML2=XML2_PSS("xmlns:xsi")_">"_"<syncResponseType>"_"<status>Success</status>"
+"RTN","PSSMIGRC",205,0)
+ S XML2=XML2_XMESS_"</syncResponseType>"_XIEN
+"RTN","PSSMIGRC",206,0)
+ S XOBY=XML2_"</"_PSSTITLE_">"
+"RTN","PSSMIGRC",207,0)
+ S ^TMP($J,"NDC1","XOBY")=XOBY
+"RTN","PSSMIGRC",208,0)
+ ;
+"RTN","PSSMIGRC",209,0)
+ ;
+"RTN","PSSMIGRC",210,0)
+Q1 ; exit and clean-up
+"RTN","PSSMIGRC",211,0)
+ ;K ^TMP("MXMLDOM",$J),^TMP($J)
+"RTN","PSSMIGRC",212,0)
+ ;
+"RTN","PSSMIGRC",213,0)
+ ;
+"RTN","PSSMIGRC",214,0)
+ Q
+"RTN","PSSMIGRC",215,0)
+ ;
+"RTN","PSSMIGRC",216,0)
+ ;
+"RTN","PSSMIGRC",217,0)
+RESPONSE(PSS) ;**check to see if current XML message was successfully written to the PEPS QUEUE file (#54.5)
+"RTN","PSSMIGRC",218,0)
+ N PSSOUT
+"RTN","PSSMIGRC",219,0)
+ ;
+"RTN","PSSMIGRC",220,0)
+ I $D(PSS("ERR")) S PSS("response")="Failure",PSS("attribValue")="<response status="""_PSS("response")_""">Unable to queue message.  Reason: "_$P(PSS("ERR"),"^",2)_"</response>"
+"RTN","PSSMIGRC",221,0)
+ E  I $D(^PSSPEPS("B",PSS("pepsIdNumber"))) S PSS("response")="Queued",PSS("attribValue")="<response status="""_PSS("response")_""">Message "_PSS("pepsIdNumber")_" is queued.</response>"
+"RTN","PSSMIGRC",222,0)
+ E  S PSS("response")="Failure",PSS("attribValue")="<response status="""_PSS("response")_""">Unable to queue message "_PSS("pepsIdNumber")_". Reason: "_$P($G(PSS("ERR")),"^",2)_"</response>"
+"RTN","PSSMIGRC",223,0)
+ S PSSOUT=$$XMLBODY(.PSS)
+"RTN","PSSMIGRC",224,0)
+ Q PSSOUT
+"RTN","PSSMIGRC",225,0)
+ ;
+"RTN","PSSMIGRC",226,0)
+XMLBODY(PSS) ;**generates response XML message
+"RTN","PSSMIGRC",227,0)
+ S PSS("xmlHeader")=$$XMLHDR^MXMLUTL
+"RTN","PSSMIGRC",228,0)
+ S PSS("xmlns:xsi")=" xmlns:xsi=""http://www.w3.org/2001/XMLSchema"""
+"RTN","PSSMIGRC",229,0)
+ S PSS("xmlns")=" xmlns=""gov/va/med/pharmacy/peps/external/common/vo/inbound/sync/syncResponse"""
+"RTN","PSSMIGRC",230,0)
+ ;S PSS("xmlns")=" xmlns=""gov/va/med/pharmacy/peps/external/common/vo/inbound/migration/"_PST_"/response"""
+"RTN","PSSMIGRC",231,0)
+ S PSSOUT=PSS("xmlHeader")
+"RTN","PSSMIGRC",232,0)
+ S PSSOUT=PSSOUT_"<"_PSSTITLE
+"RTN","PSSMIGRC",233,0)
+ S PSSOUT=PSSOUT_" "_PSS("xmlns")
+"RTN","PSSMIGRC",234,0)
+ S PSSOUT=PSSOUT_" "_PSS("xmlns:xsi")
+"RTN","PSSMIGRC",235,0)
+ Q PSSOUT
+"RTN","PSSMIGRC",236,0)
+ ;
+"RTN","PSSMIGRC",237,0)
+TRASH ;**delete XML handle
+"RTN","PSSMIGRC",238,0)
+ D DELETE^MXMLDOM(DOCHAND)
+"RTN","PSSMIGRC",239,0)
+ Q
+"RTN","PSSMIGRC",240,0)
+ ;
+"RTN","PSSMIGRC",241,0)
+OUT(X) ;Error message
+"RTN","PSSMIGRC",242,0)
+ S FILE=PSSTITLE_".XML",ERROR=1,PSS("xmlResponse")=$$XMLBODY(.PSS)
+"RTN","PSSMIGRC",243,0)
+ S XML2=PSS("xmlHeader")_"<syncResponse "_PSS("xmlns")
+"RTN","PSSMIGRC",244,0)
+ S XML2=XML2_PSS("xmlns:xsi")_"><syncResponseType><status>Failure</status>"
+"RTN","PSSMIGRC",245,0)
+ S XML2=XML2_"<message>"_X_"</message></syncResponseType></syncResponse>"
+"RTN","PSSMIGRC",246,0)
+ S XOBY=XML2
+"RTN","PSSMIGRC",247,0)
+ S ^TMP($J,"NDC1","OUT")=XOBY,ERROR=1
+"RTN","PSSMIGRC",248,0)
+ D Q1
+"RTN","PSSMIGRC",249,0)
+ Q
+"RTN","PSSMIGRC",250,0)
+ ;
+"RTN","PSSMIGRC",251,0)
+PRSTRING(XML,NWARRY) ;**parses the incoming xml string coming back from PEPS
+"RTN","PSSMIGRC",252,0)
+ ;;
+"RTN","PSSMIGRC",253,0)
+ ;XML is the xml string that is passed by PEPS.
+"RTN","PSSMIGRC",254,0)
+ ;It must be parsed into an array that is usable by MXML Kernel routines.
+"RTN","PSSMIGRC",255,0)
+ ;;
+"RTN","PSSMIGRC",256,0)
+ I '$D(XML) D OUT(" Error... Invalid xml string") Q
+"RTN","PSSMIGRC",257,0)
+ N POS,GT,FRNTEND,CNT
+"RTN","PSSMIGRC",258,0)
+ ;**FRNTEND holds the front portion of the extracted data
+"RTN","PSSMIGRC",259,0)
+ S GT=">",POS=0
+"RTN","PSSMIGRC",260,0)
+ F CNT=0:1 Q:XML=""!(XML'[">")  D
+"RTN","PSSMIGRC",261,0)
+ .S POS=$F(XML,GT)
+"RTN","PSSMIGRC",262,0)
+ .S FRNTEND=$E(XML,1,POS-1)
+"RTN","PSSMIGRC",263,0)
+ .S XML=$E(XML,POS,$L(XML))
+"RTN","PSSMIGRC",264,0)
+ .S NWARRY(CNT)=FRNTEND
+"RTN","PSSMIGRC",265,0)
+ Q
+"RTN","PSSMIGRC",266,0)
+ ;
+"RTN","PSSMIGRC",267,0)
+ ;
+"RTN","PSSMIGRC",268,0)
+DATE(Y)  ;RETURN A DATE
+"RTN","PSSMIGRC",269,0)
+ I Y X ^DD("DD")
+"RTN","PSSMIGRC",270,0)
+ Q Y
+"RTN","PSSMIGRC",271,0)
+
+"RTN","PSSMIGRD")
+0^5^B215918766
+"RTN","PSSMIGRD",1,0)
+PSSMIGRD ;AJF - Process Sync XML message from PEPS;  12/14/2012 1403
+"RTN","PSSMIGRD",2,0)
+ ;;1.0;PHARMACY ENTERPRISE PRODUCT SYSTEM;;7/11/2008;Build 2
+"RTN","PSSMIGRD",3,0)
+ ;;
+"RTN","PSSMIGRD",4,0)
+ ;  Process Sync request
+"RTN","PSSMIGRD",5,0)
+ ;  Called from ^PSSMIGRC
+"RTN","PSSMIGRD",6,0)
+ ;  Calls to ^PSSMIGRE and PSSMIGRR
+"RTN","PSSMIGRD",7,0)
+ ;;
+"RTN","PSSMIGRD",8,0)
+EN(PSS) ;Entry point into routine
+"RTN","PSSMIGRD",9,0)
+ ; FL - File
+"RTN","PSSMIGRD",10,0)
+ ; IEN - The starting IEN
+"RTN","PSSMIGRD",11,0)
+ ; RCNT - Number of records desired
+"RTN","PSSMIGRD",12,0)
+ ; TYPE - 1
+"RTN","PSSMIGRD",13,0)
+ ;
+"RTN","PSSMIGRD",14,0)
+ ;
+"RTN","PSSMIGRD",15,0)
+ S FNAME="SyncResponse.XML"
+"RTN","PSSMIGRD",16,0)
+ S FL=$G(PSS("FILE"))
+"RTN","PSSMIGRD",17,0)
+ I FL="" D OUT^PSSMIGRC(" Error... Missing required data") Q
+"RTN","PSSMIGRD",18,0)
+ N XST,CNT
+"RTN","PSSMIGRD",19,0)
+ S CNT=0,XST=0
+"RTN","PSSMIGRD",20,0)
+ I FL=50.607 D DUNI Q  ;Drug Unit
+"RTN","PSSMIGRD",21,0)
+ I FL=50.416 D DING Q  ;Drug Ingredients
+"RTN","PSSMIGRD",22,0)
+ I FL=50.605 D VADC Q  ;VA Drug Class
+"RTN","PSSMIGRD",23,0)
+ I FL=50.606 D DSFO Q  ;Dosage Form
+"RTN","PSSMIGRD",24,0)
+ I FL=50.6 D VAGN^PSSMIGRE Q  ;VA Generic Name
+"RTN","PSSMIGRD",25,0)
+ I FL=50.64 D VADU Q  ; VA Dispense UNIT
+"RTN","PSSMIGRD",26,0)
+ I FL=55.95 D MAN^PSSMIGRE Q  ;Manufacturer
+"RTN","PSSMIGRD",27,0)
+ I FL=50.608 D PTYP^PSSMIGRE Q  ;Package Type
+"RTN","PSSMIGRD",28,0)
+ I FL=50.67 D NDC^PSSMIGRE Q  ;NDC
+"RTN","PSSMIGRD",29,0)
+ I FL=50.68 D VAPD^PSSMIGRR Q  ;VA Product
+"RTN","PSSMIGRD",30,0)
+ ;
+"RTN","PSSMIGRD",31,0)
+ ;File Error Process
+"RTN","PSSMIGRD",32,0)
+ D OUT^PSSMIGRC(" Error... Invalid File Number")
+"RTN","PSSMIGRD",33,0)
+ Q
+"RTN","PSSMIGRD",34,0)
+ ;
+"RTN","PSSMIGRD",35,0)
+ ;DIA(50.
+"RTN","PSSMIGRD",36,0)
+DUNI ; DRUG UNIT file Synch
+"RTN","PSSMIGRD",37,0)
+ ;
+"RTN","PSSMIGRD",38,0)
+ N X,Y,DIC,DA,DR,DIE,IEN,NAME,RTYPE,IDATE,PS5
+"RTN","PSSMIGRD",39,0)
+ I PSS("NAME")="" D OUT^PSSMIGRC(" Error...Missing Required NAME") Q
+"RTN","PSSMIGRD",40,0)
+ S NAME=$G(PSS("NAME")),IEN=$G(PSS("IEN")),RTYPE=$G(PSS("RTYPE"))
+"RTN","PSSMIGRD",41,0)
+ S IDATE=$TR($P($G(PSS("IDATE")),"T"),"-",""),IDATE=$$HL7TFM^XLFDT(IDATE,"L")
+"RTN","PSSMIGRD",42,0)
+ S FNAME="syncResponse.XML",FNUM=50.607
+"RTN","PSSMIGRD",43,0)
+ S FNAME1="drugUnits"
+"RTN","PSSMIGRD",44,0)
+ ;
+"RTN","PSSMIGRD",45,0)
+ ;Add the DRUG UNIT to the Database
+"RTN","PSSMIGRD",46,0)
+ D:RTYPE="ADD"
+"RTN","PSSMIGRD",47,0)
+ . ; Lock the Global
+"RTN","PSSMIGRD",48,0)
+ . L +^PS(50.607):5 E  D OUT^PSSMIGRC(" Another USER editing DRUG UNIT file") Q
+"RTN","PSSMIGRD",49,0)
+ . ;
+"RTN","PSSMIGRD",50,0)
+ . ; Cheating - Remove LAYGO temporarly
+"RTN","PSSMIGRD",51,0)
+ . S ^TMP("AJF LAYGO",$J)=$G(^DD(50.607,.01,"LAYGO",.01,0))
+"RTN","PSSMIGRD",52,0)
+ . I ^TMP("AJF LAYGO",$J)]"" K ^DD(50.607,.01,"LAYGO",.01,0)
+"RTN","PSSMIGRD",53,0)
+ . ;
+"RTN","PSSMIGRD",54,0)
+ . ; Get the IEN
+"RTN","PSSMIGRD",55,0)
+ . S X=NAME,DIC=50.607,DIC(0)="LMXZ"
+"RTN","PSSMIGRD",56,0)
+ . D ^DIC
+"RTN","PSSMIGRD",57,0)
+ . S (DA,PSS("IEN"))=+Y
+"RTN","PSSMIGRD",58,0)
+ . ;
+"RTN","PSSMIGRD",59,0)
+ . ; Quit if cannot get IEN
+"RTN","PSSMIGRD",60,0)
+ . I Y<1 D  Q
+"RTN","PSSMIGRD",61,0)
+ . . D OUT^PSSMIGRC(" Error...Cannot obtain an IEN for NAME")
+"RTN","PSSMIGRD",62,0)
+ . . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.607,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",63,0)
+ . ;
+"RTN","PSSMIGRD",64,0)
+ . ; Set Database Variables
+"RTN","PSSMIGRD",65,0)
+ . S PSS("IEN")=DA,DIE=DIC K DIC
+"RTN","PSSMIGRD",66,0)
+ . ;S DR=".01///^S X=NAME;1///^S X=IDATE"
+"RTN","PSSMIGRD",67,0)
+ . S DR="1///^S X=IDATE"
+"RTN","PSSMIGRD",68,0)
+ . ;
+"RTN","PSSMIGRD",69,0)
+ . ; Update Database
+"RTN","PSSMIGRD",70,0)
+ . D ^DIE
+"RTN","PSSMIGRD",71,0)
+ . ;
+"RTN","PSSMIGRD",72,0)
+ . ; Put LAYGO back
+"RTN","PSSMIGRD",73,0)
+ . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.607,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",74,0)
+ . L -^PS(50.607)
+"RTN","PSSMIGRD",75,0)
+ ;
+"RTN","PSSMIGRD",76,0)
+ D:RTYPE="MODIFY"
+"RTN","PSSMIGRD",77,0)
+ .S DA=PSS("IEN"),DIE="^PS(50.607,"
+"RTN","PSSMIGRD",78,0)
+ .;S DR=".01///^S X=NAME;1///"_$S(IDATE]"":"^S X=IDATE",1:"@")
+"RTN","PSSMIGRD",79,0)
+ .S PS5=$G(^PS(50.607,DA,0)),DR="",PQ=""
+"RTN","PSSMIGRD",80,0)
+ .S:$P(PS5,"^",1)'=NAME DR=".01///^S X=NAME" S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",81,0)
+ .S DR=DR_PQ_"1///"_$S(IDATE]"":"^S X=IDATE",1:"@")
+"RTN","PSSMIGRD",82,0)
+ .D ^DIE
+"RTN","PSSMIGRD",83,0)
+ ;
+"RTN","PSSMIGRD",84,0)
+ S XMESS="<message>  Updated Drug Units: "_NAME_" </message>"
+"RTN","PSSMIGRD",85,0)
+ S XIEN="<ien>"_PSS("IEN")_"</ien>"
+"RTN","PSSMIGRD",86,0)
+ K DIC,DA,DR,DIE,^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",87,0)
+ Q
+"RTN","PSSMIGRD",88,0)
+ ;
+"RTN","PSSMIGRD",89,0)
+VADU ; VA Dispense UNIT file Synch
+"RTN","PSSMIGRD",90,0)
+ ;
+"RTN","PSSMIGRD",91,0)
+ N X,Y,DIC,DA,DR,DIE,IEN,NAME,RTYPE,IDATE
+"RTN","PSSMIGRD",92,0)
+ S IEN=$G(PSS("IEN")),NAME=$G(PSS("NAME")),RTYPE=$G(PSS("RTYPE"))
+"RTN","PSSMIGRD",93,0)
+ S IDATE=$TR($P($G(PSS("IDATE")),"T"),"-",""),IDATE=$$HL7TFM^XLFDT(IDATE,"L")
+"RTN","PSSMIGRD",94,0)
+ S FNUM=50.64,FNAME="syncResponse.XML",FNAME1="vaDispenseUnits"
+"RTN","PSSMIGRD",95,0)
+ S ERROR=0
+"RTN","PSSMIGRD",96,0)
+ ;
+"RTN","PSSMIGRD",97,0)
+ ; Quit if REQUIRED DATA is Missing
+"RTN","PSSMIGRD",98,0)
+ I RTYPE="MODIFY",'+(PSS("IEN")) D OUT^PSSMIGRC(" Error... Invalid IEN") Q
+"RTN","PSSMIGRD",99,0)
+ I NAME="" D OUT^PSSMIGRC(" Error...Missing Required NAME") Q
+"RTN","PSSMIGRD",100,0)
+ I RTYPE'="ADD",RTYPE'="MODIFY"  D OUT^PSSMIGRC("Error...Invalid Request Type") Q
+"RTN","PSSMIGRD",101,0)
+ ;
+"RTN","PSSMIGRD",102,0)
+ ;Add the Dispense UNIT to the Database
+"RTN","PSSMIGRD",103,0)
+ D:RTYPE="ADD"
+"RTN","PSSMIGRD",104,0)
+ . ; Lock the Global
+"RTN","PSSMIGRD",105,0)
+ . L +^PSNDF(50.64):5 E  S ERROR=1 D OUT^PSSMIGRC(" *Another USER editing VA Dispense Unit file") Q
+"RTN","PSSMIGRD",106,0)
+ . ;
+"RTN","PSSMIGRD",107,0)
+ . ; Cheating - Remove LAYGO temporarly
+"RTN","PSSMIGRD",108,0)
+ . S ^TMP("AJF LAYGO",$J)=$G(^DD(50.64,.01,"LAYGO",.01,0))
+"RTN","PSSMIGRD",109,0)
+ . I ^TMP("AJF LAYGO",$J)]"" K ^DD(50.64,.01,"LAYGO",.01,0)
+"RTN","PSSMIGRD",110,0)
+ . ;
+"RTN","PSSMIGRD",111,0)
+ . ; Get the IEN
+"RTN","PSSMIGRD",112,0)
+ . S X=NAME,DIC=50.64,DIC(0)="LMXZ"
+"RTN","PSSMIGRD",113,0)
+ . D ^DIC
+"RTN","PSSMIGRD",114,0)
+ . S (DA,PSS("IEN"))=+Y
+"RTN","PSSMIGRD",115,0)
+ . ;
+"RTN","PSSMIGRD",116,0)
+ . ; Quit if cannot get IEN
+"RTN","PSSMIGRD",117,0)
+ . I Y<1 D  Q
+"RTN","PSSMIGRD",118,0)
+ . . S ERROR=1
+"RTN","PSSMIGRD",119,0)
+ . . D OUT^PSSMIGRC(" Error...Cannot obtain an IEN for NAME")
+"RTN","PSSMIGRD",120,0)
+ . . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.64,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",121,0)
+ . ;
+"RTN","PSSMIGRD",122,0)
+ . ;Set Database Variables
+"RTN","PSSMIGRD",123,0)
+ . S PSS("IEN")=DA,DIE=DIC K DIC
+"RTN","PSSMIGRD",124,0)
+ . ;S DR=".01///^S X=NAME;1///^S X=IDATE"
+"RTN","PSSMIGRD",125,0)
+ . S DR="1///^S X=IDATE"
+"RTN","PSSMIGRD",126,0)
+ . ;
+"RTN","PSSMIGRD",127,0)
+ . ; Update Database
+"RTN","PSSMIGRD",128,0)
+ . D ^DIE
+"RTN","PSSMIGRD",129,0)
+ . ;
+"RTN","PSSMIGRD",130,0)
+ . ; Put LAYGO back
+"RTN","PSSMIGRD",131,0)
+ . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.64,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",132,0)
+ . L -^PSNDF(50.64)
+"RTN","PSSMIGRD",133,0)
+ ;
+"RTN","PSSMIGRD",134,0)
+ Q:ERROR
+"RTN","PSSMIGRD",135,0)
+ D:RTYPE="MODIFY"
+"RTN","PSSMIGRD",136,0)
+ .S DA=PSS("IEN"),DIE=50.64
+"RTN","PSSMIGRD",137,0)
+ .S PS5=$G(^PSNDF(50.64,DA,0)),DR="",PQ=""
+"RTN","PSSMIGRD",138,0)
+ .S:$P(PS5,"^",1)'=NAME DR=".01///^S X=NAME" S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",139,0)
+ .S DR=DR_PQ_"1///"_$S(IDATE]"":"^S X=IDATE",1:"@")
+"RTN","PSSMIGRD",140,0)
+ .D ^DIE
+"RTN","PSSMIGRD",141,0)
+ ;
+"RTN","PSSMIGRD",142,0)
+ S XMESS="<message> Updated Dispense Units "_NAME_" </message>"
+"RTN","PSSMIGRD",143,0)
+ S XIEN="<ien>"_PSS("IEN")_"</ien>"
+"RTN","PSSMIGRD",144,0)
+ Q
+"RTN","PSSMIGRD",145,0)
+ ;
+"RTN","PSSMIGRD",146,0)
+DING ; Drug Ingredients file Synch
+"RTN","PSSMIGRD",147,0)
+ ;
+"RTN","PSSMIGRD",148,0)
+ N X,Y,DIC,DA,DR,DIE,IEN,NAME,RTYPE,IDATE,PRIMARY,MVUID,VUID,EFFDT,STATUS
+"RTN","PSSMIGRD",149,0)
+ S IEN=$G(PSS("IEN")),NAME=$G(PSS("NAME")),RTYPE=$G(PSS("RTYPE"))
+"RTN","PSSMIGRD",150,0)
+ S PRIMARY=$G(PSS("PRIMARY")),MVUID=$G(PSS("MASTERVUID")),VUID=$G(PSS("VUID"))
+"RTN","PSSMIGRD",151,0)
+ S EFFDT=$G(PSS("EFFDATE")),STATUS=$G(PSS("STATUS"))
+"RTN","PSSMIGRD",152,0)
+ S IDATE=$TR($P($G(PSS("INACTDATE")),"T"),"-",""),IDATE=$$HL7TFM^XLFDT(IDATE,"L")
+"RTN","PSSMIGRD",153,0)
+ S FNUM=50.416,FNAME="syncResponse.XML",FNAME1="drugIngredients"
+"RTN","PSSMIGRD",154,0)
+ ;
+"RTN","PSSMIGRD",155,0)
+ ; Quit if REQUIRED DATA is Missing
+"RTN","PSSMIGRD",156,0)
+ I NAME="" D OUT^PSSMIGRC(" Error...Missing Required NAME") Q
+"RTN","PSSMIGRD",157,0)
+ I MVUID="" D OUT^PSSMIGRC(" Error...Missing Required MASTER VUID") Q
+"RTN","PSSMIGRD",158,0)
+ I VUID="" D OUT^PSSMIGRC(" Error...Missing Required VUID") Q
+"RTN","PSSMIGRD",159,0)
+ I EFFDT="" D OUT^PSSMIGRC(" Error...Missing Required EFFECTIVE DATE") Q
+"RTN","PSSMIGRD",160,0)
+ I STATUS="" D OUT^PSSMIGRC(" Error...Missing Required STATUS") Q
+"RTN","PSSMIGRD",161,0)
+ I RTYPE="MODIFY",'+(PSS("IEN")) D OUT^PSSMIGRC(" Error... Invalid IEN") Q
+"RTN","PSSMIGRD",162,0)
+ ;
+"RTN","PSSMIGRD",163,0)
+ S EFFDT=$$DATE($G(PSS("EFFDATE")))
+"RTN","PSSMIGRD",164,0)
+ ;
+"RTN","PSSMIGRD",165,0)
+ ;Add the Ingredient to the Database
+"RTN","PSSMIGRD",166,0)
+ D:RTYPE="ADD"
+"RTN","PSSMIGRD",167,0)
+ . ; Lock the Global
+"RTN","PSSMIGRD",168,0)
+ . ;L +^PS(50.416):5 E  D OUT^PSSMIGRC(" Another USER is editing Drug Ingredients file") Q
+"RTN","PSSMIGRD",169,0)
+ . ;
+"RTN","PSSMIGRD",170,0)
+ . ; Cheating - Remove LAYGO temporarly
+"RTN","PSSMIGRD",171,0)
+ . S ^TMP("AJF LAYGO",$J)=$G(^DD(50.416,.01,"LAYGO",.01,0))
+"RTN","PSSMIGRD",172,0)
+ . I ^TMP("AJF LAYGO",$J)]"" K ^DD(50.416,.01,"LAYGO",.01,0)
+"RTN","PSSMIGRD",173,0)
+ . ;
+"RTN","PSSMIGRD",174,0)
+ . ; Get the IEN
+"RTN","PSSMIGRD",175,0)
+ . S X=NAME,DIC=50.416,DIC(0)="LMXZ"
+"RTN","PSSMIGRD",176,0)
+ . D ^DIC
+"RTN","PSSMIGRD",177,0)
+ . S (DA,PSS("IEN"),PIEN)=+Y
+"RTN","PSSMIGRD",178,0)
+ . ;
+"RTN","PSSMIGRD",179,0)
+ . ; Quit if cannot get IEN
+"RTN","PSSMIGRD",180,0)
+ . I Y<1 D  Q
+"RTN","PSSMIGRD",181,0)
+ . . D OUT^PSSMIGRC(" Error...Cannot obtain an IEN for NAME")
+"RTN","PSSMIGRD",182,0)
+ . . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.416,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",183,0)
+ . ;
+"RTN","PSSMIGRD",184,0)
+ . ; Set Database Variables
+"RTN","PSSMIGRD",185,0)
+ . S DIE=DIC K DIC
+"RTN","PSSMIGRD",186,0)
+ . S DR="2///^S X=PRIMARY;3///^S X=IDATE;99.98///^S X=MVUID;99.99///^S X=VUID"
+"RTN","PSSMIGRD",187,0)
+ . S (PSS("IEN"),PIEN)=DA
+"RTN","PSSMIGRD",188,0)
+ . ;
+"RTN","PSSMIGRD",189,0)
+ . ; Update Database
+"RTN","PSSMIGRD",190,0)
+ . D ^DIE
+"RTN","PSSMIGRD",191,0)
+ . ; Stuff EFFECTIVE DATE/TIME entries
+"RTN","PSSMIGRD",192,0)
+ . S DIC="^PS(50.416,"_PIEN_",""TERMSTATUS"",",DIC(0)="L",DIC("P")="50.4169A"
+"RTN","PSSMIGRD",193,0)
+ . S DA(1)=PIEN,DA=1,X=EFFDT
+"RTN","PSSMIGRD",194,0)
+ . D FILE^DICN
+"RTN","PSSMIGRD",195,0)
+ . S DIE=DIC,DR=".02///^S X=STATUS"
+"RTN","PSSMIGRD",196,0)
+ . D ^DIE
+"RTN","PSSMIGRD",197,0)
+ . ;
+"RTN","PSSMIGRD",198,0)
+ . ;
+"RTN","PSSMIGRD",199,0)
+ . ; Put LAYGO back
+"RTN","PSSMIGRD",200,0)
+ . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.416,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",201,0)
+ . ;L -^PS(50.416)
+"RTN","PSSMIGRD",202,0)
+ . ;
+"RTN","PSSMIGRD",203,0)
+ . ; Updating ^NDFK files
+"RTN","PSSMIGRD",204,0)
+ . ;
+"RTN","PSSMIGRD",205,0)
+ . I NAME]"" S X=NAME,DIC=5000.508,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRD",206,0)
+ . ;
+"RTN","PSSMIGRD",207,0)
+ D:RTYPE="MODIFY"
+"RTN","PSSMIGRD",208,0)
+ .S (DA,PIEN)=PSS("IEN"),DIE=50.416
+"RTN","PSSMIGRD",209,0)
+ .S PS5=$G(^PS(50.416,DA,0)),PSMV=$G(^PS(50.416,DA,"VUID")),DR="",PQ=""
+"RTN","PSSMIGRD",210,0)
+ .S OPN=$P(PS5,"^",2)
+"RTN","PSSMIGRD",211,0)
+ .S:+OPN OPN=$P($G(^PS(50.416,OPN,0)),"^")
+"RTN","PSSMIGRD",212,0)
+ .S:OPN'=PRIMARY DR="2///"_$S(PRIMARY]"":"^S X=PRIMARY",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",213,0)
+ .S:$P($G(^PS(50.416,DA,2)),"^",1)'=IDATE DR=DR_PQ_"3///"_$S(IDATE]"":"^S X=IDATE",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",214,0)
+ .;S CMVUID=$P(PSMV,"^",2),CMVUID=$S(CMVUID=1:"YES",CMVUID=0:"NO",1:"")
+"RTN","PSSMIGRD",215,0)
+ .S:$P(PSMV,"^",2)'=MVUID DR=DR_PQ_"99.98///^S X=MVUID" S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",216,0)
+ .S:$P(PSMV,"^",1)'=VUID DR=DR_PQ_"99.99///^S X=VUID" S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",217,0)
+ .;
+"RTN","PSSMIGRD",218,0)
+ .; Update Database
+"RTN","PSSMIGRD",219,0)
+ .D ^DIE
+"RTN","PSSMIGRD",220,0)
+ .;
+"RTN","PSSMIGRD",221,0)
+ ;
+"RTN","PSSMIGRD",222,0)
+ S XMESS="<message><![CDATA[ Updated Drug Ingredients: "_NAME_" ]]></message>"
+"RTN","PSSMIGRD",223,0)
+ S XIEN="<ien>"_PSS("IEN")_"</ien>"
+"RTN","PSSMIGRD",224,0)
+ K DIC,DA,DR,DIE,^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",225,0)
+ Q
+"RTN","PSSMIGRD",226,0)
+ ;
+"RTN","PSSMIGRD",227,0)
+VADC ;VA DRUG CLASS Sync
+"RTN","PSSMIGRD",228,0)
+ ;
+"RTN","PSSMIGRD",229,0)
+ N DA,DIE,DR,CLASS,CODE,PARENTCLASS,TYPE,RTYPE,DESC,VUID,MVUID,EFFDT,STATUS,PCIEN,PCODE
+"RTN","PSSMIGRD",230,0)
+ S PCLASS=$G(PSS("PCLASS")),PCODE=$G(PSS("PCODE")),PCIEN=$G(PSS("PCIEN"))
+"RTN","PSSMIGRD",231,0)
+ S CODE=$G(PSS("CLASSCODE")),CLASS=$G(PSS("CLASSCLASS")),TYPE=$G(PSS("TYPE"))
+"RTN","PSSMIGRD",232,0)
+ S RTYPE=$G(PSS("RTYPE")),DESC=$G(PSS("DESC")),VUID=$G(PSS("VUID"))
+"RTN","PSSMIGRD",233,0)
+ S MVUID=$G(PSS("MASTERVUID")),IEN=$G(PSS("IEN"))
+"RTN","PSSMIGRD",234,0)
+ S EFFDT=$G(PSS("EFFDATE")),STATUS=$G(PSS("STATUS")),DESC=$G(PSS("DESC"))
+"RTN","PSSMIGRD",235,0)
+ S FNUM=50.605,FNAME="syncResponse.XML",FNAME1="vaDrugClass"
+"RTN","PSSMIGRD",236,0)
+ ;
+"RTN","PSSMIGRD",237,0)
+ ; Quit if REQUIRED DATA is Missing
+"RTN","PSSMIGRD",238,0)
+ I CODE="" D OUT^PSSMIGRC(" Error...Missing Required VA DRUG CLASS CODE") Q
+"RTN","PSSMIGRD",239,0)
+ I MVUID="" D OUT^PSSMIGRC(" Error...Missing Required VA DRUG CLASS MASTER VUID") Q
+"RTN","PSSMIGRD",240,0)
+ I VUID="" D OUT^PSSMIGRC(" Error...Missing Required VA DRUG CLASS VUID") Q
+"RTN","PSSMIGRD",241,0)
+ I EFFDT="" D OUT^PSSMIGRC(" Error...Missing Required VA DRUG CLASS EFFECTIVE DATE") Q
+"RTN","PSSMIGRD",242,0)
+ I STATUS="" D OUT^PSSMIGRC(" Error...Missing Required VA DRUG CLASS STATUS") Q
+"RTN","PSSMIGRD",243,0)
+ ;
+"RTN","PSSMIGRD",244,0)
+ S EFFDT=$$DATE($G(PSS("EFFDATE")))
+"RTN","PSSMIGRD",245,0)
+ ;
+"RTN","PSSMIGRD",246,0)
+ ;Add the VA DRUG Class to the Database
+"RTN","PSSMIGRD",247,0)
+ D:RTYPE="ADD"
+"RTN","PSSMIGRD",248,0)
+ . ; Lock the Global
+"RTN","PSSMIGRD",249,0)
+ . L +^PS(50.605):5 E  D OUT^PSSMIGRC(" *VA DRUG CLASS file NOT UPDATED. Another USER editing file") Q
+"RTN","PSSMIGRD",250,0)
+ . ;
+"RTN","PSSMIGRD",251,0)
+ . ; Cheating - Remove the check for LAYGO temporarly
+"RTN","PSSMIGRD",252,0)
+ . S ^TMP("AJF LAYGO",$J)=$G(^DD(50.605,.01,"LAYGO",.01,0))
+"RTN","PSSMIGRD",253,0)
+ . I ^TMP("AJF LAYGO",$J)]"" K ^DD(50.605,.01,"LAYGO",.01,0)
+"RTN","PSSMIGRD",254,0)
+ . ;
+"RTN","PSSMIGRD",255,0)
+ . ; Get the IEN
+"RTN","PSSMIGRD",256,0)
+ . S X=CODE,DIC=50.605,DIC(0)="LMXZ"
+"RTN","PSSMIGRD",257,0)
+ . D ^DIC
+"RTN","PSSMIGRD",258,0)
+ . S (DA,PSS("IEN"),PIEN)=+Y
+"RTN","PSSMIGRD",259,0)
+ . ;
+"RTN","PSSMIGRD",260,0)
+ . ; Quit if cannot get IEN
+"RTN","PSSMIGRD",261,0)
+ . I Y<1 D  Q
+"RTN","PSSMIGRD",262,0)
+ . . D OUT^PSSMIGRC(" Error...Cannot obtain an IEN for VA DRUG CLASS - CLASS CODE")
+"RTN","PSSMIGRD",263,0)
+ . . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.605,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",264,0)
+ . ;
+"RTN","PSSMIGRD",265,0)
+ . ; Set Database Variables
+"RTN","PSSMIGRD",266,0)
+ . S DIE=DIC K DIC
+"RTN","PSSMIGRD",267,0)
+ . S DR="1///^S X=CLASS;2///^S X=PCIEN;3///^S X=TYPE;4///^S X=DESC;"
+"RTN","PSSMIGRD",268,0)
+ . S DR=DR_"99.98///^S X=MVUID;99.99///^S X=VUID"
+"RTN","PSSMIGRD",269,0)
+ . ;
+"RTN","PSSMIGRD",270,0)
+ . ; Update Database
+"RTN","PSSMIGRD",271,0)
+ . D ^DIE
+"RTN","PSSMIGRD",272,0)
+ . ; Stuff EFFECTIVE DATE/TIME entries
+"RTN","PSSMIGRD",273,0)
+ . S DIC="^PS(50.605,"_PIEN_",""TERMSTATUS"",",DIC(0)="L",DIC("P")="50.60509DA"
+"RTN","PSSMIGRD",274,0)
+ . S DA(1)=PIEN,DA=1,X=EFFDT
+"RTN","PSSMIGRD",275,0)
+ . D FILE^DICN
+"RTN","PSSMIGRD",276,0)
+ . S DIE=DIC,DR=".02///^S X=STATUS"
+"RTN","PSSMIGRD",277,0)
+ . D ^DIE
+"RTN","PSSMIGRD",278,0)
+ . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.605,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",279,0)
+ . L -^PS(50.605)
+"RTN","PSSMIGRD",280,0)
+ ;
+"RTN","PSSMIGRD",281,0)
+ D:RTYPE="MODIFY"
+"RTN","PSSMIGRD",282,0)
+ .S (DA,PIEN)=PSS("IEN"),DIE=50.605
+"RTN","PSSMIGRD",283,0)
+ .S PS5=$G(^PS(50.605,DA,0)),PSMV=$G(^PS(50.605,DA,"VUID")),DR="",PQ=""
+"RTN","PSSMIGRD",284,0)
+ .S:$P(PS5,"^",3)'=PCIEN DR="2///"_$S(PCIEN]"":"^S X=PCIEN",1:"@"),PQ=";"
+"RTN","PSSMIGRD",285,0)
+ .S:$P(PS5,"^",4)'=TYPE DR=DR_PQ_"3///^S X=TYPE",PQ=";"
+"RTN","PSSMIGRD",286,0)
+ .S:$P($G(^PS(50.605,DA,1)),"^",1)'=DESC DR=DR_PQ_"4///^S X=DESC",PQ=";"
+"RTN","PSSMIGRD",287,0)
+ .;S CMVUID=$P(PSMV,"^",2),CMVUID=$S(CMVUID=1:"YES",CMVUID=0:"NO",1:"")
+"RTN","PSSMIGRD",288,0)
+ .S:$P(PSMV,"^",2)'=MVUID DR=DR_PQ_"99.98///^S X=MVUID" S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",289,0)
+ .S:$P(PSMV,"^",1)'=VUID DR=DR_PQ_"99.99///^S X=VUID" S:$L(DR) PQ=";"
+"RTN","PSSMIGRD",290,0)
+ . ;
+"RTN","PSSMIGRD",291,0)
+ . ; Update Database
+"RTN","PSSMIGRD",292,0)
+ . D ^DIE
+"RTN","PSSMIGRD",293,0)
+ ;
+"RTN","PSSMIGRD",294,0)
+ S XMESS="<message>  Updated Drug Class "_CODE_" </message>"
+"RTN","PSSMIGRD",295,0)
+ S XIEN="<ien>"_PSS("IEN")_"</ien>"
+"RTN","PSSMIGRD",296,0)
+ Q
+"RTN","PSSMIGRD",297,0)
+ ;
+"RTN","PSSMIGRD",298,0)
+DSFO ;DOSAGE FORM Sync
+"RTN","PSSMIGRD",299,0)
+ ;
+"RTN","PSSMIGRD",300,0)
+ ;
+"RTN","PSSMIGRD",301,0)
+ N X,Y,DIC,DA,DR,DIE,NAME,EXCLUDE,PACKAGE,PDPACKAGE,PERDOSE,UNIT,PIEN
+"RTN","PSSMIGRD",302,0)
+ S NAME=$G(PSS("NAME")),EXCLUDE=$G(PSS("EXCLUDE")),RTYPE=$G(PSS("RTYPE"))
+"RTN","PSSMIGRD",303,0)
+ S IDATE=$TR($P($G(PSS("INACTDATE")),"T"),"-",""),IDATE=$$HL7TFM^XLFDT(IDATE)
+"RTN","PSSMIGRD",304,0)
+ S PERDOSE=$G(PSS("PERDOSE")),PDPACKAGE=$G(PSS("PDPACKAGE"))
+"RTN","PSSMIGRD",305,0)
+ S UNIT=$G(PSS("UNITS")),PACKAGE=$G(PSS("PACKAGE"))
+"RTN","PSSMIGRD",306,0)
+ S FNUM=50.606,FNAME="syncResponse.XML",FNAME1="dosageForm"
+"RTN","PSSMIGRD",307,0)
+ ;
+"RTN","PSSMIGRD",308,0)
+ I NAME="" D OUT^PSSMIGRC(" Error...Missing Required DOSAGE FORM NAME") Q
+"RTN","PSSMIGRD",309,0)
+ I EXCLUDE="" D OUT^PSSMIGRC(" Error...Missing Required Exclude From Dosage Checks FLAG") Q
+"RTN","PSSMIGRD",310,0)
+ I RTYPE'="ADD",RTYPE'="MODIFY"  D OUT^PSSMIGRC("Error...Invalid Request Type") Q
+"RTN","PSSMIGRD",311,0)
+ ;
+"RTN","PSSMIGRD",312,0)
+ ;Add the DOSAGE FORM to the Database
+"RTN","PSSMIGRD",313,0)
+ D:RTYPE="ADD"
+"RTN","PSSMIGRD",314,0)
+ . ;L +^PS(50.606):5 E  D OUT^PSSMIGRC(" Another USER editing DOSAGE FORM file") Q
+"RTN","PSSMIGRD",315,0)
+ . ;L -^PS(50.606)
+"RTN","PSSMIGRD",316,0)
+ . ;
+"RTN","PSSMIGRD",317,0)
+ . ; Cheating - Remove the check for LAYGO temporarly
+"RTN","PSSMIGRD",318,0)
+ . S ^TMP("AJF LAYGO",$J)=$G(^DD(50.606,.01,"LAYGO",.01,0))
+"RTN","PSSMIGRD",319,0)
+ . I ^TMP("AJF LAYGO",$J)]"" K ^DD(50.606,.01,"LAYGO",.01,0)
+"RTN","PSSMIGRD",320,0)
+ . ;
+"RTN","PSSMIGRD",321,0)
+ . ; Get the IEN
+"RTN","PSSMIGRD",322,0)
+ . S X=NAME,DIC=50.606,DIC(0)="LMXZ"
+"RTN","PSSMIGRD",323,0)
+ . D ^DIC I Y<1 K DIC,DA Q
+"RTN","PSSMIGRD",324,0)
+ . ;
+"RTN","PSSMIGRD",325,0)
+ . ; Set Database Variables
+"RTN","PSSMIGRD",326,0)
+ . S DIE=DIC K DIC
+"RTN","PSSMIGRD",327,0)
+ . S DA=+Y
+"RTN","PSSMIGRD",328,0)
+ . S DR="7///^S X=IDATE;11///^S X=EXCLUDE"
+"RTN","PSSMIGRD",329,0)
+ . S (PSS("IEN"),PIEN)=DA
+"RTN","PSSMIGRD",330,0)
+ . ;
+"RTN","PSSMIGRD",331,0)
+ . ; Update Database
+"RTN","PSSMIGRD",332,0)
+ . D ^DIE
+"RTN","PSSMIGRD",333,0)
+ . ;
+"RTN","PSSMIGRD",334,0)
+ . D DUPD
+"RTN","PSSMIGRD",335,0)
+ . ;
+"RTN","PSSMIGRD",336,0)
+ . ; Put LAYGO back
+"RTN","PSSMIGRD",337,0)
+ . S:^TMP("AJF LAYGO",$J)]"" ^DD(50.606,.01,"LAYGO",.01,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRD",338,0)
+ ;
+"RTN","PSSMIGRD",339,0)
+ D:RTYPE="MODIFY"
+"RTN","PSSMIGRD",340,0)
+ . S DA=PSS("IEN"),DIE=50.606
+"RTN","PSSMIGRD",341,0)
+ . S PS5=$G(^PS(50.606,DA,0)),DR="",PQ=""
+"RTN","PSSMIGRD",342,0)
+ . S:$P(PS5,"^",2)'=IDATE DR="7///"_$S(IDATE]"":"^S X=IDATE",1:"@"),PQ=";"
+"RTN","PSSMIGRD",343,0)
+ . S PSX=$P($G(^PS(50.606,DA,1)),"^",1),PSX=$S(PSX=0:"NO",PSX=1:"YES",1:"")
+"RTN","PSSMIGRD",344,0)
+ . S:PSX'=EXCLUDE DR=DR_PQ_"11///^S X=EXCLUDE"
+"RTN","PSSMIGRD",345,0)
+ . ;
+"RTN","PSSMIGRD",346,0)
+ . ; Update Database
+"RTN","PSSMIGRD",347,0)
+ . D ^DIE
+"RTN","PSSMIGRD",348,0)
+ . S PIEN=DA
+"RTN","PSSMIGRD",349,0)
+ . D DUPD
+"RTN","PSSMIGRD",350,0)
+ ;
+"RTN","PSSMIGRD",351,0)
+ ;
+"RTN","PSSMIGRD",352,0)
+ ;
+"RTN","PSSMIGRD",353,0)
+ Q:$G(ERROR)=1
+"RTN","PSSMIGRD",354,0)
+ ;
+"RTN","PSSMIGRD",355,0)
+ S XMESS="<message> <![CDATA[ Updated Dosage Form "_NAME_"]]> </message>"
+"RTN","PSSMIGRD",356,0)
+ S XIEN="<ien>"_PSS("IEN")_"</ien>"
+"RTN","PSSMIGRD",357,0)
+ K DIC,DA,DR,DIE,^TMP("AJF LAYGO",$J),^TMP("AJF LAYGO DF",$J),^TMP("AJF LAYGO UT",$J)
+"RTN","PSSMIGRD",358,0)
+ Q
+"RTN","PSSMIGRD",359,0)
+ ;
+"RTN","PSSMIGRD",360,0)
+DUPD ;
+"RTN","PSSMIGRD",361,0)
+ ;
+"RTN","PSSMIGRD",362,0)
+ I +PERDOSE D
+"RTN","PSSMIGRD",363,0)
+ . N CNT,UPACK,DA,PSDUPD S (DA,CNT)=0
+"RTN","PSSMIGRD",364,0)
+ . S DIC="^PS(50.606,"_PIEN_",""DUPD"",",DIC(0)="L",DIC("P")="50.6069"
+"RTN","PSSMIGRD",365,0)
+ . ; Cheating - Remove the check for LAYGO temporarly
+"RTN","PSSMIGRD",366,0)
+ . S ^TMP("AJF LAYGO DF",$J)=$G(^DD(50.6069,.01,"LAYGO",1,0))
+"RTN","PSSMIGRD",367,0)
+ . I ^TMP("AJF LAYGO DF",$J)]"" K ^DD(50.6069,.01,"LAYGO",1,0)
+"RTN","PSSMIGRD",368,0)
+ . F CNT=1:1:PERDOSE Q:'$D(PSS("PDDOSE"_CNT))  D
+"RTN","PSSMIGRD",369,0)
+ .. S DA=$O(^PS(50.606,PIEN,"DUPD","B",PSS("PDDOSE"_CNT),""))
+"RTN","PSSMIGRD",370,0)
+ .. I '+DA S DA(1)=PIEN,DA=CNT,X=PSS("PDDOSE"_CNT) D FILE^DICN
+"RTN","PSSMIGRD",371,0)
+ .. S DA(1)=PIEN,OPACK="",PSDUPD(PSS("PDDOSE"_CNT))=""
+"RTN","PSSMIGRD",372,0)
+ .. S DA=$O(^PS(50.606,PIEN,"DUPD","B",PSS("PDDOSE"_CNT),""))
+"RTN","PSSMIGRD",373,0)
+ .. S:+DA OPACK=$P(^PS(50.606,PIEN,"DUPD",DA,0),"^",2)
+"RTN","PSSMIGRD",374,0)
+ .. S UPACK=$G(PSS("PDPACKAGE"_CNT))
+"RTN","PSSMIGRD",375,0)
+ .. I OPACK'=UPACK S DIE=DIC,DR="1///"_$S(UPACK]"":"^S X=UPACK",1:"@") D ^DIE
+"RTN","PSSMIGRD",376,0)
+ . ;
+"RTN","PSSMIGRD",377,0)
+ . ; Removing old entries from multiple
+"RTN","PSSMIGRD",378,0)
+ . S CNT=0,DIK="^PS(50.606,"_PIEN_",""DUPD"",",DA(1)=PIEN
+"RTN","PSSMIGRD",379,0)
+ . F  S CNT=$O(^PS(50.606,PIEN,"DUPD","B",CNT)) Q:CNT=""  D
+"RTN","PSSMIGRD",380,0)
+ .. Q:$D(PSDUPD(CNT))
+"RTN","PSSMIGRD",381,0)
+ .. S DA=$O(^PS(50.606,PIEN,"DUPD","B",CNT,""))
+"RTN","PSSMIGRD",382,0)
+ .. D ^DIK
+"RTN","PSSMIGRD",383,0)
+ . S:^TMP("AJF LAYGO DF",$J)]"" ^DD(50.6069,.01,"LAYGO",1,0)=^TMP("AJF LAYGO DF",$J)
+"RTN","PSSMIGRD",384,0)
+ ;
+"RTN","PSSMIGRD",385,0)
+ ;
+"RTN","PSSMIGRD",386,0)
+ I +UNIT D
+"RTN","PSSMIGRD",387,0)
+ . N CNT,UPACK,DA,PSUNITS S (DA,CNT)=0
+"RTN","PSSMIGRD",388,0)
+ . S DIC="^PS(50.606,"_PIEN_",""UNIT"",",DIC(0)="L",DIC("P")="50.6068P"
+"RTN","PSSMIGRD",389,0)
+ . ; Cheating - Remove the check for LAYGO temporarly
+"RTN","PSSMIGRD",390,0)
+ . S ^TMP("AJF LAYGO UT",$J)=$G(^DD(50.6068,.01,"LAYGO",1,0))
+"RTN","PSSMIGRD",391,0)
+ . I ^TMP("AJF LAYGO UT",$J)]"" K ^DD(50.6068,.01,"LAYGO",1,0)
+"RTN","PSSMIGRD",392,0)
+ . ;
+"RTN","PSSMIGRD",393,0)
+ . F CNT=1:1:UNIT Q:'$D(PSS("UNITS"_CNT))  D
+"RTN","PSSMIGRD",394,0)
+ .. S DA=$O(^PS(50.606,PIEN,"UNIT","B",PSS("UNITSIEN"_CNT),""))
+"RTN","PSSMIGRD",395,0)
+ .. I '+DA S DA(1)=PIEN,DA=CNT,X=PSS("UNITSIEN"_CNT) D FILE^DICN
+"RTN","PSSMIGRD",396,0)
+ .. S DA(1)=PIEN,OPACK="",PSUNITS(PSS("UNITSIEN"_CNT))=""
+"RTN","PSSMIGRD",397,0)
+ .. S DA=$O(^PS(50.606,PIEN,"UNIT","B",PSS("UNITSIEN"_CNT),""))
+"RTN","PSSMIGRD",398,0)
+ .. S:+DA OPACK=$P(^PS(50.606,PIEN,"UNIT",DA,0),"^",2)
+"RTN","PSSMIGRD",399,0)
+ .. S UPACK=$G(PSS("PACKAGE"_CNT))
+"RTN","PSSMIGRD",400,0)
+ .. I OPACK'=UPACK S DIE=DIC,DR="1///"_$S(UPACK]"":"^S X=UPACK",1:"@") D ^DIE
+"RTN","PSSMIGRD",401,0)
+ . ;
+"RTN","PSSMIGRD",402,0)
+ . ; Removing old entries from multiple
+"RTN","PSSMIGRD",403,0)
+ . S CNT=0,DIK="^PS(50.606,"_PIEN_",""UNIT"",",DA(1)=PIEN
+"RTN","PSSMIGRD",404,0)
+ . F  S CNT=$O(^PS(50.606,PIEN,"UNIT","B",CNT)) Q:CNT=""  D
+"RTN","PSSMIGRD",405,0)
+ .. Q:$D(PSUNITS(CNT))
+"RTN","PSSMIGRD",406,0)
+ .. S DA=$O(^PS(50.606,PIEN,"UNIT","B",CNT,""))
+"RTN","PSSMIGRD",407,0)
+ .. D ^DIK
+"RTN","PSSMIGRD",408,0)
+ . S:^TMP("AJF LAYGO UT",$J)]"" ^DD(50.6068,.01,"LAYGO",1,0)=^TMP("AJF LAYGO UT",$J)
+"RTN","PSSMIGRD",409,0)
+ ;
+"RTN","PSSMIGRD",410,0)
+ ;
+"RTN","PSSMIGRD",411,0)
+ ;
+"RTN","PSSMIGRD",412,0)
+DATE(DT) ; Format date time
+"RTN","PSSMIGRD",413,0)
+ ;
+"RTN","PSSMIGRD",414,0)
+ Q:$L(DT)="" ""
+"RTN","PSSMIGRD",415,0)
+ S FDT=$TR($P($G(DT),"T"),"-","")
+"RTN","PSSMIGRD",416,0)
+ ;S $TR($P(DT,"."),":",""),FDT=$TR(FDT,"-",""),FDT=$TR(FDT,"T","")
+"RTN","PSSMIGRD",417,0)
+ S FDT=$$HL7TFM^XLFDT(FDT,"L")
+"RTN","PSSMIGRD",418,0)
+ Q FDT
+"RTN","PSSMIGRD",419,0)
+ ;
+"RTN","PSSMIGRP")
+0^6^B85163316
+"RTN","PSSMIGRP",1,0)
+PSSMIGRP ;AJF - Process Synch XML message from PEPS;  6/28/2012 0941
+"RTN","PSSMIGRP",2,0)
+ ;;1.0;PHARMACY ENTERPRISE PRODUCT SYSTEM;;;Build 2
+"RTN","PSSMIGRP",3,0)
+ ;;
+"RTN","PSSMIGRP",4,0)
+ ; Called from ^PSSMIGRC
+"RTN","PSSMIGRP",5,0)
+ ;;
+"RTN","PSSMIGRP",6,0)
+ Q
+"RTN","PSSMIGRP",7,0)
+ ;
+"RTN","PSSMIGRP",8,0)
+ ;
+"RTN","PSSMIGRP",9,0)
+VAP ;VAPRODUCT ;
+"RTN","PSSMIGRP",10,0)
+ I PSS("bodyName")="vaProductSyncRequest" N RCNT D
+"RTN","PSSMIGRP",11,0)
+ . S PSS("child")=1,PSS("FILE")=50.68,(PSSTITLE,PST)="syncResponse",RCNT=0
+"RTN","PSSMIGRP",12,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRP",13,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRP",14,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",15,0)
+ .. I PSS("ELE")="vaProductName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",16,0)
+ .. I PSS("ELE")="vaProductIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",17,0)
+ .. ;
+"RTN","PSSMIGRP",18,0)
+ .. ; Get vaGenericNameRecord
+"RTN","PSSMIGRP",19,0)
+ .. I PSS("ELE")="vaGenericNameRecord" D
+"RTN","PSSMIGRP",20,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",21,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",22,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",23,0)
+ .... I PSS("ELE1")="vaGenericNameName" S PSS("GENNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",24,0)
+ .... I PSS("ELE1")="vaGenericIen" S PSS("GENIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",25,0)
+ .. ;
+"RTN","PSSMIGRP",26,0)
+ .. ; Get dosageFormRecord
+"RTN","PSSMIGRP",27,0)
+ .. I PSS("ELE")="dosageFormRecord" D
+"RTN","PSSMIGRP",28,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",29,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",30,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",31,0)
+ .... I PSS("ELE1")="dosageFormName" S PSS("DFNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",32,0)
+ .... I PSS("ELE1")="dosageFormIen" S PSS("DFIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",33,0)
+ .. I PSS("ELE")="strength" S PSS("STRGEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",34,0)
+ .. I PSS("ELE")="units" S PSS("UNITS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",35,0)
+ .. I PSS("ELE")="nationalFormularyName" S PSS("NFNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",36,0)
+ .. I PSS("ELE")="vaPrintName" S PSS("PRINTNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",37,0)
+ .. I PSS("ELE")="vaProductIdentifier" S PSS("PRODID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",38,0)
+ .. I PSS("ELE")="transmitToCmop" S PSS("TRANSTC")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",39,0)
+ .. ;
+"RTN","PSSMIGRP",40,0)
+ .. ; Get vaDispenseUnitRecord
+"RTN","PSSMIGRP",41,0)
+ .. I PSS("ELE")="vaDispenseUnitRecord" D
+"RTN","PSSMIGRP",42,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",43,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",44,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",45,0)
+ .... I PSS("ELE1")="vaDispenseUnitName" S PSS("DUNAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",46,0)
+ .... I PSS("ELE1")="vaDispenseUnitIen" S PSS("DUIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",47,0)
+ .. ;
+"RTN","PSSMIGRP",48,0)
+ .. ; Get activeIngredientsRecord
+"RTN","PSSMIGRP",49,0)
+ .. I PSS("ELE")="activeIngredientsRecord" S RCNT=$G(RCNT)+1 D
+"RTN","PSSMIGRP",50,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",51,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",52,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",53,0)
+ .... I PSS("ELE1")="activeIngredientsName" S PSS("AINAME"_RCNT)=$G(^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1))
+"RTN","PSSMIGRP",54,0)
+ .... I PSS("ELE1")="activeIngredientsIen" S PSS("AIIEN"_RCNT)=$G(^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1))
+"RTN","PSSMIGRP",55,0)
+ .... I PSS("ELE1")="activeIngredientsStrength" S PSS("AISTRG"_RCNT)=$G(^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1))
+"RTN","PSSMIGRP",56,0)
+ .... I PSS("ELE1")="activeIngredientsUnitsName" S PSS("AIUNAME"_RCNT)=$G(^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1))
+"RTN","PSSMIGRP",57,0)
+ .... S PSS("ACTID")=RCNT
+"RTN","PSSMIGRP",58,0)
+ .. ;
+"RTN","PSSMIGRP",59,0)
+ .. I PSS("ELE")="gcnSeqNo" S PSS("GCNSEQNO")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",60,0)
+ .. ;
+"RTN","PSSMIGRP",61,0)
+ .. ; Get primaryVaDrugClassRecord
+"RTN","PSSMIGRP",62,0)
+ .. I PSS("ELE")="primaryVaDrugClassRecord" D
+"RTN","PSSMIGRP",63,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",64,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",65,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",66,0)
+ .... I PSS("ELE1")="primaryVaDrugClassCode" S PSS("PVADCCODE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",67,0)
+ .... I PSS("ELE1")="primaryVaDrugClassClassification" S PSS("PVADCCLASS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",68,0)
+ .... I PSS("ELE1")="primaryVaDrugClassIen" S PSS("PVADCIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",69,0)
+ .. I PSS("ELE")="nationalFormularyIndicator" S PSS("NFINDICATOR")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",70,0)
+ .. I PSS("ELE")="csFederalSchedule" S PSS("CSFSCHED")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",71,0)
+ .. I PSS("ELE")="singleMultiSourceProduct" S PSS("SMSPROD")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",72,0)
+ .. I PSS("ELE")="excludeDrugDrugInteraction" S PSS("EDDINTER")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",73,0)
+ .. I PSS("ELE")="overrideDfDoseChkExclusion" S PSS("ODFDCHKX")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",74,0)
+ .. I PSS("ELE")="createPossibleDosage" S PSS("CPDOSAGE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",75,0)
+ .. I PSS("ELE")="masterEntryForVuid" S PSS("MVUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",76,0)
+ .. I PSS("ELE")="vuid" S PSS("VUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",77,0)
+ .. I PSS("ELE")="productPackage" S PSS("PACK")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",78,0)
+ .. ;
+"RTN","PSSMIGRP",79,0)
+ .. ; Get effectiveDateTimeRecord
+"RTN","PSSMIGRP",80,0)
+ .. I PSS("ELE")="effectiveDateTimeRecord" D
+"RTN","PSSMIGRP",81,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",82,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",83,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",84,0)
+ .... I PSS("ELE1")="effectiveDateTime" S PSS("EFFDT")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",85,0)
+ .... I PSS("ELE1")="effectiveDateTimeStatus" S PSS("EDTS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",86,0)
+ .. I PSS("ELE")="possibleDosagesToCreate" S PSS("PDTCREATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",87,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("INACTDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",88,0)
+ .. I PSS("ELE")="fdaMedGuide" S PSS("FDAMEDGUIDE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",89,0)
+ .. I PSS("ELE")="serviceCode" S PSS("SCODE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",90,0)
+ .. I PSS("ELE")="hazardToDispose" S PSS("HAZTODIS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",91,0)
+ .. I PSS("ELE")="primaryEpaCode" S PSS("EPACODE")=$G(^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1))
+"RTN","PSSMIGRP",92,0)
+ .. I PSS("ELE")="wasteSortCode" S PSS("WASTESRT")=$G(^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1))
+"RTN","PSSMIGRP",93,0)
+ .. I PSS("ELE")="dotShippingName" S PSS("DOTSHIP")=$G(^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1))
+"RTN","PSSMIGRP",94,0)
+ .. I PSS("ELE")="hazardToHandle" S PSS("HAZTOHAN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",95,0)
+ Q
+"RTN","PSSMIGRP",96,0)
+ ;
+"RTN","PSSMIGRP",97,0)
+DRUC ;DRUGCLASS
+"RTN","PSSMIGRP",98,0)
+ I PSS("bodyName")="drugClassSyncRequest" D
+"RTN","PSSMIGRP",99,0)
+ . S PSS("child")=1,PSS("FILE")=50.605,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRP",100,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRP",101,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRP",102,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",103,0)
+ .. I PSS("ELE")="drugClassCode" S PSS("CLASSCODE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",104,0)
+ .. I PSS("ELE")="drugClassIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",105,0)
+ .. I PSS("ELE")="drugClassClassification" S PSS("CLASSCLASS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",106,0)
+ .. I PSS("ELE")="ParentClass" D
+"RTN","PSSMIGRP",107,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",108,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",109,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",110,0)
+ .... I PSS("ELE1")="drugClassIen" S PSS("PCIEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",111,0)
+ .... I PSS("ELE1")="code" S PSS("PCODE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",112,0)
+ .... I PSS("ELE1")="classification" S PSS("PCLASS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",113,0)
+ .. I PSS("ELE")="type" S PSS("TYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",114,0)
+ .. I PSS("ELE")="masterEntryForVuid" S PSS("MASTERVUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",115,0)
+ .. I PSS("ELE")="vuid" S PSS("VUID")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",116,0)
+ .. I PSS("ELE")="description" S PSS("DESC")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",117,0)
+ .. I PSS("ELE")="effectiveDateTimeRecord" D
+"RTN","PSSMIGRP",118,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",119,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",120,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",121,0)
+ .... I PSS("ELE1")="effectiveDateTime" S PSS("EFFDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",122,0)
+ .... I PSS("ELE1")="status" S PSS("STATUS")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",123,0)
+ Q
+"RTN","PSSMIGRP",124,0)
+ ;
+"RTN","PSSMIGRP",125,0)
+DOF ;DOSAGEFORM ;
+"RTN","PSSMIGRP",126,0)
+ I PSS("bodyName")="dosageFormSyncRequest" N UNCT,DCNT D
+"RTN","PSSMIGRP",127,0)
+ . S (UCNT,DCNT)=0,PSS("child")=1,PSS("FILE")=50.606,(PSSTITLE,PST)="syncResponse"
+"RTN","PSSMIGRP",128,0)
+ . F  S PSS("child")=$$CHILD^MXMLDOM(DOCHAND,1,PSS("child")) Q:PSS("child")=0  D
+"RTN","PSSMIGRP",129,0)
+ .. S PSS("ELE")=$$NAME^MXMLDOM(DOCHAND,PSS("child"))
+"RTN","PSSMIGRP",130,0)
+ .. I PSS("ELE")="RequestType" S PSS("RTYPE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",131,0)
+ .. I PSS("ELE")="dosageFormName" S PSS("NAME")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",132,0)
+ .. I PSS("ELE")="excludeFromDosageChecks" S PSS("EXCLUDE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",133,0)
+ .. I PSS("ELE")="dosageFormIen" S PSS("IEN")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",134,0)
+ .. I PSS("ELE")="inactivationDate" S PSS("INACTDATE")=^TMP("MXMLDOM",$J,DOCHAND,PSS("child"),"T",1)
+"RTN","PSSMIGRP",135,0)
+ .. I PSS("ELE")="unitsRecord" S UCNT=UCNT+1 D  Q
+"RTN","PSSMIGRP",136,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",137,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",138,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",139,0)
+ .... I PSS("ELE1")="units" S PSS("UNITS"_UCNT)=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",140,0)
+ .... I PSS("ELE1")="unitsIen" S PSS("UNITSIEN"_UCNT)=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",141,0)
+ .... I PSS("ELE1")="package" S PSS("PACKAGE"_UCNT)=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",142,0)
+ .... S PSS("UNITS")=UCNT
+"RTN","PSSMIGRP",143,0)
+ .. I PSS("ELE")="dispenseUnitsPerDose" S DCNT=DCNT+1 D  Q
+"RTN","PSSMIGRP",144,0)
+ ... S DOCHAND1=PSS("child"),PSS("child1")=1
+"RTN","PSSMIGRP",145,0)
+ ... F  S PSS("child1")=$$CHILD^MXMLDOM(DOCHAND,DOCHAND1,PSS("child1")) Q:PSS("child1")=0  D
+"RTN","PSSMIGRP",146,0)
+ .... S PSS("ELE1")=$$NAME^MXMLDOM(DOCHAND,PSS("child1"))
+"RTN","PSSMIGRP",147,0)
+ .... I PSS("ELE1")="dispenseUnitsPerDoseNumber" S PSS("PDDOSE"_DCNT)=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",148,0)
+ .... I PSS("ELE1")="package" S PSS("PDPACKAGE"_DCNT)=^TMP("MXMLDOM",$J,DOCHAND,PSS("child1"),"T",1)
+"RTN","PSSMIGRP",149,0)
+ .... S PSS("PERDOSE")=DCNT
+"RTN","PSSMIGRP",150,0)
+ Q
+"RTN","PSSMIGRR")
+0^7^B142096466
+"RTN","PSSMIGRR",1,0)
+PSSMIGRR ;AJF - Process Synch XML message from PEPS;  2/25/2013 1316
+"RTN","PSSMIGRR",2,0)
+ ;;1.0;PHARMACY ENTERPRISE PRODUCT SYSTEM;665;;Build 2
+"RTN","PSSMIGRR",3,0)
+ ;;
+"RTN","PSSMIGRR",4,0)
+ ; Called from ^PSSMIGRD
+"RTN","PSSMIGRR",5,0)
+ ;;
+"RTN","PSSMIGRR",6,0)
+ Q
+"RTN","PSSMIGRR",7,0)
+ ;
+"RTN","PSSMIGRR",8,0)
+VAPD ;VA Product Sync
+"RTN","PSSMIGRR",9,0)
+ ;
+"RTN","PSSMIGRR",10,0)
+ ;
+"RTN","PSSMIGRR",11,0)
+ N X,Y,DIC,DA,DR,DIE,EFFDT,STATUS,EDT,PACK,UTIEN,GCNO
+"RTN","PSSMIGRR",12,0)
+ N RTYPE,NAME,GENNAME,GENIEN,DFNAME,DFIEN,STRGEN,UNITS,NFNAME,PRINTNAME,PRODID,TRANSTC,DUIEN
+"RTN","PSSMIGRR",13,0)
+ N AINAME,AIIEN,AISTRG,AIUNAME,AINAME2,AIIEN2,AIUNAME2,GCNSEQNO,PVADCCODE,PVADCCLASS,PVADCIEN
+"RTN","PSSMIGRR",14,0)
+ N NFINDICATOR,CSFSCHED,SMSPROD,EDDINTER,CPDOSAGE,MVUID,VUID,PRODID,PDTCREATE,ODFDCHKX,VAPTN
+"RTN","PSSMIGRR",15,0)
+ N HAZTOHAN,HAZTODIS,EPACODE,WASTESRT,DOTSHIP
+"RTN","PSSMIGRR",16,0)
+ ; Check REQUIRED Fields
+"RTN","PSSMIGRR",17,0)
+ I $G(PSS("NAME"))="" D OUT^PSSMIGRC(" Error...Missing Required VA PRODUCT NAME") Q
+"RTN","PSSMIGRR",18,0)
+ I $G(PSS("MVUID"))="" D OUT^PSSMIGRC(" Error...Missing Required VA PRODUCT Master Entry VUID") Q
+"RTN","PSSMIGRR",19,0)
+ I $G(PSS("VUID"))="" D OUT^PSSMIGRC(" Error...Missing Required VA PRODUCT VUID") Q
+"RTN","PSSMIGRR",20,0)
+ I $G(PSS("EFFDT"))="" D OUT^PSSMIGRC(" Error...Missing Required VA PRODUCT EFFECTIVE DATE/TIME") Q
+"RTN","PSSMIGRR",21,0)
+ I $G(PSS("EDTS"))="" D OUT^PSSMIGRC(" Error...Missing Required VA PRODUCT PRODUCT EFFECTIVE DATE/TIME") Q
+"RTN","PSSMIGRR",22,0)
+ I $G(PSS("ODFDCHKX"))="" D OUT^PSSMIGRC(" Error...Missing Required VA PRODUCT OVERRIDE DF DOSE CHK EXCLUSION") Q
+"RTN","PSSMIGRR",23,0)
+ ;
+"RTN","PSSMIGRR",24,0)
+ ;
+"RTN","PSSMIGRR",25,0)
+ S RTYPE=$G(PSS("RTYPE")) ;RequestType
+"RTN","PSSMIGRR",26,0)
+ S NAME=$G(PSS("NAME")) ;vaProductName
+"RTN","PSSMIGRR",27,0)
+ S GENNAME=$G(PSS("GENNAME")) ;vaGenericNameName
+"RTN","PSSMIGRR",28,0)
+ S GENIEN=$G(PSS("GENIEN")) ;vaGenericIen
+"RTN","PSSMIGRR",29,0)
+ S DFNAME=$G(PSS("DFNAME")) ;dosageFormName
+"RTN","PSSMIGRR",30,0)
+ S DFIEN=$G(PSS("DFIEN")) ;dosageFormIen
+"RTN","PSSMIGRR",31,0)
+ S STRGEN=$G(PSS("STRGEN")) ;strength
+"RTN","PSSMIGRR",32,0)
+ S UNITS=$G(PSS("UNITS")) ;units
+"RTN","PSSMIGRR",33,0)
+ S NFNAME=$G(PSS("NFNAME")) ;nationalFormularyName
+"RTN","PSSMIGRR",34,0)
+ S PRINTNAME=$G(PSS("PRINTNAME")) ;vaPrintName
+"RTN","PSSMIGRR",35,0)
+ S PRODID=$G(PSS("PRODID")) ;vaProductIdentifier
+"RTN","PSSMIGRR",36,0)
+ S TRANSTC=$G(PSS("TRANSTC")) ;transmitToCmop
+"RTN","PSSMIGRR",37,0)
+ S DUNAME=$G(PSS("DUNAME")) ;vaDispenseName
+"RTN","PSSMIGRR",38,0)
+ S DUNIEN=$G(PSS("DUIEN")) ;vaDispenseUnitIen
+"RTN","PSSMIGRR",39,0)
+ S GCNO="0000000"_$G(PSS("GCNSEQNO")) ;gcnSeqNo padded with zeros
+"RTN","PSSMIGRR",40,0)
+ S GCNSEQNO=$E(GCNO,($L(GCNO)-5),$L(GCNO)) ;gcnSeqNo
+"RTN","PSSMIGRR",41,0)
+ S:+GCNSEQNO=0 GCNSEQNO="" ; Reset gcnSeqNo to blank if all zeros 10/11/12
+"RTN","PSSMIGRR",42,0)
+ S PVADCCLASS=$G(PSS("PVADCCLASS")) ;primaryVaDrugClassClassification
+"RTN","PSSMIGRR",43,0)
+ S PVADCCODE=$G(PSS("PVADCCODE")) ;primaryVaDrugClassCode
+"RTN","PSSMIGRR",44,0)
+ S PVADCIEN=$G(PSS("PVADCIEN")) ;primaryVaDrugClassIen
+"RTN","PSSMIGRR",45,0)
+ S NFINDICATOR=$G(PSS("NFINDICATOR")) ;nationalFormularyIndicator
+"RTN","PSSMIGRR",46,0)
+ S CSFSCHED=$G(PSS("CSFSCHED")) ;csFederalSchedule
+"RTN","PSSMIGRR",47,0)
+ S SMSPROG=$G(PSS("SMSPROD")) ;singleMultiSourceProduct
+"RTN","PSSMIGRR",48,0)
+ S EDDINTER=$G(PSS("EDDINTER")) ;excludeDrugDrugInteraction
+"RTN","PSSMIGRR",49,0)
+ S:EDDINTER'=1 EDDINTER=""
+"RTN","PSSMIGRR",50,0)
+ S ODFDCHKX=$G(PSS("ODFDCHKX")) ;overrideDfDoseChkExclusion
+"RTN","PSSMIGRR",51,0)
+ S CPDOSAGE=$G(PSS("CPDOSAGE")) ;createPossibleDosage
+"RTN","PSSMIGRR",52,0)
+ S PDTCREATE=$G(PSS("PDTCREATE")) ;possibleDosagesToCreateS
+"RTN","PSSMIGRR",53,0)
+ S MVUID=$G(PSS("MVUID")) ;masterEntryForVuid
+"RTN","PSSMIGRR",54,0)
+ S VUID=$G(PSS("VUID")) ;Vuid
+"RTN","PSSMIGRR",55,0)
+ S PRODID=$G(PSS("PRODID")) ;Vuid
+"RTN","PSSMIGRR",56,0)
+ S IDATE=$TR($P($G(PSS("INACTDATE")),"T"),"-",""),IDATE=$$HL7TFM^XLFDT(IDATE)
+"RTN","PSSMIGRR",57,0)
+ S FNUM=50.68,FNAME="syncResponse.XML",FNAME1="dosageForm"
+"RTN","PSSMIGRR",58,0)
+ S ACTID=$G(PSS("ACTID"))
+"RTN","PSSMIGRR",59,0)
+ S EFFDT=$$DATE^PSSMIGRD($G(PSS("EFFDT"))) ;effectiveDateTime
+"RTN","PSSMIGRR",60,0)
+ S STATUS=$G(PSS("EDTS")) ;effectiveDateTimeStatus
+"RTN","PSSMIGRR",61,0)
+ S FDAMG=$G(PSS("FDAMEDGUIDE")) ;fdamedguide
+"RTN","PSSMIGRR",62,0)
+ S SCODE=$G(PSS("SCODE")) ; servicecode
+"RTN","PSSMIGRR",63,0)
+ S PACK=$G(PSS("PACK")) ;package
+"RTN","PSSMIGRR",64,0)
+ S:SMSPROG="" SMSPROG="@"
+"RTN","PSSMIGRR",65,0)
+ S HAZTOHAN=$G(PSS("HAZTOHAN")) ;hazardToHandle
+"RTN","PSSMIGRR",66,0)
+ I $G(HAZTOHAN)="true" S HAZTOHAN=1
+"RTN","PSSMIGRR",67,0)
+ I $G(HAZTOHAN)="false" S HAZTOHAN=0
+"RTN","PSSMIGRR",68,0)
+ S HAZTODIS=$G(PSS("HAZTODIS")) ;hazardToDispose
+"RTN","PSSMIGRR",69,0)
+ I $G(HAZTODIS)="true" S HAZTODIS=1
+"RTN","PSSMIGRR",70,0)
+ I $G(HAZTODIS)="false" S HAZTODIS=0
+"RTN","PSSMIGRR",71,0)
+ S EPACODE=$G(PSS("EPACODE")) ;primaryEpaCode
+"RTN","PSSMIGRR",72,0)
+ S WASTESRT=$G(PSS("WASTESRT")) ;wasteSortCode
+"RTN","PSSMIGRR",73,0)
+ S DOTSHIP=$G(PSS("DOTSHIP")) ;dotShippingName
+"RTN","PSSMIGRR",74,0)
+ ;
+"RTN","PSSMIGRR",75,0)
+ I $L(UNITS),'$O(^PS(50.607,"B",UNITS,"")) D OUT^PSSMIGRC(" Error...Invaild Units Name") Q
+"RTN","PSSMIGRR",76,0)
+ ;
+"RTN","PSSMIGRR",77,0)
+ ;Add the VA PRODUCT record to the Database
+"RTN","PSSMIGRR",78,0)
+ D:RTYPE="ADD"
+"RTN","PSSMIGRR",79,0)
+ . ;L +^PSNDF(50.68):5 E  D OUT^PSSMIGRC(" Another USER editing VA PRODUCT FILE file") Q
+"RTN","PSSMIGRR",80,0)
+ . ;
+"RTN","PSSMIGRR",81,0)
+ . ; Cheating - Remove the check for LAYGO temporarly
+"RTN","PSSMIGRR",82,0)
+ . S ^TMP("AJF LAYGO",$J)=$G(^DD(50.68,.01,"LAYGO",.01,0))
+"RTN","PSSMIGRR",83,0)
+ . I ^TMP("AJF LAYGO",$J)]"" K ^DD(50.68,.01,"LAYGO",.01,0)
+"RTN","PSSMIGRR",84,0)
+ . ;
+"RTN","PSSMIGRR",85,0)
+ . ; Get the IEN
+"RTN","PSSMIGRR",86,0)
+ . S X=NAME,DIC=50.68,DIC(0)="LMXZ"
+"RTN","PSSMIGRR",87,0)
+ . D ^DIC
+"RTN","PSSMIGRR",88,0)
+ . ; Quit if cannot get IEN
+"RTN","PSSMIGRR",89,0)
+ . I Y<1 D  Q
+"RTN","PSSMIGRR",90,0)
+ . . S:^TMP("AJF LAYGO",$J)]"" DD(50.68,.01,"LAYGO",1,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRR",91,0)
+ . . L -^PS(50.68)
+"RTN","PSSMIGRR",92,0)
+ . . D OUT^PSSMIGRC(" Error...Cannot obtain an IEN for VA PRODUCT NAME")
+"RTN","PSSMIGRR",93,0)
+ . ;L -^PS(50.68)
+"RTN","PSSMIGRR",94,0)
+ . ;
+"RTN","PSSMIGRR",95,0)
+ . ; Set Database Variables
+"RTN","PSSMIGRR",96,0)
+ . S DIE=DIC K DIC
+"RTN","PSSMIGRR",97,0)
+ . S DA=+Y
+"RTN","PSSMIGRR",98,0)
+ . S (LOCALHTD,LOCALHTH)=0
+"RTN","PSSMIGRR",99,0)
+ . I $P($G(^PSNDF(50.68,DA,"HAZTODIS")),"^",5)=1 S LOCALHTD=1
+"RTN","PSSMIGRR",100,0)
+ . I $P($G(^PSNDF(50.68,DA,"HAZTOHAN")),"^",2)=1 S LOCALHTH=1
+"RTN","PSSMIGRR",101,0)
+ . S DR=".05////^S X=GENIEN;1////^S X=DFIEN;2///^S X=STRGEN;17///^S X=NFINDICATOR;3///^S X=UNITS;4///^S X=NFNAME;"
+"RTN","PSSMIGRR",102,0)
+ . S DR=DR_"5///^S X=PRINTNAME;6///^S X=PRODID;7///^S X=TRANSTC;8///^S X=DUNAME;"
+"RTN","PSSMIGRR",103,0)
+ . S DR=DR_"11////^S X=GCNSEQNO;15///^S X=PVADCIEN;42///^S X=PACK;"
+"RTN","PSSMIGRR",104,0)
+ . S DR=DR_"19///^S X=CSFSCHED;20///^S X=SMSPROG;23///^S X=EDDINTER;31///^S X=ODFDCHKX;"
+"RTN","PSSMIGRR",105,0)
+ . S DR=DR_"40///^S X=CPDOSAGE;41///^S X=PDTCREATE;99.98///^S X=MVUID;99.99///^S X=VUID;"
+"RTN","PSSMIGRR",106,0)
+ . S DR=DR_"100///^S X=FDAMG;"
+"RTN","PSSMIGRR",107,0)
+ . I LOCALHTH=1!(LOCALHTD=1) S DR=DR_"2000///^S X=SCODE;"
+"RTN","PSSMIGRR",108,0)
+ . I LOCALHTH=0&(LOCALHTD=0) S DR=DR_"101///^S X=HAZTOHAN;102///^S X=HAZTODIS;103///^S X=EPACODE;104///^S X=WASTESRT;105///^S X=DOTSHIP;106///^S X=LOCALHTD;107///^S X=LOCALHTH;2000///^S X=SCODE;"
+"RTN","PSSMIGRR",109,0)
+ . ;
+"RTN","PSSMIGRR",110,0)
+ . S (PSS("IEN"),PIEN)=DA
+"RTN","PSSMIGRR",111,0)
+ . ; Update Database
+"RTN","PSSMIGRR",112,0)
+ . D ^DIE
+"RTN","PSSMIGRR",113,0)
+ . ;
+"RTN","PSSMIGRR",114,0)
+ . ; Update Active Ingredients multiple
+"RTN","PSSMIGRR",115,0)
+ . I +ACTID D UAI
+"RTN","PSSMIGRR",116,0)
+ . ;
+"RTN","PSSMIGRR",117,0)
+ . ;  Update Effective Date/Time
+"RTN","PSSMIGRR",118,0)
+ . S DIC="^PSNDF(50.68,"_PIEN_",""TERMSTATUS"",",DIC(0)="L",DIC("P")="50.6899DA"
+"RTN","PSSMIGRR",119,0)
+ . S DA(1)=PIEN,DA=1,X=EFFDT
+"RTN","PSSMIGRR",120,0)
+ . D FILE^DICN
+"RTN","PSSMIGRR",121,0)
+ . S DIE=DIC,DR=".02///^S X=STATUS"
+"RTN","PSSMIGRR",122,0)
+ . D ^DIE
+"RTN","PSSMIGRR",123,0)
+ . ; Put LAYGO back ;JMC COMMENTED THIS - DONT WANT LAYGO BACK FOR THE INNOVATION
+"RTN","PSSMIGRR",124,0)
+ . ;S:^TMP("AJF LAYGO",$J)]"" DD(50.68,.01,"LAYGO",1,0)=^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRR",125,0)
+ . ;
+"RTN","PSSMIGRR",126,0)
+ . ;
+"RTN","PSSMIGRR",127,0)
+ . ; Updating ^NDFK files
+"RTN","PSSMIGRR",128,0)
+ . ;
+"RTN","PSSMIGRR",129,0)
+ . I NAME]"" S X=NAME,DIC=5000.506,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",130,0)
+ . ;I IDATE]"" S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",131,0)
+ ;
+"RTN","PSSMIGRR",132,0)
+ ;
+"RTN","PSSMIGRR",133,0)
+ ;
+"RTN","PSSMIGRR",134,0)
+ ;Modify the VA PRODUCT record
+"RTN","PSSMIGRR",135,0)
+ D:RTYPE="MODIFY"
+"RTN","PSSMIGRR",136,0)
+ . ; Setting variables for NDFK checking
+"RTN","PSSMIGRR",137,0)
+ . S (PIEN,DA)=PSS("IEN"),DIE=50.68
+"RTN","PSSMIGRR",138,0)
+ . S PS0=^PSNDF(50.68,DA,0),PS1=$G(^PSNDF(50.68,DA,1))
+"RTN","PSSMIGRR",139,0)
+ . S NAFI=$P($G(^PSNDF(50.68,DA,5)),"^"),EDCK=$P($G(^PSNDF(50.68,DA,8)),"^")
+"RTN","PSSMIGRR",140,0)
+ . S PVDC=$P($G(^PSNDF(50.68,DA,3)),"^"),PS1=$G(^PSNDF(50.68,DA,1))
+"RTN","PSSMIGRR",141,0)
+ . S OVCK=$P($G(^PSNDF(50.68,DA,9)),"^",1),PS7=$G(^PSNDF(50.68,DA,7))
+"RTN","PSSMIGRR",142,0)
+ . S DOS=$G(^PSNDF(50.68,DA,"DOS")),FMG=$P($G(^PSNDF(50.68,DA,"MG")),"^")
+"RTN","PSSMIGRR",143,0)
+ . S VUID0=$G(^PSNDF(50.68,DA,"VUID")),PSF0=$G(^PSNDF(50.68,DA,"PFS"))
+"RTN","PSSMIGRR",144,0)
+ . ; LOCALHTH and LOCALHTD are flags that indicate there are local modifications to the hazardous pharmaceutical data in the VA PRODUCT File.
+"RTN","PSSMIGRR",145,0)
+ . ; If there are local mods, do not allow PPS-N to update the file with new hazardous pharmaceutical data.
+"RTN","PSSMIGRR",146,0)
+ . S LOCALHTH=$P($G(^PSNDF(50.68,DA,"HAZTOHAN")),"^",2)
+"RTN","PSSMIGRR",147,0)
+ . S LOCALHTD=$P($G(^PSNDF(50.68,DA,"HAZTODIS")),"^",5)
+"RTN","PSSMIGRR",148,0)
+ . I LOCALHTH="" S LOCALHTH=0
+"RTN","PSSMIGRR",149,0)
+ . I LOCALHTD="" S LOCALHTD=0
+"RTN","PSSMIGRR",150,0)
+ . S DR="",PQ=""
+"RTN","PSSMIGRR",151,0)
+ . ;
+"RTN","PSSMIGRR",152,0)
+ . S:$P(PS0,"^",2)'=GENIEN DR=".05////"_$S(GENIEN]"":"^S X=GENIEN",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",153,0)
+ . S:$P(PS0,"^",3)'=DFIEN DR=DR_PQ_"1////"_$S(DFIEN]"":"^S X=DFIEN",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",154,0)
+ . I $P(PS0,"^",4)'=STRGEN S DR=DR_PQ_"2///"_$S(STRGEN]"":"^S X=STRGEN",1:"@") S:$L(DR) PQ=";" D
+"RTN","PSSMIGRR",155,0)
+ .. ; Strength Change
+"RTN","PSSMIGRR",156,0)
+ .. S X=NAME,DIC=5000.4,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",157,0)
+ .. S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",158,0)
+ . S UIEN=$P(PS0,"^",5)
+"RTN","PSSMIGRR",159,0)
+ . S UNT=$S($L(UIEN):$P($G(^PS(50.607,UIEN,0)),"^",1),1:"")
+"RTN","PSSMIGRR",160,0)
+ . S:UNT'=UNITS DR=DR_PQ_"3///"_$S(UNITS]"":"^S X=UNITS",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",161,0)
+ . I $P(DOS,"^",1)'=$E(CPDOSAGE,1) S DR=DR_PQ_"40///^S X=CPDOSAGE" S:$L(DR) PQ=";" D
+"RTN","PSSMIGRR",162,0)
+ .. ; Possible Dosage Setting Changes
+"RTN","PSSMIGRR",163,0)
+ .. S (X,DINUM)=PIEN,DIC=5000.92,DIC(0)="LMXZ" D FILE^DICN
+"RTN","PSSMIGRR",164,0)
+ . I $P(DOS,"^",3)'=PACK S DR=DR_PQ_"42///"_$S(PACK]"":"^S X=PACK",1:"@") S:$L(DR) PQ=";" D
+"RTN","PSSMIGRR",165,0)
+ .. S (X,DINUM)=PIEN,DIC=5000.92,DIC(0)="LMXZ" D FILE^DICN
+"RTN","PSSMIGRR",166,0)
+ . I $P(DOS,"^",2)'=PDTCREATE S DR=DR_PQ_"41///"_$S(PDTCREATE]"":"^S X=PDTCREATE",1:"@") D
+"RTN","PSSMIGRR",167,0)
+ .. S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",168,0)
+ .. S (X,DINUM)=PIEN,DIC=5000.92,DIC(0)="LMXZ" D FILE^DICN
+"RTN","PSSMIGRR",169,0)
+ . S:$P(PS0,"^",6)'=NFNAME DR=DR_PQ_"4///"_$S(NFNAME]"":"^S X=NFNAME",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",170,0)
+ . S VAPTN=$$TRIM^XLFSTR($$UP($P(PS1,"^",1)))
+"RTN","PSSMIGRR",171,0)
+ . S:VAPTN'=PRINTNAME DR=DR_PQ_"5///"_$S(PRINTNAME]"":"^S X=PRINTNAME",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",172,0)
+ . S:$P(PS1,"^",2)'=PRODID DR=DR_PQ_"6///"_$S(PRODID]"":"^S X=PRODID",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",173,0)
+ . I $P(PS1,"^",3)'=TRANSTC S DR=DR_PQ_"7///"_$S(TRANSTC]"":"^S X=TRANSTC",1:"@") S:$L(DR) PQ=";" D
+"RTN","PSSMIGRR",174,0)
+ .. ; Umarked For CMOP
+"RTN","PSSMIGRR",175,0)
+ .. I TRANSTC=0&($P(PS1,"^",3)=1) S X=NAME,DIC=5000.7,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",176,0)
+ . S:$P(PS1,"^",4)'=DUNIEN DR=DR_PQ_"8///"_$S(DUNAME]"":"^S X=DUNAME",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",177,0)
+ . S:$P(PS1,"^",5)'=GCNSEQNO DR=DR_PQ_"11////"_$S(GCNSEQNO]"":"^S X=GCNSEQNO",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",178,0)
+ . I PVDC'=PVADCIEN S DR=DR_PQ_"15///^S X=PVADCIEN" S:$L(DR) PQ=";" D PVDC
+"RTN","PSSMIGRR",179,0)
+ . I $P($G(^PSNDF(50.68,PIEN,5)),"^")'=NFINDICATOR S DR=DR_PQ_"17///^S X=NFINDICATOR" S:$L(DR) PQ=";" D
+"RTN","PSSMIGRR",180,0)
+ .. ; National Formulary Indicator
+"RTN","PSSMIGRR",181,0)
+ .. S X=NAME,DIC=5000.5,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",182,0)
+ . I $P(PS7,"^",1)'=CSFSCHED S DR=DR_PQ_"19///^S X=CSFSCHED" S:$L(DR) PQ=";" D
+"RTN","PSSMIGRR",183,0)
+ ..; Product With Schedule Change
+"RTN","PSSMIGRR",184,0)
+ ..I CSFSCHED'=0 S X=NAME,DIC=5000.9,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",185,0)
+ . S:$P(PS7,"^",2)'=SMSPROG DR=DR_PQ_"20///^S X=SMSPROG" S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",186,0)
+ . I EDCK'=EDDINTER Q:EDCK=""&(EDDINTER=0)  S DR=DR_PQ_"23///"_$S(EDDINTER=1:"^S X=EDDINTER",1:"@") S:$L(DR) PQ=";" D EDCK
+"RTN","PSSMIGRR",187,0)
+ . ;S OVCKX=$S(ODFDCHKX="YES":1,ODFDCHKX="NO":0,1:"")
+"RTN","PSSMIGRR",188,0)
+ . I OVCK'=ODFDCHKX S DR=DR_PQ_"31///^S X=ODFDCHKX" S:$L(DR) PQ=";" D OVCK
+"RTN","PSSMIGRR",189,0)
+ . ;S MVUIDX=$S(MVUID="YES":1,MVUID="NO":0,1:"")
+"RTN","PSSMIGRR",190,0)
+ . S:$P(VUID0,"^",2)'=MVUID DR=DR_PQ_"99.98///^S X=MVUID" S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",191,0)
+ . S:$P(VUID0,"^",1)'=VUID DR=DR_PQ_"99.99///^S X=VUID" S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",192,0)
+ . S:$P(PS7,"^",3)'=IDATE DR=DR_PQ_"21///"_$S(IDATE]"":"^S X=IDATE",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",193,0)
+ . I FMG'=FDAMG S DR=DR_PQ_"100///"_$S(FDAMG]"":"^S X=FDAMG",1:"@") S:$L(DR) PQ=";" D FMG
+"RTN","PSSMIGRR",194,0)
+ . ; Update Hazardous Pharmaceuticals if the local mod flags are both 0
+"RTN","PSSMIGRR",195,0)
+ . I LOCALHTH=0&(LOCALHTD=0) D
+"RTN","PSSMIGRR",196,0)
+ . . S DR=DR_PQ_"101///"_$S(HAZTOHAN]"":"^S X=HAZTOHAN",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",197,0)
+ . . S DR=DR_PQ_"102///"_$S(HAZTODIS]"":"^S X=HAZTODIS",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",198,0)
+ . . I HAZTODIS=0 D
+"RTN","PSSMIGRR",199,0)
+ . . . S DR=DR_PQ_"103///@;104///@;105///@" S:$L(DR) PQ=";"  ;If hazardToHandle is 0 delete entries for other codes.
+"RTN","PSSMIGRR",200,0)
+ . . S DR=DR_PQ_"103///"_$S(EPACODE]"":"^S X=EPACODE",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",201,0)
+ . . S DR=DR_PQ_"104///"_$S(WASTESRT]"":"^S X=WASTESRT",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",202,0)
+ . . S DR=DR_PQ_"105///"_$S(DOTSHIP]"":"^S X=DOTSHIP",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",203,0)
+ . . S DR=DR_PQ_"106///"_$S(LOCALHTD]"":"^S X=LOCALHTD",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",204,0)
+ . . S DR=DR_PQ_"107///"_$S(LOCALHTH]"":"^S X=LOCALHTH",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",205,0)
+ . S:$P(PSF0,"^",1)'=SCODE DR=DR_PQ_"2000///"_$S(SCODE]"":"^S X=SCODE",1:"@") S:$L(DR) PQ=";"
+"RTN","PSSMIGRR",206,0)
+ . ;
+"RTN","PSSMIGRR",207,0)
+ . ; Update Database
+"RTN","PSSMIGRR",208,0)
+ . S DA=PSS("IEN"),DIE=50.68
+"RTN","PSSMIGRR",209,0)
+ . D ^DIE
+"RTN","PSSMIGRR",210,0)
+ . ;
+"RTN","PSSMIGRR",211,0)
+ . ; Update Active Ingredients multiple
+"RTN","PSSMIGRR",212,0)
+ . I +ACTID D UAI
+"RTN","PSSMIGRR",213,0)
+ . ;
+"RTN","PSSMIGRR",214,0)
+ . ; Check for NDFK changes
+"RTN","PSSMIGRR",215,0)
+ . ; Inactivation Date
+"RTN","PSSMIGRR",216,0)
+ . S UTIEN=$P(^PSNDF(50.68,DA,0),"^",5)
+"RTN","PSSMIGRR",217,0)
+ . I IDATE]"",$P(PS7,"^",3)="" S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC D ^DIC S ^TMP("NDFK",DA,"0")=""
+"RTN","PSSMIGRR",218,0)
+ . I GENIEN'=$P(PS0,"^",2) S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC S ^TMP("NDFK",DA,"1")=""
+"RTN","PSSMIGRR",219,0)
+ . I DFIEN'=$P(PS0,"^",3) S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC S ^TMP("NDFK",DA,"2")=""
+"RTN","PSSMIGRR",220,0)
+ . I UTIEN'=$P(PS0,"^",5) S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC S ^TMP("NDFK",DA,"3")=""
+"RTN","PSSMIGRR",221,0)
+ . I VAPTN'=PRINTNAME S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC S ^TMP("NDFK",DA,"4")=""
+"RTN","PSSMIGRR",222,0)
+ . I PRODID'=$P(PS1,"^",2) S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC S ^TMP("NDFK",DA,"5")=""
+"RTN","PSSMIGRR",223,0)
+ . I DUNIEN'=$P(PS1,"^",4) S X=NAME,DIC=5000.2,DIC(0)="LMXZ" D ^DIC S ^TMP("NDFK",DA,"6")=""
+"RTN","PSSMIGRR",224,0)
+ ;
+"RTN","PSSMIGRR",225,0)
+ ;PVADCIEN
+"RTN","PSSMIGRR",226,0)
+ ;
+"RTN","PSSMIGRR",227,0)
+ S XMESS="<message> <![CDATA[ Updated VA Product "_NAME_" ]]> </message>"
+"RTN","PSSMIGRR",228,0)
+ S XIEN="<ien>"_PSS("IEN")_"</ien>"
+"RTN","PSSMIGRR",229,0)
+ K DIC,DA,DR,DIE,^TMP("AJF LAYGO",$J)
+"RTN","PSSMIGRR",230,0)
+ Q
+"RTN","PSSMIGRR",231,0)
+ ;
+"RTN","PSSMIGRR",232,0)
+UAI ; Update Active Ingredients multiple
+"RTN","PSSMIGRR",233,0)
+ ;
+"RTN","PSSMIGRR",234,0)
+ ; Removing old Active Ingredients
+"RTN","PSSMIGRR",235,0)
+ ;K ^PSNDF(50.68,DA,2)
+"RTN","PSSMIGRR",236,0)
+ ;
+"RTN","PSSMIGRR",237,0)
+ N CNT,AIIEN,AISTRG,AINAME S CNT=0,PIEN=DA
+"RTN","PSSMIGRR",238,0)
+ N DA
+"RTN","PSSMIGRR",239,0)
+ F  S CNT=$O(^PSNDF(50.68,PIEN,2,CNT)) Q:CNT=""  D
+"RTN","PSSMIGRR",240,0)
+ . S DIE="^PSNDF(50.68,"_PIEN_",2,",DA(1)=PIEN,DA=CNT
+"RTN","PSSMIGRR",241,0)
+ . S DR=".01///@"
+"RTN","PSSMIGRR",242,0)
+ . D ^DIE
+"RTN","PSSMIGRR",243,0)
+ ;
+"RTN","PSSMIGRR",244,0)
+ ; Adding new Active Ingredients
+"RTN","PSSMIGRR",245,0)
+ ;
+"RTN","PSSMIGRR",246,0)
+ F CNT=1:1:ACTID I $D(PSS("AIIEN"_CNT)) D
+"RTN","PSSMIGRR",247,0)
+ . S DIC="^PSNDF(50.68,"_PIEN_",2,",DIC(0)="L",DIC("P")="50.6814P"
+"RTN","PSSMIGRR",248,0)
+ . S AIIEN=$G(PSS("AIIEN"_CNT)) ;activeIngredientsIen
+"RTN","PSSMIGRR",249,0)
+ . S AISTRG=$G(PSS("AISTRG"_CNT)) ;activeIngredientsStrength
+"RTN","PSSMIGRR",250,0)
+ . S AINAME=$G(PSS("AIUNAME"_CNT)) ;activeIngredientsUnitsName
+"RTN","PSSMIGRR",251,0)
+ . S DA(1)=PIEN,(DA,DINUM,X)=AIIEN
+"RTN","PSSMIGRR",252,0)
+ . D FILE^DICN
+"RTN","PSSMIGRR",253,0)
+ . S DIE=DIC,DR="1///^S X=AISTRG;2///^S X=AINAME"
+"RTN","PSSMIGRR",254,0)
+ . D ^DIE
+"RTN","PSSMIGRR",255,0)
+ Q
+"RTN","PSSMIGRR",256,0)
+ ;
+"RTN","PSSMIGRR",257,0)
+ ; Check for NDFK changes
+"RTN","PSSMIGRR",258,0)
+EDCK  ; Interaction Exclusion/Inclusion
+"RTN","PSSMIGRR",259,0)
+ ;I EDCK'=EDDINTER D
+"RTN","PSSMIGRR",260,0)
+ N DR
+"RTN","PSSMIGRR",261,0)
+ S X=NAME,DIC=5000.23,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",262,0)
+ S DIE=DIC,DA=+Y K DIC
+"RTN","PSSMIGRR",263,0)
+ S DR="1///"_$S(EDDINTER]"":"^S X=EDDINTER",1:"@")
+"RTN","PSSMIGRR",264,0)
+ D ^DIE
+"RTN","PSSMIGRR",265,0)
+ Q
+"RTN","PSSMIGRR",266,0)
+PVDC ; Product Name With Change Code
+"RTN","PSSMIGRR",267,0)
+ N DR,XN
+"RTN","PSSMIGRR",268,0)
+ ; Class Changes
+"RTN","PSSMIGRR",269,0)
+ S XN=$O(^NDFK(5000.506,"B",PIEN,""))
+"RTN","PSSMIGRR",270,0)
+ Q:XN'=""
+"RTN","PSSMIGRR",271,0)
+ ;
+"RTN","PSSMIGRR",272,0)
+ S X=NAME,DIC=5000.8,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",273,0)
+ S DIE=DIC,DA=+Y K DIC
+"RTN","PSSMIGRR",274,0)
+ S DR="1///^S X=PVDC;2///^S X=PVADCIEN;3///^S X=GENIEN"
+"RTN","PSSMIGRR",275,0)
+ D ^DIE
+"RTN","PSSMIGRR",276,0)
+ ;
+"RTN","PSSMIGRR",277,0)
+ S X=NAME,DIC=5000.507,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",278,0)
+ S DIE=DIC,DA=+Y K DIC
+"RTN","PSSMIGRR",279,0)
+ S DR="2///^S X=PVDC;3///^S X=PVADCIEN"
+"RTN","PSSMIGRR",280,0)
+ D ^DIE
+"RTN","PSSMIGRR",281,0)
+ Q
+"RTN","PSSMIGRR",282,0)
+ ;
+"RTN","PSSMIGRR",283,0)
+OVCK ; Override Change
+"RTN","PSSMIGRR",284,0)
+ ;S OVCK=$S(OVCK="YES":1,OVCK="NO":0,1:""
+"RTN","PSSMIGRR",285,0)
+ ;I OVCK'=ODFDCHKX D
+"RTN","PSSMIGRR",286,0)
+ N DR
+"RTN","PSSMIGRR",287,0)
+ S X=NAME,DIC=5000.608,DIC(0)="LMXZ" D ^DIC
+"RTN","PSSMIGRR",288,0)
+ S DIE=DIC,DA=+Y K DIC
+"RTN","PSSMIGRR",289,0)
+ S DR="1///^S X=OVCK;2///^S X=ODFDCHKX"
+"RTN","PSSMIGRR",290,0)
+ D ^DIE
+"RTN","PSSMIGRR",291,0)
+ Q
+"RTN","PSSMIGRR",292,0)
+ ;
+"RTN","PSSMIGRR",293,0)
+FMG ; Med Guide Changes
+"RTN","PSSMIGRR",294,0)
+ ;I FMG'=FDAMG D
+"RTN","PSSMIGRR",295,0)
+ N DR,FAMG
+"RTN","PSSMIGRR",296,0)
+ S (X,DINUM)=PSS("IEN"),DIC=5000.91,DIC(0)="LMXZ" D FILE^DICN
+"RTN","PSSMIGRR",297,0)
+ S FAMG=$S(FMG="":"A",FDAMG]"":"E",1:"D")
+"RTN","PSSMIGRR",298,0)
+ S DIE=DIC,DA=+Y K DIC
+"RTN","PSSMIGRR",299,0)
+ S DR="1///^S X=FAMG"
+"RTN","PSSMIGRR",300,0)
+ D ^DIE
+"RTN","PSSMIGRR",301,0)
+ Q
+"RTN","PSSMIGRR",302,0)
+ ;
+"RTN","PSSMIGRR",303,0)
+UP(X)    Q $TR(X,"abcdefghijklmnopqrstuvwxyz","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","PSSMIGRR",304,0)
+ ;
+"VER")
+8.0^22.0
+"^DD",50.68,50.68,101,0)
+HAZARDOUS TO HANDLE^S^0:NO;1:YES;^HAZTOHAN;1^Q
+"^DD",50.68,50.68,101,"DT")
+3130501
+"^DD",50.68,50.68,102,0)
+HAZARDOUS TO DISPOSE^S^0:NO;1:YES;^HAZTODIS;1^Q
+"^DD",50.68,50.68,102,"DT")
+3130501
+"^DD",50.68,50.68,103,0)
+PRIMARY EPA CODE^F^^HAZTODIS;2^K:$L(X)>50!($L(X)<1) X
+"^DD",50.68,50.68,103,3)
+Answer must be 1-50 characters in length.
+"^DD",50.68,50.68,103,"DT")
+3130501
+"^DD",50.68,50.68,104,0)
+WASTE SORT CODE^F^^HAZTODIS;3^K:$L(X)>50!($L(X)<1) X
+"^DD",50.68,50.68,104,3)
+Answer must be 1-50 characters in length.
+"^DD",50.68,50.68,104,"DT")
+3130501
+"^DD",50.68,50.68,105,0)
+DOT SHIPPING NAME^F^^HAZTODIS;4^K:$L(X)>50!($L(X)<1) X
+"^DD",50.68,50.68,105,3)
+Answer must be 1-50 characters in length.
+"^DD",50.68,50.68,105,"DT")
+3130507
+"^DD",50.68,50.68,106,0)
+LOCAL HTD^S^0:NO;1:YES;^HAZTODIS;5^Q
+"^DD",50.68,50.68,106,"DT")
+3130621
+"^DD",50.68,50.68,107,0)
+LOCAL HTH^S^0:NO;1:YES;^HAZTOHAN;2^Q
+"^DD",50.68,50.68,107,"DT")
+3130621
+**INSTALL NAME**
+PSJ*5.0*665
+"BLD",8671,0)
+PSJ*5.0*665^INPATIENT MEDICATIONS^0^3130821^y
+"BLD",8671,1,0)
+^^2^2^3130821^
+"BLD",8671,1,1,0)
+Inpatient Medications portion of Innovation 665
+"BLD",8671,1,2,0)
+Hazardous Pharmaceuticals.
+"BLD",8671,4,0)
+^9.64PA^^
+"BLD",8671,6.3)
+2
+"BLD",8671,"KRN",0)
+^9.67PA^779.2^20
+"BLD",8671,"KRN",.4,0)
+.4
+"BLD",8671,"KRN",.401,0)
+.401
+"BLD",8671,"KRN",.402,0)
+.402
+"BLD",8671,"KRN",.403,0)
+.403
+"BLD",8671,"KRN",.5,0)
+.5
+"BLD",8671,"KRN",.84,0)
+.84
+"BLD",8671,"KRN",3.6,0)
+3.6
+"BLD",8671,"KRN",3.8,0)
+3.8
+"BLD",8671,"KRN",9.2,0)
+9.2
+"BLD",8671,"KRN",9.8,0)
+9.8
+"BLD",8671,"KRN",9.8,"NM",0)
+^9.68A^2^2
+"BLD",8671,"KRN",9.8,"NM",1,0)
+PSJBCMA^^0^B91359973
+"BLD",8671,"KRN",9.8,"NM",2,0)
+PSJBCMA1^^0^B105891936
+"BLD",8671,"KRN",9.8,"NM","B","PSJBCMA",1)
+
+"BLD",8671,"KRN",9.8,"NM","B","PSJBCMA1",2)
+
+"BLD",8671,"KRN",19,0)
+19
+"BLD",8671,"KRN",19.1,0)
+19.1
+"BLD",8671,"KRN",101,0)
+101
+"BLD",8671,"KRN",409.61,0)
+409.61
+"BLD",8671,"KRN",771,0)
+771
+"BLD",8671,"KRN",779.2,0)
+779.2
+"BLD",8671,"KRN",870,0)
+870
+"BLD",8671,"KRN",8989.51,0)
+8989.51
+"BLD",8671,"KRN",8989.52,0)
+8989.52
+"BLD",8671,"KRN",8994,0)
+8994
+"BLD",8671,"KRN","B",.4,.4)
+
+"BLD",8671,"KRN","B",.401,.401)
+
+"BLD",8671,"KRN","B",.402,.402)
+
+"BLD",8671,"KRN","B",.403,.403)
+
+"BLD",8671,"KRN","B",.5,.5)
+
+"BLD",8671,"KRN","B",.84,.84)
+
+"BLD",8671,"KRN","B",3.6,3.6)
+
+"BLD",8671,"KRN","B",3.8,3.8)
+
+"BLD",8671,"KRN","B",9.2,9.2)
+
+"BLD",8671,"KRN","B",9.8,9.8)
+
+"BLD",8671,"KRN","B",19,19)
+
+"BLD",8671,"KRN","B",19.1,19.1)
+
+"BLD",8671,"KRN","B",101,101)
+
+"BLD",8671,"KRN","B",409.61,409.61)
+
+"BLD",8671,"KRN","B",771,771)
+
+"BLD",8671,"KRN","B",779.2,779.2)
+
+"BLD",8671,"KRN","B",870,870)
+
+"BLD",8671,"KRN","B",8989.51,8989.51)
+
+"BLD",8671,"KRN","B",8989.52,8989.52)
+
+"BLD",8671,"KRN","B",8994,8994)
+
+"BLD",8671,"QUES",0)
+^9.62^^
+"MBREQ")
+0
+"PKG",197,-1)
+1^1
+"PKG",197,0)
+INPATIENT MEDICATIONS^PSJ^UNIT DOSE AND IVS
+"PKG",197,20,0)
+^9.402P^^
+"PKG",197,22,0)
+^9.49I^1^1
+"PKG",197,22,1,0)
+5.0^2971215^2980917^11712
+"PKG",197,22,1,"PAH",1,0)
+665^3130821
+"PKG",197,22,1,"PAH",1,1,0)
+^^2^2^3130821
+"PKG",197,22,1,"PAH",1,1,1,0)
+Inpatient Medications portion of Innovation 665
+"PKG",197,22,1,"PAH",1,1,2,0)
+Hazardous Pharmaceuticals.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","PSJBCMA")
+0^1^B91359973
+"RTN","PSJBCMA",1,0)
+PSJBCMA ;BIR/MV-RETURN INPATIENT ACTIVE MEDS (CONDENSED) ;4/10/12 10:48am
+"RTN","PSJBCMA",2,0)
+ ;;5.0;INPATIENT MEDICATIONS ;**32,41,46,57,63,66,56,69,58,81,91,104,111,112,186,159,173,190,113,225,253,267**;16 DEC 97;Build 2
+"RTN","PSJBCMA",3,0)
+ ;
+"RTN","PSJBCMA",4,0)
+ ; Reference to ^PS(50.7 is supported by DBIA 2180.
+"RTN","PSJBCMA",5,0)
+ ; Reference to ^PS(51 is supported by DBIA 2176.
+"RTN","PSJBCMA",6,0)
+ ; Reference to ^PS(51.1 is supported by DBIA 2177.
+"RTN","PSJBCMA",7,0)
+ ; Reference to ^PS(51.2 is supported by DBIA 2178.
+"RTN","PSJBCMA",8,0)
+ ; Reference to ^PS(52.6 is supported by DBIA 1231.
+"RTN","PSJBCMA",9,0)
+ ; Reference to ^PS(52.7 is supported by DBIA 2173.
+"RTN","PSJBCMA",10,0)
+ ; Reference to ^PS(55 is supported by DBIA 2191.
+"RTN","PSJBCMA",11,0)
+ ; Reference to ^PSDRUG is supported by DBIA 2192.
+"RTN","PSJBCMA",12,0)
+ ; Usage of this routine by BCMA is supported by DBIA 2828.
+"RTN","PSJBCMA",13,0)
+ ;
+"RTN","PSJBCMA",14,0)
+ ;*267 - add new piece of info to return TMP gloabl. Need the Med
+"RTN","PSJBCMA",15,0)
+ ;       route IEN per each order.
+"RTN","PSJBCMA",16,0)
+ ;
+"RTN","PSJBCMA",17,0)
+EN(DFN,BDT,OTDATE)         ; return condensed list of inpatient meds
+"RTN","PSJBCMA",18,0)
+ NEW CNT,DN,F,FON,ON,PST,WBDT,X,X1,X2,Y,%
+"RTN","PSJBCMA",19,0)
+ D:+$G(DFN) ORDER
+"RTN","PSJBCMA",20,0)
+ I '$D(^TMP("PSJ",$J,1,0)) S ^(0)=-1
+"RTN","PSJBCMA",21,0)
+ K PSJINX
+"RTN","PSJBCMA",22,0)
+ Q
+"RTN","PSJBCMA",23,0)
+ORDER ;Loop thru orders.
+"RTN","PSJBCMA",24,0)
+ I '+$G(BDT) D NOW^%DTC S BDT=%
+"RTN","PSJBCMA",25,0)
+ I BDT'["." S BDT=BDT_".0001"
+"RTN","PSJBCMA",26,0)
+ S PSJINX=0
+"RTN","PSJBCMA",27,0)
+ ;U/D orders
+"RTN","PSJBCMA",28,0)
+ S F="^PS(55,DFN,5,",WBDT=BDT
+"RTN","PSJBCMA",29,0)
+ F  S WBDT=$O(^PS(55,DFN,5,"AUS",WBDT)) Q:'WBDT  D
+"RTN","PSJBCMA",30,0)
+ . F ON=0:0 S ON=$O(^PS(55,DFN,5,"AUS",WBDT,ON)) Q:'ON  S FON=ON_"U",PSJON(FON)="" D UDVAR
+"RTN","PSJBCMA",31,0)
+ ;IV orders
+"RTN","PSJBCMA",32,0)
+ S F="^PS(55,DFN,""IV"",",WBDT=BDT
+"RTN","PSJBCMA",33,0)
+ F  S WBDT=$O(^PS(55,DFN,"IV","AIS",WBDT)) Q:'WBDT  D
+"RTN","PSJBCMA",34,0)
+ . F ON=0:0 S ON=$O(^PS(55,DFN,"IV","AIS",WBDT,ON)) Q:'ON  S FON=ON_"V",PSJON(FON)="" D IVVAR
+"RTN","PSJBCMA",35,0)
+ ;Pending orders
+"RTN","PSJBCMA",36,0)
+ S F="^PS(53.1,"
+"RTN","PSJBCMA",37,0)
+ F PST="P","N" F ON=0:0 S ON=$O(^PS(53.1,"AS",PST,DFN,ON)) Q:'ON  D
+"RTN","PSJBCMA",38,0)
+ . S FON=ON_"P"
+"RTN","PSJBCMA",39,0)
+ . S X=$P($G(^PS(53.1,+ON,0)),U,4) D @$S(X="F":"IVVAR",1:"UDVAR")
+"RTN","PSJBCMA",40,0)
+ ;When a one-time order is found, check against PSJON(FON) array to
+"RTN","PSJBCMA",41,0)
+ ;make sure no duplicates return on ^TMP.
+"RTN","PSJBCMA",42,0)
+ I '+$G(OTDATE) D NOW^%DTC S X1=$E(%,1,12),X2=-30 D C^%DTC S OTDATE=X
+"RTN","PSJBCMA",43,0)
+ I OTDATE'["." S OTDATE=OTDATE_".0001"
+"RTN","PSJBCMA",44,0)
+ Q:BDT'>OTDATE
+"RTN","PSJBCMA",45,0)
+ S F="^PS(55,DFN,5,",WBDT=OTDATE
+"RTN","PSJBCMA",46,0)
+ F  S WBDT=$O(^PS(55,DFN,5,"AU","O",WBDT)) Q:'WBDT  D
+"RTN","PSJBCMA",47,0)
+ .  F ON=0:0 S ON=$O(^PS(55,DFN,5,"AU","O",WBDT,ON)) Q:'ON  D
+"RTN","PSJBCMA",48,0)
+ .. S FON=ON_"U" D:'$D(PSJON(FON)) UDVAR
+"RTN","PSJBCMA",49,0)
+ S F="^PS(55,DFN,""IV"",",WBDT=OTDATE
+"RTN","PSJBCMA",50,0)
+ F  S WBDT=$O(^PS(55,DFN,"IV","AIS",WBDT)) Q:'WBDT  D
+"RTN","PSJBCMA",51,0)
+ . F ON=0:0 S ON=$O(^PS(55,DFN,"IV","AIS",WBDT,ON)) Q:'ON  D
+"RTN","PSJBCMA",52,0)
+ .. S X=$P($G(^PS(55,DFN,"IV",ON,0)),U,9)
+"RTN","PSJBCMA",53,0)
+ .. I X]"",$$ONE(DFN,ON_"V",X,$P(X,"^",2),$P(X,"^",3))="O" D
+"RTN","PSJBCMA",54,0)
+ ... S FON=ON_"V" D:'$D(PSJON(FON)) IVVAR
+"RTN","PSJBCMA",55,0)
+ K PSJON,PSJBCID
+"RTN","PSJBCMA",56,0)
+ Q
+"RTN","PSJBCMA",57,0)
+UDVAR ;Set ^TMP for Unit dose & Pending orders
+"RTN","PSJBCMA",58,0)
+ N CLINIC
+"RTN","PSJBCMA",59,0)
+ D UDPEND Q:'$$CLINICS($G(CLINIC))
+"RTN","PSJBCMA",60,0)
+ D TMP
+"RTN","PSJBCMA",61,0)
+ ;Setup Dispense drug for ^TMP
+"RTN","PSJBCMA",62,0)
+ S CNT=0 D NOW^%DTC
+"RTN","PSJBCMA",63,0)
+ F X=0:0 S X=$O(@(F_ON_",1,"_X_")")) Q:'X  D
+"RTN","PSJBCMA",64,0)
+ . S PSJDD=@(F_ON_",1,"_X_",0)") I $P(PSJDD,"^",3)]"",$P(PSJDD,"^",3)'>% Q
+"RTN","PSJBCMA",65,0)
+ .;*225 Don't allow 0
+"RTN","PSJBCMA",66,0)
+ . I +$P(PSJDD,"^",2)=0 S $P(PSJDD,"^",2)=1
+"RTN","PSJBCMA",67,0)
+ . S CNT=CNT+1
+"RTN","PSJBCMA",68,0)
+ . D HAZARDS(+PSJDD)
+"RTN","PSJBCMA",69,0)
+ . S ^TMP("PSJ",$J,PSJINX,700,CNT,0)=+PSJDD_U_$P($G(^PSDRUG(+PSJDD,0)),U)_U_$S((FON["U")&($P(PSJDD,U,2)=""):1,(FON["U")&($E($P(PSJDD,U,2))="."):"0"_$P(PSJDD,U,2),1:$P(PSJDD,U,2))_U_$P(PSJDD,U,3)_U_U_HAZTOHAN_U_HAZTODIS_U_EPACODE_","_WASTESRT_","_DOTSHIP
+"RTN","PSJBCMA",70,0)
+ S:CNT ^TMP("PSJ",$J,PSJINX,700,0)=CNT
+"RTN","PSJBCMA",71,0)
+ K PSJ,PSJDD
+"RTN","PSJBCMA",72,0)
+ Q
+"RTN","PSJBCMA",73,0)
+IVVAR ;Set variables for IV and pending orders
+"RTN","PSJBCMA",74,0)
+ NEW ND,X,Y,CLINIC
+"RTN","PSJBCMA",75,0)
+ I FON["P" D UDPEND Q:'$$CLINICS(CLINIC)  S PSJ("INFRATE")=$P($G(^PS(53.1,ON,8)),U,5)
+"RTN","PSJBCMA",76,0)
+ I FON["V" D  Q:'$$CLINICS(CLINIC)
+"RTN","PSJBCMA",77,0)
+ . S X=$G(^PS(55,DFN,"IV",ON,0)),CLINIC=$G(^("DSS")) Q:'$$CLINICS(CLINIC)
+"RTN","PSJBCMA",78,0)
+ . S PSJ("STARTDT")=$P(X,U,2),PSJ("STOPDT")=$P(X,U,3)
+"RTN","PSJBCMA",79,0)
+ . S PSJ("INFRATE")=$P(X,U,8),PSJ("SCHD")=$P(X,U,9)
+"RTN","PSJBCMA",80,0)
+ . S PSJ("ADM")=$P(X,U,11),PSJ("AUTO")=$P(X,U,12),PSJ("STATUS")=$P(X,U,17)
+"RTN","PSJBCMA",81,0)
+ . S PSJ("IVTYPE")=$P(X,U,4),PSJ("INSYR")=$P(X,U,5)
+"RTN","PSJBCMA",82,0)
+ . S PSJ("CPRS")=$P(X,U,21),PSJ("CHEMO")=$P(X,U,23)
+"RTN","PSJBCMA",83,0)
+ . S X=$G(^PS(55,DFN,"IV",ON,.2))
+"RTN","PSJBCMA",84,0)
+ . S PSJ("DO")="",PSJ("MR")=$P(X,U,3),PSJ("PRI")=$P(X,U,4),PSJ("FLG")=$P(X,U,7),PSJ("COM")="",PSJ("SRC")=""
+"RTN","PSJBCMA",85,0)
+ . I PSJ("FLG") D
+"RTN","PSJBCMA",86,0)
+ .. N S1,A,B,C
+"RTN","PSJBCMA",87,0)
+ .. S S1="" F  S S1=$O(^PS(55,DFN,"IV",ON,"A",S1),-1) Q:'S1  S C=$G(^(S1,0)) S A=$P(C,U,2),B=$P(C,U,4) Q:A="UG"  D  I PSJ("SRC")]"" Q
+"RTN","PSJBCMA",88,0)
+ ... Q:A'="G"
+"RTN","PSJBCMA",89,0)
+ ... S PSJ("SRC")=$S(B["FLAGGED BY PHARM":"PHARMACIST",B["FLAGGED BY CPRS":"CPRS",1:"")
+"RTN","PSJBCMA",90,0)
+ ... S PSJ("COM")=$P(B," ",4,99)
+"RTN","PSJBCMA",91,0)
+ . S PSJ("OI")=+X
+"RTN","PSJBCMA",92,0)
+ . S X=$G(^PS(55,DFN,"IV",ON,2))
+"RTN","PSJBCMA",93,0)
+ . S PSJ("PREV")=$P(X,U,5) I PSJ("PREV")["V",(+PSJ("PREV")=+ON) S PSJ("PREV")=""
+"RTN","PSJBCMA",94,0)
+ . S PSJ("FOLLOW")=$P(X,U,6),PSJ("RFO")=$P(X,U,9) I PSJ("FOLLOW")["V",(+PSJ("FOLLOW")=+ON) S (PSJ("FOLLOW"),PSJ("RFO"))=""
+"RTN","PSJBCMA",95,0)
+ . S PSJ("SIOPI")=$S($P($G(^PS(55,DFN,"IV",+ON,3)),"^",2)&($P($G(^PS(55,DFN,"IV",+ON,3)),"^")'=""):"!",1:"")_$P($G(^(3)),"^")
+"RTN","PSJBCMA",96,0)
+ . N SCHD S SCHD=PSJ("SCHD")
+"RTN","PSJBCMA",97,0)
+ . S PSJ("STC")=$$ONE(DFN,ON_"V",SCHD,PSJ("STARTDT"),PSJ("STOPDT"))
+"RTN","PSJBCMA",98,0)
+ . I PSJ("STC")=""!(PSJ("STC")="C") S PSJ("STC")=$S(SCHD["PRN":"P",1:"C")
+"RTN","PSJBCMA",99,0)
+ . I PSJ("STC")="C" S PSJ("STC")=$S($$ONCALL(SCHD):"OC",1:"C")
+"RTN","PSJBCMA",100,0)
+ D TMP
+"RTN","PSJBCMA",101,0)
+ S CNT=0
+"RTN","PSJBCMA",102,0)
+ F X=0:0 S X=$O(@(F_ON_",""AD"","_X_")")) Q:'X  D
+"RTN","PSJBCMA",103,0)
+ . S ND=$G(@(F_ON_",""AD"","_X_",0)")),DN=$G(^PS(52.6,+ND,0))
+"RTN","PSJBCMA",104,0)
+ . D HAZARDS($P(DN,"^",2))
+"RTN","PSJBCMA",105,0)
+ . S CNT=CNT+1,^TMP("PSJ",$J,PSJINX,850,CNT,0)=+ND_U_$P(DN,U)_U_$P(ND,U,2)_U_$P(ND,U,3)_U_U_HAZTOHAN_U_HAZTODIS_U_EPACODE_","_WASTESRT_","_DOTSHIP
+"RTN","PSJBCMA",106,0)
+ S:CNT ^TMP("PSJ",$J,PSJINX,850,0)=CNT,CNT=0
+"RTN","PSJBCMA",107,0)
+ F X=0:0 S X=$O(@(F_ON_",""SOL"","_X_")")) Q:'X  D
+"RTN","PSJBCMA",108,0)
+ . S ND=$G(@(F_ON_",""SOL"","_X_",0)")),DN=$G(^PS(52.7,+ND,0))
+"RTN","PSJBCMA",109,0)
+ . D HAZARDS($P(DN,"^",2))
+"RTN","PSJBCMA",110,0)
+ . S CNT=CNT+1,^TMP("PSJ",$J,PSJINX,950,CNT,0)=+ND_U_$P(DN,U)_U_$P(ND,U,2)_U_$P(DN,U,4)_U_U_HAZTOHAN_U_HAZTODIS_U_EPACODE_","_WASTESRT_","_DOTSHIP
+"RTN","PSJBCMA",111,0)
+ S:CNT ^TMP("PSJ",$J,PSJINX,950,0)=CNT
+"RTN","PSJBCMA",112,0)
+ K PSJ
+"RTN","PSJBCMA",113,0)
+ S X1=0
+"RTN","PSJBCMA",114,0)
+ F  S X1=$O(^PS(55,DFN,"IVBCMA",X1)) Q:'X1  D
+"RTN","PSJBCMA",115,0)
+ . S XX=$G(^PS(55,DFN,"IVBCMA",X1,0)) Q:ON'=$P(XX,"^",2)  S PSJBCID=$P(XX,"^"),X2=0
+"RTN","PSJBCMA",116,0)
+ . F I=1:1 S X2=$O(^PS(55,DFN,"IVBCMA",X1,"AD",X2)) Q:'X2  S X=^(X2,0),^TMP("PSJ",$J,PSJINX,800,PSJBCID,I)=+X_"^"_$S($D(^PS(52.6,+X,0)):$P(^(0),"^"),1:"*****")_"^"_$P(X,"^",2,99)
+"RTN","PSJBCMA",117,0)
+ . I I>1 S ^TMP("PSJ",$J,PSJINX,800,PSJBCID,0)=I-1
+"RTN","PSJBCMA",118,0)
+ . S X2=0
+"RTN","PSJBCMA",119,0)
+ . F I=1:1 S X2=$O(^PS(55,DFN,"IVBCMA",X1,"SOL",X2)) Q:'X2  S X=^(X2,0),^TMP("PSJ",$J,PSJINX,900,PSJBCID,I)=$P(X,"^")_"^"_$S($D(^PS(52.7,$P(X,"^"),0)):$P(^(0),"^"),1:"*****")_"^"_$P(X,"^",2,99)
+"RTN","PSJBCMA",120,0)
+ . I I>1 S ^TMP("PSJ",$J,PSJINX,900,PSJBCID,0)=I-1
+"RTN","PSJBCMA",121,0)
+ Q
+"RTN","PSJBCMA",122,0)
+UDPEND ;
+"RTN","PSJBCMA",123,0)
+ S X=$G(@(F_ON_",0)")) I $P(F,",")[53.1 S CLINIC=$G(@(F_ON_",""DSS"")")) Q:'$$CLINICS(CLINIC)
+"RTN","PSJBCMA",124,0)
+ I $P(F,",")[55 S CLINIC=$G(@(F_ON_",8)")) Q:'$$CLINICS(CLINIC)
+"RTN","PSJBCMA",125,0)
+ S PSJ("MR")=$P(X,U,3),PSJ("SM")=$P(X,U,5),PSJ("HSM")=$P(X,U,6)
+"RTN","PSJBCMA",126,0)
+ S PSJ("ST")=$P(X,U,7),PSJ("STATUS")=$P(X,U,9)
+"RTN","PSJBCMA",127,0)
+ S PSJ("CPRS")=$P(X,U,21),PSJ("PREV")=$P(X,U,25),PSJ("FOLLOW")=$P(X,U,26),PSJ("RFO")=$P(X,U,27)
+"RTN","PSJBCMA",128,0)
+ S:FON["U" PSJ("NGIVEN")=$P(X,U,22)
+"RTN","PSJBCMA",129,0)
+ S X=$G(@(F_ON_",.2)"))
+"RTN","PSJBCMA",130,0)
+ S PSJ("DO")=$P(X,U,2),PSJ("PRI")=$P(X,U,4),PSJ("FLG")=$P(X,U,7),PSJ("COM")="",PSJ("SRC")=""
+"RTN","PSJBCMA",131,0)
+ I PSJ("FLG") D
+"RTN","PSJBCMA",132,0)
+ . N S1,A,B,C
+"RTN","PSJBCMA",133,0)
+ . S S1="" F  S S1=$O(^PS(55,DFN,5,ON,9,S1),-1) Q:'S1  S C=$G(^(S1,0)) S A=$P(C,U,3),B=$P(C,U,4) Q:A=7010!(A=7030)  D  I PSJ("SRC")]"" Q
+"RTN","PSJBCMA",134,0)
+ .. Q:A'=7000&(A'=7020)
+"RTN","PSJBCMA",135,0)
+ .. S PSJ("SRC")=$S(A=7000:"PHARMACIST",A=7020:"CPRS",1:"")
+"RTN","PSJBCMA",136,0)
+ .. S PSJ("COM")=$G(@(F_ON_",13)"))
+"RTN","PSJBCMA",137,0)
+ S PSJ("OI")=+X
+"RTN","PSJBCMA",138,0)
+ S X=$G(@(F_ON_",2)"))
+"RTN","PSJBCMA",139,0)
+ S PSJ("SCHD")=$P(X,U),PSJ("STARTDT")=$P(X,U,2)
+"RTN","PSJBCMA",140,0)
+ S PSJ("STOPDT")=$P(X,U,4),PSJ("ADM")=$P(X,U,5)
+"RTN","PSJBCMA",141,0)
+ S X=$G(@(F_ON_",4)"))
+"RTN","PSJBCMA",142,0)
+ S PSJ("AUTO")=$P(X,U,11)
+"RTN","PSJBCMA",143,0)
+ ;naked reference on line below refers to  full reference created by indirect reference to F_ON, where F may refer to ^PS(53.1 or the IV or UD multiple ^PS(55
+"RTN","PSJBCMA",144,0)
+ S PSJ("SIOPI")=$S($P($G(@(F_ON_",6)")),"^",2)&($P($G(@(F_ON_",6)")),"^")'=""):"!",1:"")_$$ENSET($P($G(^(6)),"^"))
+"RTN","PSJBCMA",145,0)
+ D SIOPI
+"RTN","PSJBCMA",146,0)
+ S PSJ("STC")=PSJ("ST")
+"RTN","PSJBCMA",147,0)
+ I PSJ("ST")="R"!(PSJ("ST")="C") S PSJ("STC")=$S(PSJ("SCHD")["PRN":"P",$$ONCALL(PSJ("SCHD")):"OC",$$ONE(DFN,FON,PSJ("SCHD"))="O":"O",1:"C")
+"RTN","PSJBCMA",148,0)
+ Q
+"RTN","PSJBCMA",149,0)
+TMP ;Setup ^TMP that have common fields between IV and U/D
+"RTN","PSJBCMA",150,0)
+ N A
+"RTN","PSJBCMA",151,0)
+ S PSJINX=PSJINX+1
+"RTN","PSJBCMA",152,0)
+ S PSJ("OINAME")=$$OIDF^PSJLMUT1(+PSJ("OI")) I PSJ("OINAME")["NOT FOUND" S PSJ("OINAME")=""
+"RTN","PSJBCMA",153,0)
+ S PSJ("OIDF")=$$GET1^DIQ(50.7,+PSJ("OI"),.02)
+"RTN","PSJBCMA",154,0)
+ I PSJ("OINAME")="" S PSJ("OIDF")=""
+"RTN","PSJBCMA",155,0)
+ S A=$G(^PS(51.2,+PSJ("MR"),0)),PSJ("MRABB")=$P(A,U,3),PSJ("MRNM")=$P(A,U)
+"RTN","PSJBCMA",156,0)
+ S ^TMP("PSJ",$J,PSJINX,0)=DFN_U_+ON_U_FON_U_PSJ("PREV")_U_PSJ("FOLLOW")_U_$G(PSJ("IVTYPE"))_U_$G(PSJ("INSYR"))_U_$G(PSJ("CHEMO"))_U_PSJ("CPRS")_U_$G(PSJ("RFO"))
+"RTN","PSJBCMA",157,0)
+ S ^TMP("PSJ",$J,PSJINX,1)=PSJ("MRABB")_U_PSJ("STC")_U_$G(PSJ("SCHD"))_U_PSJ("STARTDT")_U_PSJ("STOPDT")_U_PSJ("ADM")_U_PSJ("STATUS")_U_$G(PSJ("NGIVEN"))_U_$G(PSJ("ST"))_U_$G(PSJ("AUTO"))
+"RTN","PSJBCMA",158,0)
+ S ^TMP("PSJ",$J,PSJINX,1,0)=$P(A,U,8)_U_PSJ("MRNM")_U_$P(A,U,9)_U_+PSJ("MR")   ;*267 append file 51.2 ien
+"RTN","PSJBCMA",159,0)
+ S ^TMP("PSJ",$J,PSJINX,2)=PSJ("DO")_U_$G(PSJ("INFRATE"))_U_$G(PSJ("SM"))_U_$G(PSJ("HSM"))
+"RTN","PSJBCMA",160,0)
+ S ^TMP("PSJ",$J,PSJINX,3)=PSJ("OI")_U_PSJ("OINAME")_U_PSJ("OIDF")
+"RTN","PSJBCMA",161,0)
+ S ^TMP("PSJ",$J,PSJINX,4)=PSJ("SIOPI")
+"RTN","PSJBCMA",162,0)
+ S A=$$SNDTSTA^PSJHL4A(PSJ("PRI"),PSJ("SCHD"))
+"RTN","PSJBCMA",163,0)
+ S ^TMP("PSJ",$J,PSJINX,5)=$S(A=1:0,1:1)_U_PSJ("FLG")_U_PSJ("SRC")_U_PSJ("COM")
+"RTN","PSJBCMA",164,0)
+ Q
+"RTN","PSJBCMA",165,0)
+SIOPI ; Use provider comments if order is pending and there is no SI
+"RTN","PSJBCMA",166,0)
+ NEW X,Y,Z
+"RTN","PSJBCMA",167,0)
+ I FON["P",(PSJ("SIOPI")=""),$O(^PS(53.1,+ON,12,0)) D
+"RTN","PSJBCMA",168,0)
+ . F X=0:0 S X=$O(^PS(53.1,+ON,12,X)) Q:'X  S Z=$G(^(X,0)) D
+"RTN","PSJBCMA",169,0)
+ .. S Y=$L(PSJ("SIOPI"))
+"RTN","PSJBCMA",170,0)
+ .. S:Y+$L(Z)'>179 PSJ("SIOPI")=PSJ("SIOPI")_Z_""
+"RTN","PSJBCMA",171,0)
+ . I Y+$L(Z)>179 S PSJ("SIOPI")="SEE PROVIDER COMMENTS"
+"RTN","PSJBCMA",172,0)
+ Q
+"RTN","PSJBCMA",173,0)
+ENSET(X) ; expands SPECIAL INSTRUCTIONS field contained in X into Y
+"RTN","PSJBCMA",174,0)
+ N X1,X2,Y S Y=""
+"RTN","PSJBCMA",175,0)
+ F X1=1:1:$L(X," ") S X2=$P(X," ",X1) I X2]"" S Y=Y_$S($L(X2)>30:X2,'$D(^PS(51,+$O(^PS(51,"B",X2,0)),0)):X2,$P(^(0),"^",2)]""&$P(^(0),"^",4):$P(^(0),"^",2),1:X2)_" "
+"RTN","PSJBCMA",176,0)
+ S Y=$E(Y,1,$L(Y)-1)
+"RTN","PSJBCMA",177,0)
+ Q Y
+"RTN","PSJBCMA",178,0)
+ONE(DFN,ORD,SCH,START,STOP) ;Determine if order is one-time, and return schedule type
+"RTN","PSJBCMA",179,0)
+ ; Input:  DFN - patient's IEN
+"RTN","PSJBCMA",180,0)
+ ;         ORD - order number
+"RTN","PSJBCMA",181,0)
+ ;         SCH - schedule text (required)
+"RTN","PSJBCMA",182,0)
+ ;         START - order start date (optional)
+"RTN","PSJBCMA",183,0)
+ ;         STOP - order stop date (optional)
+"RTN","PSJBCMA",184,0)
+ N X,ONEFRQ,TYP,T
+"RTN","PSJBCMA",185,0)
+ I $G(PSJ("PREV")),$G(PSJ("FOLLOW")) I +PSJ("PREV")=+PSJ("FOLLOW") S (PSJ("PREV"),PSJ("FOLLOW"))=""
+"RTN","PSJBCMA",186,0)
+ ; PSJ*5*190 One-Time PRN
+"RTN","PSJBCMA",187,0)
+ I $G(SCH)="",$G(DFN),$G(ORD) D
+"RTN","PSJBCMA",188,0)
+ .I ORD["U" S SCH=$P($G(^PS(55,DFN,5,+ORD,2)),"^")
+"RTN","PSJBCMA",189,0)
+ .I ORD["V" S SCH=$P($G(^PS(55,DFN,"IV",+ORD,0)),"^",9)
+"RTN","PSJBCMA",190,0)
+ I $G(SCH)]"",$$OTPRN^PSJBCMA3(SCH)="O" Q "O"
+"RTN","PSJBCMA",191,0)
+ I $G(DFN)]"",$G(ORD)]"",ORD["U",$P(^PS(55,DFN,5,+ORD,0),"^",7)'="R" Q $P(^PS(55,DFN,5,+ORD,0),"^",7)
+"RTN","PSJBCMA",192,0)
+ I $G(SCH)="" Q ""
+"RTN","PSJBCMA",193,0)
+ ; PSJ*5*113 Determine schedule type from ^PS(51.1, not from schedule name.
+"RTN","PSJBCMA",194,0)
+ I $D(^PS(51.1,"AC","PSJ",SCH)) S X=$O(^(SCH,"")) S X=$P(^PS(51.1,X,0),"^",5) Q $S(X="D":"C",1:X)
+"RTN","PSJBCMA",195,0)
+ I $G(START)]"",$G(STOP)]"",START=STOP Q "O"
+"RTN","PSJBCMA",196,0)
+ I $$DAY(SCH) Q "C"
+"RTN","PSJBCMA",197,0)
+ Q ""
+"RTN","PSJBCMA",198,0)
+CLINIC(CL) ;
+"RTN","PSJBCMA",199,0)
+ I $P(CL,"^",2)?7N!($P(CL,"^",2)?7N1".".N) Q 1
+"RTN","PSJBCMA",200,0)
+ Q 0
+"RTN","PSJBCMA",201,0)
+CLINICS(CL) ;
+"RTN","PSJBCMA",202,0)
+ Q:'$$CLINIC(CL) 1
+"RTN","PSJBCMA",203,0)
+ Q:'$D(^PS(53.46,"B",+CL)) 1
+"RTN","PSJBCMA",204,0)
+ N A
+"RTN","PSJBCMA",205,0)
+ S A=$O(^PS(53.46,"B",+CL,"")) Q:'A 1
+"RTN","PSJBCMA",206,0)
+ Q $P(^PS(53.46,A,0),"^",4)
+"RTN","PSJBCMA",207,0)
+DAY(SCH) ;determine if this is a 'day of the week' schedule
+"RTN","PSJBCMA",208,0)
+ I $G(SCH)="" Q 0
+"RTN","PSJBCMA",209,0)
+ N D,DAY,DAYS,I,X
+"RTN","PSJBCMA",210,0)
+ S DAYS="SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY"
+"RTN","PSJBCMA",211,0)
+ F I=1:1 S D=$P(SCH,"-",I) Q:D=""  D  Q:X=0
+"RTN","PSJBCMA",212,0)
+ . S X=0 F J=1:1:7 S DAY=$P(DAYS,",",J) D  Q:X=1
+"RTN","PSJBCMA",213,0)
+ .. I D=$E(DAY,1,$L(D)) S X=1
+"RTN","PSJBCMA",214,0)
+ Q X
+"RTN","PSJBCMA",215,0)
+ ;
+"RTN","PSJBCMA",216,0)
+ONCALL(SCHD) ; Check if a schedule is type On Call (all "APPSJ" schedules with a given name must have the same schedule type)
+"RTN","PSJBCMA",217,0)
+ N NXT,SCHARR,OCCHK
+"RTN","PSJBCMA",218,0)
+ S OCCHK=0
+"RTN","PSJBCMA",219,0)
+ Q:$G(SCHD)="" OCCHK
+"RTN","PSJBCMA",220,0)
+ Q:'$D(^PS(51.1,"APPSJ",SCHD)) OCCHK
+"RTN","PSJBCMA",221,0)
+ S NXT=0 F  S NXT=$O(^PS(51.1,"APPSJ",SCHD,NXT)) Q:'NXT  S TYP=$P($G(^PS(51.1,+NXT,0)),"^",5) S:TYP]"" SCHARR(TYP)=""
+"RTN","PSJBCMA",222,0)
+ I '$D(SCHARR("OC")) S OCCHK=0 Q OCCHK
+"RTN","PSJBCMA",223,0)
+ I $O(SCHARR("OC"))]""!($O(SCHARR("OC"),-1)]"") S OCCHK=0 Q OCCHK
+"RTN","PSJBCMA",224,0)
+ I $D(SCHARR("OC")) S OCCHK=1
+"RTN","PSJBCMA",225,0)
+ Q OCCHK
+"RTN","PSJBCMA",226,0)
+ ;
+"RTN","PSJBCMA",227,0)
+HAZARDS(HAZIEN) ;
+"RTN","PSJBCMA",228,0)
+ N VAPROD,PSNDF
+"RTN","PSJBCMA",229,0)
+ S PSNDF=$P($G(^PSDRUG(HAZIEN,"ND")),"^",3)
+"RTN","PSJBCMA",230,0)
+ D GETS^DIQ(50.68,PSNDF,"**","IE","VAPROD")
+"RTN","PSJBCMA",231,0)
+ S HAZTOHAN=$G(VAPROD(50.68,PSNDF_",",101,"I"))
+"RTN","PSJBCMA",232,0)
+ S HAZTODIS=$G(VAPROD(50.68,PSNDF_",",102,"I"))
+"RTN","PSJBCMA",233,0)
+ S EPACODE=$G(VAPROD(50.68,PSNDF_",",103,"E"))
+"RTN","PSJBCMA",234,0)
+ S WASTESRT=$G(VAPROD(50.68,PSNDF_",",104,"E"))
+"RTN","PSJBCMA",235,0)
+ S DOTSHIP=$G(VAPROD(50.68,PSNDF_",",105,"E"))
+"RTN","PSJBCMA",236,0)
+ Q
+"RTN","PSJBCMA1")
+0^2^B105891936
+"RTN","PSJBCMA1",1,0)
+PSJBCMA1 ;BIR/MV-RETURN INFORMATION FOR AN ORDER ;2/27/12 4:51pm
+"RTN","PSJBCMA1",2,0)
+ ;;5.0;INPATIENT MEDICATIONS ;**32,41,46,57,63,66,56,58,81,91,104,186,159,173,253,267**;16 DEC 97;Build 2
+"RTN","PSJBCMA1",3,0)
+ ;
+"RTN","PSJBCMA1",4,0)
+ ; Reference to ^PS(50.7 is supported by DBIA 2180.
+"RTN","PSJBCMA1",5,0)
+ ; Reference to ^PS(51.2 is supported by DBIA 2178.
+"RTN","PSJBCMA1",6,0)
+ ; Reference to ^PS(52.6 is supported by DBIA 1231.
+"RTN","PSJBCMA1",7,0)
+ ; Reference to ^PS(52.7 is supported by DBIA 2173.
+"RTN","PSJBCMA1",8,0)
+ ; Reference to ^PS(55 is supported by DBIA 2191.
+"RTN","PSJBCMA1",9,0)
+ ; Reference to ^PSDRUG is supported by DBIA 2192.
+"RTN","PSJBCMA1",10,0)
+ ; Reference to ^DIC is supported by DBIA 10006.
+"RTN","PSJBCMA1",11,0)
+ ; Reference to ^DIQ is supported by DBIA 2056.
+"RTN","PSJBCMA1",12,0)
+ ; Usage of this routine by BCMA is supported by DBIA 2829.
+"RTN","PSJBCMA1",13,0)
+ ;
+"RTN","PSJBCMA1",14,0)
+ ;*267 add Standard Rtoue Name from file 51.2 field 10
+"RTN","PSJBCMA1",15,0)
+ ;
+"RTN","PSJBCMA1",16,0)
+EN(DFN,ON,PSJTMP)         ; return detail data for Inpatient Meds.
+"RTN","PSJBCMA1",17,0)
+ NEW F,A
+"RTN","PSJBCMA1",18,0)
+ S PSJTMP=$S($G(PSJTMP)=1:"PSJ1",1:"PSJ")
+"RTN","PSJBCMA1",19,0)
+ I $G(ON)["U" S F="^PS(55,+$G(DFN),5,+ON" D:$D(@(F_")")) UDVAR
+"RTN","PSJBCMA1",20,0)
+ I $G(ON)["V" S F="^PS(55,+$G(DFN),""IV"",+ON" D:$D(@(F_")")) IVVAR
+"RTN","PSJBCMA1",21,0)
+ I $G(ON)["P" S F="^PS(53.1,+ON",X=$P($G(^PS(53.1,+ON,0)),U,4) D:$D(@(F_")")) @$S(X="F":"IVVAR",1:"UDVAR")
+"RTN","PSJBCMA1",22,0)
+ I '$D(^TMP(PSJTMP,$J,0)) S ^(0)=-1
+"RTN","PSJBCMA1",23,0)
+ Q
+"RTN","PSJBCMA1",24,0)
+ ;
+"RTN","PSJBCMA1",25,0)
+UDVAR ;* Set ^TMP for Unit dose & Pending orders
+"RTN","PSJBCMA1",26,0)
+ NEW CNT,X
+"RTN","PSJBCMA1",27,0)
+ D UDPEND
+"RTN","PSJBCMA1",28,0)
+ D TMP
+"RTN","PSJBCMA1",29,0)
+ ;* Setup Dispense drug for ^TMP
+"RTN","PSJBCMA1",30,0)
+ S CNT=0 D NOW^%DTC
+"RTN","PSJBCMA1",31,0)
+ F X=0:0 S X=$O(@(F_",1,"_X_")")) Q:'X  D
+"RTN","PSJBCMA1",32,0)
+ . S PSJDD=@(F_",1,"_X_",0)") I $P(PSJDD,"^",3)]"",$P(PSJDD,"^",3)'>% Q
+"RTN","PSJBCMA1",33,0)
+ . S CNT=CNT+1
+"RTN","PSJBCMA1",34,0)
+ . D HAZARDS(+PSJDD)
+"RTN","PSJBCMA1",35,0)
+ . S ^TMP(PSJTMP,$J,700,CNT,0)=+PSJDD_U_$P($G(^PSDRUG(+PSJDD,0)),U)_U_$S((ON["U")&($P(PSJDD,U,2)=""):1,(ON["U")&($E($P(PSJDD,U,2))="."):"0"_$P(PSJDD,U,2),1:$P(PSJDD,U,2))_U_$P(PSJDD,U,3)_U_U_HAZTOHAN_U_HAZTODIS_U_EPACODE_","_WASTESRT_","_DOTSHIP
+"RTN","PSJBCMA1",36,0)
+ S:CNT ^TMP(PSJTMP,$J,700,0)=CNT
+"RTN","PSJBCMA1",37,0)
+ K PSJ,PSJDD,PSJDN
+"RTN","PSJBCMA1",38,0)
+ Q
+"RTN","PSJBCMA1",39,0)
+IVVAR ;* Set variables for IV and pending orders
+"RTN","PSJBCMA1",40,0)
+ NEW CNT,DN,ND,X,Y
+"RTN","PSJBCMA1",41,0)
+ I ON["P" D UDPEND S PSJ("INFRATE")=$P($G(^PS(53.1,ON,8)),U,5)
+"RTN","PSJBCMA1",42,0)
+ I ON["V" D
+"RTN","PSJBCMA1",43,0)
+ . S X=$G(^PS(55,DFN,"IV",+ON,0))
+"RTN","PSJBCMA1",44,0)
+ . S PSJ("STARTDT")=$P(X,U,2),PSJ("STOPDT")=$P(X,U,3)
+"RTN","PSJBCMA1",45,0)
+ . S PSJ("PROVIDER")=$P(X,U,6)
+"RTN","PSJBCMA1",46,0)
+ . S PSJ("INFRATE")=$P(X,U,8),PSJ("SCHD")=$P(X,U,9)
+"RTN","PSJBCMA1",47,0)
+ . S PSJ("ADM")=$P(X,U,11),PSJ("AUTO")=$P(X,U,12),PSJ("STATUS")=$P(X,U,17)
+"RTN","PSJBCMA1",48,0)
+ . S PSJ("FREQ")=$P(X,U,15),PSJ("IVTYPE")=$P(X,U,4)
+"RTN","PSJBCMA1",49,0)
+ . S PSJ("INSYR")=$P(X,U,5),PSJ("CPRS")=$P(X,U,21),PSJ("CHEMO")=$P(X,U,23)
+"RTN","PSJBCMA1",50,0)
+ . S X=$G(^PS(55,DFN,"IV",+ON,.2))
+"RTN","PSJBCMA1",51,0)
+ . S PSJ("OI")=$P(X,U),PSJ("DO")="",PSJ("PRI")=$P(X,U,4),PSJ("FLG")=$P(X,U,7),PSJ("COM")="",PSJ("SRC")=""
+"RTN","PSJBCMA1",52,0)
+ . I PSJ("FLG") D
+"RTN","PSJBCMA1",53,0)
+ .. N S1,A,B,C
+"RTN","PSJBCMA1",54,0)
+ .. S S1="" F  S S1=$O(^PS(55,DFN,"IV",+ON,"A",S1),-1) Q:'S1  S C=$G(^(S1,0)) S A=$P(C,U,2),B=$P(C,U,4) Q:A="UG"  D  I PSJ("SRC")]"" Q
+"RTN","PSJBCMA1",55,0)
+ ... Q:A'="G"
+"RTN","PSJBCMA1",56,0)
+ ... S PSJ("SRC")=$S(B["FLAGGED BY PHARM":"PHARMACIST",B["FLAGGED BY CPRS":"CPRS",1:"")
+"RTN","PSJBCMA1",57,0)
+ ... S PSJ("COM")=$P(B," ",4,99)
+"RTN","PSJBCMA1",58,0)
+ . S PSJ("MR")=$P(X,U,3)
+"RTN","PSJBCMA1",59,0)
+ . S X=$G(^PS(55,DFN,"IV",+ON,4))
+"RTN","PSJBCMA1",60,0)
+ . S PSJ("NURSE")=$P(X,U)
+"RTN","PSJBCMA1",61,0)
+ . S PSJ("PHARM")=$P(X,U,4)
+"RTN","PSJBCMA1",62,0)
+ . S X=$G(^PS(55,DFN,"IV",+ON,2))
+"RTN","PSJBCMA1",63,0)
+ . S PSJ("LDT")=$P(X,U)
+"RTN","PSJBCMA1",64,0)
+ . S PSJ("PREV")=$P(X,U,5),PSJ("FOLLOW")=$P(X,U,6)
+"RTN","PSJBCMA1",65,0)
+ . S PSJ("SIOPI")=$S($P($G(^PS(55,DFN,"IV",+ON,3)),"^",2)&($P($G(^PS(55,DFN,"IV",+ON,3)),"^")'=""):"!",1:"")_$P($G(^(3)),"^")
+"RTN","PSJBCMA1",66,0)
+ . N SCHD S SCHD=PSJ("SCHD")  ; SCHD var required to shorten $Select
+"RTN","PSJBCMA1",67,0)
+ . S PSJ("STC")=$$ONE^PSJBCMA(DFN,ON,SCHD,PSJ("STARTDT"),PSJ("STOPDT"))
+"RTN","PSJBCMA1",68,0)
+ . I PSJ("STC")=""!(PSJ("STC")="C") S PSJ("STC")=$S(SCHD["PRN":"P",1:"C")
+"RTN","PSJBCMA1",69,0)
+ . I PSJ("STC")="C" S PSJ("STC")=$S($$ONCALL^PSJBCMA(PSJ("SCHD")):"OC",1:"C")
+"RTN","PSJBCMA1",70,0)
+ . S PSJ("NURSE")=$P($G(^PS(55,DFN,"IV",+ON,4)),U)
+"RTN","PSJBCMA1",71,0)
+ D TMP
+"RTN","PSJBCMA1",72,0)
+ S X=$P($G(^PS(55,DFN,"IV",+ON,1)),U) S:X]"" ^TMP(PSJTMP,$J,6)=X
+"RTN","PSJBCMA1",73,0)
+ S CNT=0
+"RTN","PSJBCMA1",74,0)
+ F X=0:0 S X=$O(@(F_",""AD"","_X_")")) Q:'X  D
+"RTN","PSJBCMA1",75,0)
+ . S ND=$G(@(F_",""AD"","_X_",0)")),DN=$G(^PS(52.6,+ND,0)) ;,AOINAME=$$OIDF^PSJLMUT1(+$P(DN,U,11)) I AOINAME["NOTFOUND" S AOINAME=""
+"RTN","PSJBCMA1",76,0)
+ . D HAZARDS($P(DN,"^",2))
+"RTN","PSJBCMA1",77,0)
+ . ;S CNT=CNT+1,^TMP(PSJTMP,$J,850,CNT,0)=+ND_U_$P(DN,U)_U_$P(ND,U,2)_U_$P(ND,U,3) ;_U_U_$P(DN,U,11)_U_AOINAME_U_AOIDF
+"RTN","PSJBCMA1",78,0)
+ . S CNT=CNT+1,^TMP(PSJTMP,$J,850,CNT,0)=+ND_U_$P(DN,U)_U_$P(ND,U,2)_U_$P(ND,U,3)_U_U_HAZTOHAN_U_HAZTODIS_U_EPACODE_","_WASTESRT_","_DOTSHIP
+"RTN","PSJBCMA1",79,0)
+ S:CNT ^TMP(PSJTMP,$J,850,0)=CNT,CNT=0
+"RTN","PSJBCMA1",80,0)
+ F X=0:0 S X=$O(@(F_",""SOL"","_X_")")) Q:'X  D
+"RTN","PSJBCMA1",81,0)
+ . S ND=$G(@(F_",""SOL"","_X_",0)")),DN=$G(^PS(52.7,+ND,0)) ;,SOINAME=$$OIDF^PSJLMUT1(+$P(DN,U,11)) I SOINAME["NOTFOUND" S SOINAME=""
+"RTN","PSJBCMA1",82,0)
+ . D HAZARDS($P(DN,"^",2))
+"RTN","PSJBCMA1",83,0)
+ . ;S CNT=CNT+1,^TMP(PSJTMP,$J,950,CNT,0)=+ND_U_$P(DN,U)_U_$P(ND,U,2)_U_$P(DN,U,4) ;_U_U_$P(DN,U,11)_U_SOINAME_U_SOIDF
+"RTN","PSJBCMA1",84,0)
+ . S CNT=CNT+1,^TMP(PSJTMP,$J,950,CNT,0)=+ND_U_$P(DN,U)_U_$P(ND,U,2)_U_$P(DN,U,4)_U_U_HAZTOHAN_U_HAZTODIS_U_EPACODE_","_WASTESRT_","_DOTSHIP
+"RTN","PSJBCMA1",85,0)
+ S:CNT ^TMP(PSJTMP,$J,950,0)=CNT
+"RTN","PSJBCMA1",86,0)
+ K PSJ
+"RTN","PSJBCMA1",87,0)
+ S X1=0
+"RTN","PSJBCMA1",88,0)
+ F  S X1=$O(^PS(55,DFN,"IVBCMA",X1)) Q:'X1  D
+"RTN","PSJBCMA1",89,0)
+ . S XX=$G(^PS(55,DFN,"IVBCMA",X1,0)) Q:$P(XX,"^",2)'=+ON  S PSJBCID=$P(XX,"^"),X2=0
+"RTN","PSJBCMA1",90,0)
+ . F I=1:1 S X2=$O(^PS(55,DFN,"IVBCMA",X1,"AD",X2)) Q:'X2  S X=^(X2,0),^TMP(PSJTMP,$J,800,PSJBCID,I)=+X_"^"_$S($D(^PS(52.6,+X,0)):$P(^(0),"^"),1:"*****")_"^"_$P(X,"^",2,99)
+"RTN","PSJBCMA1",91,0)
+ . I I>1 S ^TMP(PSJTMP,$J,800,PSJBCID,0)=I-1
+"RTN","PSJBCMA1",92,0)
+ . S X2=0
+"RTN","PSJBCMA1",93,0)
+ . F I=1:1 S X2=$O(^PS(55,DFN,"IVBCMA",X1,"SOL",X2)) Q:'X2  S X=^(X2,0),^TMP(PSJTMP,$J,900,PSJBCID,I)=$P(X,"^")_"^"_$S($D(^PS(52.7,$P(X,"^"),0)):$P(^(0),"^"),1:"*****")_"^"_$P(X,"^",2,99)
+"RTN","PSJBCMA1",94,0)
+ . I I>1 S ^TMP(PSJTMP,$J,900,PSJBCID,0)=I-1
+"RTN","PSJBCMA1",95,0)
+ . S ^TMP(PSJTMP,$J,1000,PSJBCID)=$P(XX,"^",6)_"^"_$P(XX,"^",8)_"^"_$P(XX,"^",7)
+"RTN","PSJBCMA1",96,0)
+ Q
+"RTN","PSJBCMA1",97,0)
+UDPEND ;
+"RTN","PSJBCMA1",98,0)
+ S X=$G(@(F_",0)"))
+"RTN","PSJBCMA1",99,0)
+ S PSJ("PROVIDER")=$P(X,U,2)
+"RTN","PSJBCMA1",100,0)
+ S PSJ("MR")=$P(X,U,3),PSJ("SM")=$P(X,U,5),PSJ("HSM")=$P(X,U,6)
+"RTN","PSJBCMA1",101,0)
+ S PSJ("ST")=$P(X,U,7),PSJ("STATUS")=$P(X,U,9)
+"RTN","PSJBCMA1",102,0)
+ S PSJ("LDT")=$P(X,U,16)
+"RTN","PSJBCMA1",103,0)
+ S:ON["U" PSJ("NGIVEN")=$P(X,U,22)
+"RTN","PSJBCMA1",104,0)
+ S PSJ("SMYN")=$S(+PSJ("SM"):"YES",1:"NO")
+"RTN","PSJBCMA1",105,0)
+ S PSJ("HSMYN")=$S(+PSJ("HSM"):"YES",1:"NO")
+"RTN","PSJBCMA1",106,0)
+ S PSJ("CPRS")=$P(X,U,21),PSJ("PREV")=$P(X,U,25),PSJ("FOLLOW")=$P(X,U,26)
+"RTN","PSJBCMA1",107,0)
+ S X=$G(@(F_",.2)"))
+"RTN","PSJBCMA1",108,0)
+ S PSJ("OI")=$P(X,U),PSJ("DO")=$P(X,U,2),PSJ("PRI")=$P(X,U,4),PSJ("FLG")=$P(X,U,7),PSJ("COM")="",PSJ("SRC")=""
+"RTN","PSJBCMA1",109,0)
+ I PSJ("FLG") D
+"RTN","PSJBCMA1",110,0)
+ . N S1,A,B,C
+"RTN","PSJBCMA1",111,0)
+ . S S1="" F  S S1=$O(^PS(55,DFN,5,+ON,9,S1),-1) Q:'S1  S C=$G(^(S1,0)) S A=$P(C,U,3),B=$P(C,U,4) Q:A=7010!(A=7030)  D  I PSJ("SRC")]"" Q
+"RTN","PSJBCMA1",112,0)
+ .. Q:A'=7000&(A'=7020)
+"RTN","PSJBCMA1",113,0)
+ .. S PSJ("SRC")=$S(A=7000:"PHARMACIST",A=7020:"CPRS",1:"")
+"RTN","PSJBCMA1",114,0)
+ .. S PSJ("COM")=$G(@(F_",13)"))
+"RTN","PSJBCMA1",115,0)
+ S X=$G(@(F_",2)"))
+"RTN","PSJBCMA1",116,0)
+ S PSJ("SCHD")=$P(X,U),PSJ("STARTDT")=$P(X,U,2)
+"RTN","PSJBCMA1",117,0)
+ S PSJ("STC")=PSJ("ST")
+"RTN","PSJBCMA1",118,0)
+ I PSJ("ST")="R"!(PSJ("ST")="C") S PSJ("STC")=$S(PSJ("SCHD")["PRN":"P",$$ONCALL^PSJBCMA(PSJ("SCHD")):"OC",$$ONE^PSJBCMA(DFN,ON,PSJ("SCHD"))="O":"O",1:"C")
+"RTN","PSJBCMA1",119,0)
+ I PSJ("STC")="O" S PSJ("ST")="O"
+"RTN","PSJBCMA1",120,0)
+ S PSJ("STOPDT")=$P(X,U,4),PSJ("ADM")=$P(X,U,5)
+"RTN","PSJBCMA1",121,0)
+ S PSJ("FREQ")=$P(X,U,6)
+"RTN","PSJBCMA1",122,0)
+ S X=$G(@(F_",4)"))
+"RTN","PSJBCMA1",123,0)
+ S PSJ("NURSE")=$P(X,U),PSJ("AUTO")=$P(X,U,11)
+"RTN","PSJBCMA1",124,0)
+ S:ON["U" PSJ("PHARM")=+$P(X,U,3)
+"RTN","PSJBCMA1",125,0)
+ ; the naked reference on the line below refers to the full reference created by indirect reference to F, where F may refer to ^PS(53.1 or the IV or UD multiple ^PS(55
+"RTN","PSJBCMA1",126,0)
+ S PSJ("SIOPI")=$S($P($G(@(F_",6)")),"^",2)&($P($G(@(F_",6)")),"^")'=""):"!",1:"")_$$ENSET^PSJBCMA($P($G(^(6)),"^"))
+"RTN","PSJBCMA1",127,0)
+ NEW FON S FON=ON D SIOPI^PSJBCMA
+"RTN","PSJBCMA1",128,0)
+ Q
+"RTN","PSJBCMA1",129,0)
+ ;
+"RTN","PSJBCMA1",130,0)
+TMP ;* Setup ^TMP that have common fields between IV and U/D
+"RTN","PSJBCMA1",131,0)
+ D NAME(PSJ("PROVIDER"),.PSJNAME,"","")
+"RTN","PSJBCMA1",132,0)
+ S PSJ("PRONAME")=PSJNAME K PSJNAME
+"RTN","PSJBCMA1",133,0)
+ I $D(PSJ("PHARM")) D
+"RTN","PSJBCMA1",134,0)
+ . D NAME(PSJ("PHARM"),.PSJNAME,.PSJINIT,.PSJPIEN)
+"RTN","PSJBCMA1",135,0)
+ . S PSJ("PHARM")=PSJPIEN,PSJ("PNAME")=PSJNAME,PSJ("PINIT")=PSJINIT K PSJNAME,PSJINIT,PSJPIEN
+"RTN","PSJBCMA1",136,0)
+ I +PSJ("NURSE") D
+"RTN","PSJBCMA1",137,0)
+ . D NAME(PSJ("NURSE"),.PSJNAME,.PSJINIT,"")
+"RTN","PSJBCMA1",138,0)
+ . S PSJ("NNAME")=PSJNAME,PSJ("NINIT")=PSJINIT K PSJNAME,PSJINIT
+"RTN","PSJBCMA1",139,0)
+ S A=$G(^PS(51.2,+PSJ("MR"),0)),PSJ("MRNM")=$P(A,U),PSJ("MRABB")=$P(A,U,3),PSJ("MRPIJ")=$P(A,U,8),PSJ("MRIVP")=$P(A,U,9)
+"RTN","PSJBCMA1",140,0)
+ S PSJ("MRSTDRNM")=$$GET1^DIQ(51.2,+PSJ("MR"),10)  ;*267 Std Rte name
+"RTN","PSJBCMA1",141,0)
+ S PSJ("OINAME")=$$OIDF^PSJLMUT1(+PSJ("OI")) I PSJ("OINAME")["NOT FOUND" S PSJ("OINAME")=""
+"RTN","PSJBCMA1",142,0)
+ S PSJ("OIDF")=$$GET1^DIQ(50.7,+PSJ("OI"),.02)
+"RTN","PSJBCMA1",143,0)
+ I PSJ("OINAME")="" S PSJ("OIDF")=""
+"RTN","PSJBCMA1",144,0)
+ S PSJ("LDTN")=$$DATE(PSJ("LDT"))
+"RTN","PSJBCMA1",145,0)
+ S PSJ("STARTDTN")=$$DATE(PSJ("STARTDT"))
+"RTN","PSJBCMA1",146,0)
+ S PSJ("STOPDTN")=$$DATE(PSJ("STOPDT"))
+"RTN","PSJBCMA1",147,0)
+ S X=$S(ON["V":PSJ("STC"),1:PSJ("ST"))
+"RTN","PSJBCMA1",148,0)
+ S PSJ("STNAME")=$S(X="C":"CONTINUOUS",X="O":"ONE TIME",X="P":"PRN",X="R":"FILL ON REQUEST",X="OC":"ON CALL",1:"NOT FOUND")
+"RTN","PSJBCMA1",149,0)
+ ;
+"RTN","PSJBCMA1",150,0)
+ S ^TMP(PSJTMP,$J,0)=DFN_U_+ON_U_ON_U_PSJ("PREV")_U_PSJ("FOLLOW")_U_$G(PSJ("IVTYPE"))_U_$G(PSJ("INSYR"))_U_$G(PSJ("CHEMO"))_U_PSJ("CPRS")
+"RTN","PSJBCMA1",151,0)
+ S ^TMP(PSJTMP,$J,1)=PSJ("PROVIDER")_U_PSJ("PRONAME")_U_PSJ("MR")_U_PSJ("MRABB")_U_$G(PSJ("SM"))_U_$G(PSJ("SMYN"))_U_$G(PSJ("HSM"))_U_$G(PSJ("HSMYN"))_U_$G(PSJ("NGIVEN"))_U_PSJ("STATUS")
+"RTN","PSJBCMA1",152,0)
+ S ^TMP(PSJTMP,$J,1)=^TMP(PSJTMP,$J,1)_U_$$STATUS(ON,PSJ("STATUS"))_U_$G(PSJ("AUTO"))_U_$G(PSJ("MRNM"))_U_PSJ("MRSTDRNM") ;*267 Std Rte nam
+"RTN","PSJBCMA1",153,0)
+ S ^TMP(PSJTMP,$J,1,0)=PSJ("MRPIJ")_U_$G(PSJ("MRIVP"))
+"RTN","PSJBCMA1",154,0)
+ S ^TMP(PSJTMP,$J,2)=PSJ("OI")_U_PSJ("OINAME")_U_PSJ("DO")_U_$G(PSJ("INFRATE"))_U_$G(PSJ("SCHD"))_U_PSJ("OIDF")
+"RTN","PSJBCMA1",155,0)
+ S ^TMP(PSJTMP,$J,3)=PSJ("SIOPI")
+"RTN","PSJBCMA1",156,0)
+ S ^TMP(PSJTMP,$J,4)=PSJ("STC")_U_$G(PSJ("STNAME"))_U_PSJ("LDT")_U_PSJ("LDTN")_U_PSJ("STARTDT")_U_PSJ("STARTDTN")_U_PSJ("STOPDT")_U_PSJ("STOPDTN")_U_$$ADMIN(PSJ("ADM"))_U_$G(PSJ("ST"))_U_$G(PSJ("FREQ"))
+"RTN","PSJBCMA1",157,0)
+ S ^TMP(PSJTMP,$J,5)=$G(PSJ("NURSE"))_U_$G(PSJ("NNAME"))_U_$G(PSJ("NINIT"))_U_$G(PSJ("PHARM"))_U_$G(PSJ("PNAME"))_U_$G(PSJ("PINIT"))
+"RTN","PSJBCMA1",158,0)
+ S A=$$SNDTSTA^PSJHL4A(PSJ("PRI"),PSJ("SCHD"))
+"RTN","PSJBCMA1",159,0)
+ S ^TMP(PSJTMP,$J,7)=$S(A=1:0,1:1)_U_PSJ("FLG")_U_PSJ("SRC")_U_PSJ("COM")
+"RTN","PSJBCMA1",160,0)
+ Q
+"RTN","PSJBCMA1",161,0)
+ ;
+"RTN","PSJBCMA1",162,0)
+NAME(X,NAME,INIT,IEN)  ;Lookup in ^VA(200.
+"RTN","PSJBCMA1",163,0)
+ ;X = IEN or Name in ^VA(200
+"RTN","PSJBCMA1",164,0)
+ ;IEN = Return IEN in ^VA(200
+"RTN","PSJBCMA1",165,0)
+ ;NAME = Return the name in 200
+"RTN","PSJBCMA1",166,0)
+ ;INIT = Return the initial
+"RTN","PSJBCMA1",167,0)
+ NEW DIC,Y
+"RTN","PSJBCMA1",168,0)
+ S DIC="^VA(200,",DIC(0)="NZ" D ^DIC
+"RTN","PSJBCMA1",169,0)
+ S IEN=+Y
+"RTN","PSJBCMA1",170,0)
+ S NAME=$G(Y(0,0))
+"RTN","PSJBCMA1",171,0)
+ S INIT=$P($G(Y(0)),U,2)
+"RTN","PSJBCMA1",172,0)
+ Q
+"RTN","PSJBCMA1",173,0)
+ ;
+"RTN","PSJBCMA1",174,0)
+DATE(Y) ; FM internal date/time to user readable, 4 digit year
+"RTN","PSJBCMA1",175,0)
+ ; Y - date in FileMan internal format
+"RTN","PSJBCMA1",176,0)
+ I $G(Y) S Y=Y_$E(".",Y'[".")_"0000" Q $E(Y,4,5)_"/"_$E(Y,6,7)_"/"_($E(Y,1,3)+1700)_"  "_$E(Y,9,10)_":"_$E(Y,11,12)
+"RTN","PSJBCMA1",177,0)
+ Q "********"
+"RTN","PSJBCMA1",178,0)
+ ;
+"RTN","PSJBCMA1",179,0)
+STATUS(ON,X)          ;
+"RTN","PSJBCMA1",180,0)
+ ; ON = IEN_"I/U/P"
+"RTN","PSJBCMA1",181,0)
+ ; X  = STATUS
+"RTN","PSJBCMA1",182,0)
+ I X="P" Q $S(ON["P":"PENDING",ON["V":"PURGE",1:"NOT FOUND")
+"RTN","PSJBCMA1",183,0)
+ Q $S(X="A":"ACTIVE",X="D":"DISCONTINUED",X="E":"EXPIRED",X="H":"HOLD",X="R":"RENEWED",X="RE":"REINSTATED",X="N":"NON-VERFIED",X="DE":"DISCONTINUED (EDIT)",X="O":"ON CALL",1:"NOT FOUND")
+"RTN","PSJBCMA1",184,0)
+ ;
+"RTN","PSJBCMA1",185,0)
+ADMIN(X) ;
+"RTN","PSJBCMA1",186,0)
+ NEW Y,PSJADM,PSJX S PSJADM=""
+"RTN","PSJBCMA1",187,0)
+ I X="" Q ""
+"RTN","PSJBCMA1",188,0)
+ F Y=1:1:$L(X,"-") S PSJX=$E($P(X,"-",Y)_"0000",1,4) D
+"RTN","PSJBCMA1",189,0)
+ . S PSJADM=PSJADM_$S(PSJADM]"":"-",1:"")_PSJX
+"RTN","PSJBCMA1",190,0)
+ Q PSJADM
+"RTN","PSJBCMA1",191,0)
+ ;
+"RTN","PSJBCMA1",192,0)
+MVOPIAL(DFN,PSJI1,PSJI2) ; Move Other Print Info Activity log entries from NV order to Active order, during Verification
+"RTN","PSJBCMA1",193,0)
+ Q:'$G(DFN)!'$G(PSJI1)!'$G(PSJI2)  Q:'$D(^PS(55,DFN,"IV",+PSJI2,0))
+"RTN","PSJBCMA1",194,0)
+ I PSJI1["P",PSJI2["V" N AL,ALND,PNDND0,TXTLN,TXTCNT S AL=0,ALND=0 F  S AL=$O(^PS(53.1,+PSJI1,"A",AL)) Q:'AL  I ^(AL,0)["OTHER PRINT INFO" D
+"RTN","PSJBCMA1",195,0)
+ .Q:'$D(^PS(53.1,+PSJI1,"A",AL,1,0))  ; Don't retain activity log entry if no text
+"RTN","PSJBCMA1",196,0)
+ .S PNDND0=$G(^PS(53.1,+PSJI1,"A",AL,0)) N USER,NAME S USER=$P(PNDND0,"^",2) D NAME^PSGSICH(USER,.NAME)
+"RTN","PSJBCMA1",197,0)
+ .N AL2 S AL2=$O(^PS(55,DFN,"IV",+PSJI2,"A"," "),-1)+1 N OPILIN S OPILIN=+$O(^PS(53.1,+PSJI1,"A",AL,1,""),-1)
+"RTN","PSJBCMA1",198,0)
+ .S ^PS(55,DFN,"IV",+PSJI2,"A",AL2,0)=AL_"^E^"_NAME_"^^"_$P(PNDND0,"^")_"^"_USER,^PS(55,DFN,"IV",+PSJI2,"A",AL2,1,0)="^55.151^1^1"
+"RTN","PSJBCMA1",199,0)
+ .S ^PS(55,DFN,"IV",+PSJI2,"A",AL2,1,1,0)="OTHER PRINT INFO"
+"RTN","PSJBCMA1",200,0)
+ .S TXTLN=0 F TXTCNT=0:1 S TXTLN=$O(^PS(53.1,+PSJI1,"A",AL,1,TXTLN)) Q:'TXTLN  D
+"RTN","PSJBCMA1",201,0)
+ ..S ^PS(55,DFN,"IV",+PSJI2,"A",AL2,2,TXTLN,0)=^PS(53.1,+PSJI1,"A",AL,1,TXTLN,0)
+"RTN","PSJBCMA1",202,0)
+ .I $G(TXTCNT) S ^PS(55,DFN,"IV",+PSJI2,"A",AL2,2,0)="^^"_+$G(TXTCNT)_"^"_$G(TXTCNT)_"^"_+$G(^PS(53.1,+PSJI1,"A",AL,0)) D
+"RTN","PSJBCMA1",203,0)
+ ..S ^PS(55,DFN,"IV",+PSJI2,"A",AL2,1,1,0)="OTHER PRINT INFO"
+"RTN","PSJBCMA1",204,0)
+ Q
+"RTN","PSJBCMA1",205,0)
+ ;
+"RTN","PSJBCMA1",206,0)
+OPIWARN(AFTER) ; Warn user about OPI not printing on IV labels
+"RTN","PSJBCMA1",207,0)
+ N DIR S DIR=""
+"RTN","PSJBCMA1",208,0)
+ N PSJSTARZ S $P(PSJSTARZ,"*",69)="*" W !!?5,$E(PSJSTARZ,1,29)," WARNING ",$E(PSJSTARZ,1,31)
+"RTN","PSJBCMA1",209,0)
+ W !?5,"**",$S(AFTER:"       ",1:"      If "),"OTHER PRINT INFO exceeds one line of 60 characters"_$S(AFTER:"!       **",1:",     **")
+"RTN","PSJBCMA1",210,0)
+ W !?5,"**  'Instructions too long. See Order View or BCMA for full text.' **"
+"RTN","PSJBCMA1",211,0)
+ W !?5,"**      will print on the IV label instead of the full text.       **",!?5,PSJSTARZ
+"RTN","PSJBCMA1",212,0)
+ W !! D PAUSE^VALM1
+"RTN","PSJBCMA1",213,0)
+ Q
+"RTN","PSJBCMA1",214,0)
+ ;
+"RTN","PSJBCMA1",215,0)
+HAZARDS(HAZIEN) ;
+"RTN","PSJBCMA1",216,0)
+ N VAPROD,PSNDF
+"RTN","PSJBCMA1",217,0)
+ S PSNDF=$P($G(^PSDRUG(HAZIEN,"ND")),"^",3)
+"RTN","PSJBCMA1",218,0)
+ D GETS^DIQ(50.68,PSNDF,"**","IE","VAPROD")
+"RTN","PSJBCMA1",219,0)
+ S HAZTOHAN=$G(VAPROD(50.68,PSNDF_",",101,"I"))
+"RTN","PSJBCMA1",220,0)
+ S HAZTODIS=$G(VAPROD(50.68,PSNDF_",",102,"I"))
+"RTN","PSJBCMA1",221,0)
+ S EPACODE=$G(VAPROD(50.68,PSNDF_",",103,"E"))
+"RTN","PSJBCMA1",222,0)
+ S WASTESRT=$G(VAPROD(50.68,PSNDF_",",104,"E"))
+"RTN","PSJBCMA1",223,0)
+ S DOTSHIP=$G(VAPROD(50.68,PSNDF_",",105,"E"))
+"RTN","PSJBCMA1",224,0)
+ Q
+"VER")
+8.0^22.0
+**END**
+**END**
